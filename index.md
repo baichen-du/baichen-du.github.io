@@ -105,6 +105,7 @@ layout: homepage
   <br>
   PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
 
+<!---<br>
 ## Teaching Experience
 
 **The University of Hong Kong**
@@ -113,6 +114,7 @@ layout: homepage
   <em> Teaching Assistant </em> to [Dr. Haohan Chen](https://haohanchen.github.io/)
   <br>
   Responsible for delivering weekly one-hour tutorial sessions. Scheduled tutorials: Introduction to R, R Basics (Syntax, Data types, Data structure, Operators, Control flow, Print, Pipe, Customized function), StringR, Regular Expression, Web Data Extraction (Indexing, Retrieving, Parsing), Final recap.
+--->
 
 ## Honors, Awards, Grants
 
