@@ -23,10 +23,9 @@ layout: homepage
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>First Honor Distinction</em>(expected), GPA: 3.94/4.3, GPA of Linguistics: 4.08/4.3
 
-<!---
-- [Spring 2023]**University of California** (campus to be decided)
+- [Spring 2023]**University of California, Berkeley**
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HKU Worldwide Undergraduate Student Exchange Programme.--->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate Visiting Student
 
 - [2020, 2021] **Korea University**
   <br>
@@ -38,7 +37,7 @@ layout: homepage
 
 ## Projects & Manuscripts
 
-- **Attention and Awareness of Merger’s Social Meaning Influences Asynchronous Tonal Change in Hong Kong Cantonese.**
+- **An audio-visual account for linguistic and social selectivity in the accommodation to sibilant mergers in Mandarin.**
   <br>
   <!---**Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
@@ -46,7 +45,7 @@ layout: homepage
   <!---<br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>--->
   
-–    **Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent**
+- **Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent**
   <br>
   <!---**Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
