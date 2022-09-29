@@ -170,7 +170,9 @@ layout: homepage
   <br>
   Data science in politics and public administration
   <br>
-  Data Analysis with R.
+  Data Analysis with R
+  <br>
+  Policy Evaluation
 
 ## Contact
 
