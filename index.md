@@ -8,7 +8,7 @@ layout: homepage
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is **Baichen Du 杜柏辰** [tʷuː4 pai3 ʈʂʰən2]. People also call me **Albert** for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in **Linguistics** and Political Science. I am interested in **sociolinguistics** broadly, and **speech perception/production, sound change, and variation** in specific. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My UG thesis investigates how attention and awareness of social meaning associated with tone mergers affect asynchronous tonal change in Hong Kong Cantonese. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My UG thesis investigates how linguistic and social selectivity affects convergence towards sibilants merger in Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During my undergraduate study, I mainly worked with [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) and [Dr. Jonathan Havenhill](https://jhavenhill.com) at the [Language Development Lab](https://linguistics.hku.hk/ldlhku/) of the linguistics department at HKU. I also worked for [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) on social effects influencing Infant-Directed Speech and early language acquisition. For my political science  major, [Dr. Haohan Chen](https://haohanchen.github.io/) supervises me on my thesis. I learned a lot from him on statistical programming and machine learning of text data processing.
 
