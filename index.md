@@ -179,7 +179,7 @@ layout: homepage
 - Email: [baichen@connect.hku.hk](mailto:baichen@connect.hku.hk)
 - Phone: Upon Request.
 <!--- - Github: [AlbertBaichenDu](https://github.com/AlbertBaichenDu) --->
-- Instagram: [albertbbbd](https://www.instagram.com/albertbbbd/)
+<!--- - Instagram: [albertbbbd](https://www.instagram.com/albertbbbd/) --->
 - Address: R.C.Lee Hall, The University of Hong Kong
            <br>
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6A Sassoon Road, 
