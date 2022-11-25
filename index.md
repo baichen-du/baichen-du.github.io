@@ -43,7 +43,7 @@ layout: homepage
   
 - **Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent**
   <br>
-  Undergraduate Thesis for Computational Political Science.
+  Undergraduate Thesis for Political Psychology.
   <br>
   **In Prep**
   
