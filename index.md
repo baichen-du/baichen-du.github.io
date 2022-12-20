@@ -49,19 +49,19 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 
 <b>Du, B.</b> (2022). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Submitted to: <i>184th Meeting of Acoustical Society of America 2023</i>
 <br>
-  
+<br>
 <b>Du, B.</b> (2022). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Submitted to: <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023</i>
 <br>
-  
+<br>
 <b>Du, B.</b> (2022). Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent. <i>Unpublished Undergraduate Thesis for Political Psychology</i>
 <br>
-  
+<br>
 Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (Under review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. Submitted to: <i>Nature: Scientific Reports</i>
 <br>
-  
+<br>
 Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
 <br>
-  
+<br>
 <!--- 
 - **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
