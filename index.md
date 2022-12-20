@@ -46,35 +46,17 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 
 ## Projects, Presentations & Manuscripts
 
-- **Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin.**
-  <br>
-  Submitted to: **184th Meeting of Acoustical Society of America 2023**
-  
-- **An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin.**
-  <br>
-  Undergraduate Thesis for Linguistics Major, submitted to: **Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023**
-  
-- **Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent**
-  <br>
-  Undergraduate Thesis for Political Psychology.
-  <br>
-  **In Prep**
-  
-- **Ecological Learning of Phonotactics and Alternation.**
-  <br>
-  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Xiaoyu Yu, Lihui Tan, [Thomas van Hoey](https://www.thomasvanhoey.com/).
-  <br>
-  **Submitted to Nature: Scientific Reports**
-  <!--- <br>
-  IEEE Conference on Computer Vision and Pattern Recognition.---> 
-  <!---<br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] --->
+<div style="text-align: justify">
 
-- **An Audio-visual Account for Palatalization and Sound Change in Diachronic and Synchronic Time.**
-  <br> 
-  With [Jonathan Havenhill](https://jhavenhill.com).
-  <br>
-  **In Prep**.
+- <b>Du, B.</b> (2022). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Submitted to: <i>184th Meeting of Acoustical Society of America 2023</i>
+  
+- <b>Du, B.</b> (2022). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Submitted to: <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023</i>
+  
+- <b>Du, B.</b> (2022). Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent. <i>Unpublished Undergraduate Thesis for Political Psychology</i>
+
+- Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (Under review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. Submitted to: <i>Nature: Scientific Reports</i>
+
+- Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
 
 <!--- 
 - **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
@@ -83,11 +65,7 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
   <br>
   **In Prep**.
 --->
-- **Distractions Affects Prosodic Features of Infant-Directed Speech**
-  <br>
-  With [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) and Mercedes Casar.
-  <br>
-  **In Prep**.
+- Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech.
   
 ## Research Experience
 
