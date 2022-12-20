@@ -17,8 +17,7 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
   During my undergraduate study, I mainly worked with <a href="https://repository.hku.hk/cris/rp/rp02160">Dr. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of the linguistics department at HKU. I also worked for <a href="https://home.cc.umanitoba.ca/~soderstr/">Prof. Melanie Soderstrom</a> on social effects influencing Infant-Directed Speech and early language acquisition. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervises me on my thesis. I learned a lot from him on statistical programming and text data processing.
 <br>
 <br>
-  Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet :p
-</div>
+  Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet :p </div>
 <br>
 <br>
 ## Research Interests
@@ -68,8 +67,7 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
   <br>
   **In Prep**.
 --->
-&#8226; Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech.
-</div>
+&#8226; Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech. </div>
 <br>
 <br>
 ## Research Experience
