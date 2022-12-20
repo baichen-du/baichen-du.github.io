@@ -71,7 +71,8 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 --->
 &#8226; Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech.
 </div>
-  
+<br>
+
 ## Research Experience
 
 **The University of Hong Kong**
