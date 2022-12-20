@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2022.pdf" target=”_blank>CV</a> for more details.
+See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2022.pdf" target="_blank">CV</a> for more details.
 
 
 
