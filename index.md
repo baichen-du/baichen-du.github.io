@@ -6,9 +6,9 @@ layout: homepage
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See my [CV](https://albertbaichendu.github.io/assets/cv_albertbaichendu_Aug-2022.pdf) for more details.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is **Baichen Du 杜柏辰** [tʷuː4 pai3 ʈʂʰən2]. People also call me **Albert** for simplicity. I am a final year undergraduate student at the University of Hong Kong, majoring in **Linguistics** and Political Science. I am interested in **sociolinguistics** broadly, and **speech perception/production, sound change, and variation** in specific. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi! My name is **Baichen Du 杜柏辰** [tʷuː4 pai3 ʈʂʰən2]. I also go by **Albert** for simplicity. I am a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in **Linguistics** and Political Science. I am interested in **sociolinguistics, phonetics and phonology** broadly, and **speech perception/production, sound change, and variation** in specific. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My UG thesis investigates how linguistic and social selectivity affects convergence towards sibilants merger in Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During my undergraduate study, I mainly worked with [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) and [Dr. Jonathan Havenhill](https://jhavenhill.com) at the [Language Development Lab](https://linguistics.hku.hk/ldlhku/) of the linguistics department at HKU. I also worked for [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) on social effects influencing Infant-Directed Speech and early language acquisition. For my political science  major, [Dr. Haohan Chen](https://haohanchen.github.io/) supervises me on my thesis. I learned a lot from him on statistical programming and text data processing.
 
@@ -19,7 +19,7 @@ layout: homepage
 - **Sociolinguistics, Phonetics & Phonology:** Speech Perception/Production, Sound Change, Variation
 
 ## Education
-- [2019 - 2023]**The University of Hong Kong**
+- [2019 - 2024]**The University of Hong Kong**
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>First Honor Distinction</em>(expected), GPA: 3.94/4.3, GPA of Linguistics: 4.08/4.3
 
@@ -35,11 +35,15 @@ layout: homepage
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops: Statistical Method in Linguistic Research, Speech Analysis
 
-## Projects & Manuscripts
+## Projects, Presentations & Manuscripts
 
-- **An audio-visual account for linguistic and social selectivity in the accommodation to sibilant mergers in Mandarin.**
+- **Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin.**
   <br>
-  Undergraduate Thesis for Linguistics Major.
+  Submitted to: **184th Meeting of Acoustical Society of America 2023**
+  
+- **An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin.**
+  <br>
+  Undergraduate Thesis for Linguistics Major, submitted to: **Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023**
   
 - **Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent**
   <br>
@@ -63,12 +67,13 @@ layout: homepage
   <br>
   **In Prep**.
 
+<!--- 
 - **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
   With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
   <br>
   **In Prep**.
-  
+--->
 - **Distractions Affects Prosodic Features of Infant-Directed Speech**
   <br>
   With [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) and Mercedes Casar.
@@ -78,7 +83,7 @@ layout: homepage
 ## Research Experience
 
 **The University of Hong Kong**
-- **[Aug. 2021 - Present]** Language Development Lab
+- **[Aug. 2021 - Aug. 2022]** Language Development Lab
   <br>
   PI: [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) & [Dr. Jonathan Havenhill](https://jhavenhill.com). 
 - **[Sep. 2022 - Dec. 2022]** Undergraduate Research Fellowship
@@ -109,6 +114,7 @@ layout: homepage
 
 ## Honors, Awards, Grants
 
+- **[2022]** TransDisciplinary Undergraduate Research Initiative Grant. HKD 3,830
 - **[2022]** Leung Kai Kui Research and Teaching Endowment. HKD 10,000
 - **[2022]** Globalink Research Award. CAD 12,000
 - **[2022]** The K.K.Ho Prize. HKD 20,000
