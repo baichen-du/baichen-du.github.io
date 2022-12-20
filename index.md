@@ -8,7 +8,7 @@ layout: homepage
 
 <div style="text-align: justify">
 
-  Hi! My name is **Baichen Du 杜柏辰** [tʷuː4 pai3 ʈʂʰən2]. I also go by **Albert** for simplicity. I am a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in **Linguistics** and Political Science. I am interested in **sociolinguistics, phonetics and phonology** broadly, and **speech perception/production, sound change, and variation** in specific. 
+  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>sociolinguistics, phonetics and phonology</b> broadly, and <b>speech perception/production, sound change, and variation</b> in specific. 
 <br>
 <br>
   My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference.
