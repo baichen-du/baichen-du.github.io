@@ -6,8 +6,6 @@ layout: homepage
 
 See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2022.pdf" target="_blank">CV</a> for more details.
 
-
-
 <div style="text-align: justify">
 
   Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>sociolinguistics, phonetics and phonology</b> broadly, and <b>speech perception/production, sound change, and variation</b> in specific. 
@@ -23,6 +21,7 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
   
 </div>
 <br>
+
 ## Research Interests
 
 - **Sociolinguistics, Phonetics & Phonology:** Speech Perception/Production, Sound Change, Variation
@@ -66,6 +65,7 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
   **In Prep**.
 --->
 - Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech.
+</div>
   
 ## Research Experience
 
