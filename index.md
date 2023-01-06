@@ -20,6 +20,7 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
   Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet :p </div>
 
 <p></p>
+
 ## Research Interests
 
 - **Sociolinguistics, Phonetics & Phonology:** Speech Perception/Production, Sound Change, Variation
