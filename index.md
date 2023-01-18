@@ -55,11 +55,11 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 <p></p>
 
 ## Education
-- [2019 - 2024]**The University of Hong Kong**
+- [2019 - 2024] **The University of Hong Kong**
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>First Honor Distinction</em>(expected), GPA: 3.94/4.3, GPA of Linguistics: 4.08/4.3
 
-- [Spring 2023]**University of California, Berkeley**
+- [Spring 2023] **University of California, Berkeley**
   <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate Visiting Student
 
