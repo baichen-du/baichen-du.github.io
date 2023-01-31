@@ -91,6 +91,9 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 - **[Jan, 2023 - May, 2023]** Undergraduate Research Apprenticeship Program
   <br>
   PI: Dr. [Alexandra Pfiffner](http://pfiffner.georgetown.domains/).
+- **[Jan, 2023 - May, 2023]** Sociolinguistics Lab
+  <br>
+  PI: [Dr. Isaac Bleaman](https://www.isaacbleaman.com/)
 
 **The University of Hong Kong**
 - **[Aug. 2021 - Aug. 2022]** Language Development Lab
@@ -165,11 +168,17 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
   <br>
   Phonetics: Describing sounds
   <br>
+  Advanced Phonetics
+  <br>
+  Experimental Phonetics
+  <br>
   Phonology: An introduction to the study of sound systems
   <br>
   Mind and body: A holistic approach to the sounds of language (The Interface between Phonetics and Phonology)
   <br>
   Variation analysis
+  <br>
+  Advanced Sociolinguistics
   <br>
   Laboratory linguistics: Practicum (capstone experience)
   <br>
