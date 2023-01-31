@@ -59,15 +59,15 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 - The acoustics of plosive lenition in Dutch.
 <br>
   With Dr. [Alexandra Pfiffner](http://pfiffner.georgetown.domains/).
-
+<br>
 - Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.
 <br>
   With Assoc Prof. [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
-
+<br>
 - Examining infant language experiences in a cross-cultural context.
 <br>
   With Prof. Melanie Soderstrom, and Mercedes Casar.
-
+<br>
 ## Education
 - [2019 - 2024] **The University of Hong Kong**
   <br>
@@ -86,6 +86,11 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops: Statistical Method in Linguistic Research, Speech Analysis
 
 ## Research Experience
+
+**University of California, Berkeley**
+- **[Jan, 2023 - May, 2023]** Undergraduate Research Apprenticeship Program
+  <br>
+  PI: Dr. [Alexandra Pfiffner](http://pfiffner.georgetown.domains/).
 
 **The University of Hong Kong**
 - **[Aug. 2021 - Aug. 2022]** Language Development Lab
