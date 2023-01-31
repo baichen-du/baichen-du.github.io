@@ -25,7 +25,7 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 
 - **Sociolinguistics, Phonetics & Phonology:** Speech Perception/Production, Sound Change, Variation
 
-## Projects, Presentations & Manuscripts
+## Presentations & Manuscripts
 
 <div style="text-align: justify">
 
@@ -45,7 +45,7 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 <br>
 <br>
 <!--- 
-- **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
+**Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
   With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
   <br>
@@ -53,6 +53,20 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 --->
 &#8226; Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech. </div>
 <p></p>
+
+## Ongoing Projects
+
+- The acoustics of plosive lenition in Dutch.
+<br>
+  With Dr. [Alexandra Pfiffner](http://pfiffner.georgetown.domains/).
+
+- Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.
+<br>
+  With Assoc Prof. [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
+
+- Examining infant language experiences in a cross-cultural context.
+<br>
+  With Prof. Melanie Soderstrom, and Mercedes Casar.
 
 ## Education
 - [2019 - 2024] **The University of Hong Kong**
