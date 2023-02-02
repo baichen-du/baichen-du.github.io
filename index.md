@@ -167,38 +167,38 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 
 - **Linguistics**: 
   <br>
-  Phonetics: Describing sounds
+  Phonetics: Describing sounds (A)
   <br>
-  Advanced Phonetics
+  Advanced Phonetics (Pending)
   <br>
-  Experimental Phonetics
+  Experimental Phonetics (Pending)
   <br>
-  Phonology: An introduction to the study of sound systems
+  Phonology: An introduction to the study of sound systems (A+)
   <br>
-  Mind and body: A holistic approach to the sounds of language (The Interface between Phonetics and Phonology)
+  Mind and body: A holistic approach to the sounds of language (The interface between Phonetics and Phonology, A+)
   <br>
-  Variation analysis
+  Variation analysis (A-)
   <br>
-  Advanced Sociolinguistics
+  Advanced Sociolinguistics (Pending)
   <br>
-  Laboratory linguistics: Practicum (capstone experience)
+  Laboratory linguistics: Practicum (Capstone experience, A)
   <br>
-  Second language research
+  Second language research (A+)
   <br>
-  Languages of the world
+  Languages of the world (Language typology, A+)
   <br>
-  Grammatical description
+  Grammatical description (A+)
   <br>
-  Semantics: Meaning and grammar
+  Semantics: Meaning and grammar (A-)
 - **Research Methods**: 
   <br>
-  Research methods in politics and public administration
+  Research methods in politics and public administration (A)
   <br>
-  Data science in politics and public administration
+  Data science in politics and public administration (A+)
   <br>
-  Data Analysis with R
+  Data Analysis with R (A)
   <br>
-  Policy Evaluation
+  Policy Evaluation (A-)
 
 ## Contact
 
