@@ -139,6 +139,9 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 
 ## Extracurricular Activities & Community Services
 
+- **[Jan. 2023 - Present]** Mitacs.
+  <br>
+  <em> Globalink Ambassdor</em>
 - **[Dec. 2021 - Present]** Chinese Culture Sub-Committee, Student Association of [R.C.Lee Hall](https://www.rclhall.hku.hk/).
   <br>
   <em> Chairperson </em>
