@@ -163,8 +163,8 @@ See my <a href="https://albertbaichendu.github.io/assets/AlbertBaichenDu_CV_Dec2
 - Natural Languages: Mandarin, English, Cantonese, French (Elementary)
 - Programming Lanaguges<sup>#</sup>: [R](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R)<sup>+</sup>, [Praat Script](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/Praat_Script)<sup>+</sup>, LaTex, Python, HTML, Julia
 - Research Tools: RStudio, Praat, PsychoPy, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk
-- Research Skills: [Frequentist Statistics](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R)<sup>+</sup>, [Web Data Extraction](https://github.com/AlbertBaichenDu/Programming_Languages/blob/main/R/NLP/NLP_ForeignMinistry_relations_Step1_webscraping_fm.R)<sup>+</sup>, [Text Data Processing](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R/NLP)<sup>+</sup>, Forced Alignment
-- General Skills: Adobe Premiere Pro, WordPress
+- Research Skills: [Frequentist Statistics](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R)<sup>+</sup>, [Web Data Extraction](https://github.com/AlbertBaichenDu/Programming_Languages/blob/main/R/NLP/NLP_ForeignMinistry_relations_Step1_webscraping_fm.R)<sup>+</sup>, [Text Data Processing](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R/NLP)<sup>+</sup>, Montreal Forced Alignment
+- General Skills: Adobe Premiere Pro, Final Cut Pro, WordPress
   <br>
   <br>
 <sup>#</sup>In a descending order of proficiency. <sup>+</sup>Hyperlinked to selected examples.
