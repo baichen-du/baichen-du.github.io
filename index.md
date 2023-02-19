@@ -57,15 +57,15 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 &#8226; Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech. </div>
 <p></p>
 
-## Ongoing Projects
+## Working Papers
 
 - The acoustics of plosive lenition in Dutch.
 <br>
-  With Dr. [Alexandra Pfiffner](http://pfiffner.georgetown.domains/).
+  With [Dr. Alexandra Pfiffner](http://pfiffner.georgetown.domains/).
 <br>
 - Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.
 <br>
-  With Assoc Prof. [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
+  With [Assoc Prof. Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
 <br>
 - Examining infant language experiences in a cross-cultural context.
 <br>
