@@ -45,8 +45,6 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
-<br>
-<br>
 <!--- 
 **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
@@ -54,7 +52,7 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
   <br>
   **In Prep**.
 --->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech. </div>
+</div>
 <p></p>
 
 ## Working Papers
