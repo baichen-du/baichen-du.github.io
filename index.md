@@ -211,7 +211,7 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 - Email: [baichen@connect.hku.hk](mailto:baichen@connect.hku.hk)
 - Phone: +1 (510)859-8581.
 <!--- - Github: [AlbertBaichenDu](https://github.com/AlbertBaichenDu) --->
-<!--- - Instagram: [albertbbbd](https://www.instagram.com/albertbbbd/) --->
+- Twitter: [_15abcd](https://twitter.com/_15abcd)
 - Address: R.C.Lee Hall, The University of Hong Kong
            <br>
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6A Sassoon Road, 
