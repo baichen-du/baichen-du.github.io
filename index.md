@@ -29,7 +29,7 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 
 <div style="text-align: justify">
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;<b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (Accepted). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023</i>
@@ -38,10 +38,10 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (Accepted). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023</i>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2022). Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent. <i>Unpublished Undergraduate Thesis for Political Psychology</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2022). Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent. <i>Unpublished Undergraduate Thesis for Political Psychology</i>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (Under review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. Submitted to: <i>Nature: Scientific Reports</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (Under review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. Submitted to: <i>Nature: Scientific Reports</i>
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
