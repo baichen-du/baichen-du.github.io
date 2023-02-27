@@ -8,16 +8,16 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 
 <div style="text-align: justify">
 
-  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>sociolinguistics, phonetics and phonology</b> broadly, and <b>speech perception/production, sound change, and variation</b> in specific. 
+  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>phonetics and phonology, sociolinguistics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change, and variation</b> in specific. 
 <br>
 <br>
   My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference.
 <br>
 <br>
-  During my undergraduate study, I mainly worked on a number of projects with <a href="https://repository.hku.hk/cris/rp/rp02160">Dr. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of the linguistics department at HKU, and with <a href="http://pfiffner.georgetown.domains)">Dr. Alexandra Pfiffner</a> at UC Berkeley Linguistics. I also worked for <a href="https://home.cc.umanitoba.ca/~soderstr/">Prof. Melanie Soderstrom</a> on social effects influencing Infant-Directed Speech and early language acquisition. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervises me on my thesis. I learned a lot from him on statistical programming and text data processing.
+  During my undergraduate study, I mainly worked on a number of projects with <a href="https://repository.hku.hk/cris/rp/rp02160">Dr. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of the linguistics department at HKU, and with <a href="http://pfiffner.georgetown.domains)">Dr. Alexandra Pfiffner</a> at UC Berkeley Linguistics. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervises me on my thesis. I learned a lot from him on statistical programming and text data processing.
 <br>
 <br>
-  Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet :p </div>
+  Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet. So if you have a lovely one, do let me know and get jealous. </div>
 
 <p></p>
 
@@ -29,22 +29,22 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 
 <div style="text-align: justify">
   
-&#8226; <b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
 <br>
 <br>
-&#8226; <b>Du, B.</b> (Accepted). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (Accepted). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023</i>
 <br>
 <br>
-&#8226; <b>Du, B.</b> (Accepted). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (Accepted). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023</i>
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2022). Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent. <i>Unpublished Undergraduate Thesis for Political Psychology</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2022). Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent. <i>Unpublished Undergraduate Thesis for Political Psychology</i>
 <br>
 <br>
-&#8226; Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (Under review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. Submitted to: <i>Nature: Scientific Reports</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (Under review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. Submitted to: <i>Nature: Scientific Reports</i>
 <br>
 <br>
-&#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
 <br>
 <br>
 <!--- 
@@ -54,7 +54,7 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
   <br>
   **In Prep**.
 --->
-&#8226; Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech. </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Soderstrom, M.<sup>*</sup>, Casar, M., <b>Du, B.</b> (In prep). Distraction affects prosodic features of Infant-Directed Speech. </div>
 <p></p>
 
 ## Working Papers
