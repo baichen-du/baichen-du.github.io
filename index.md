@@ -57,6 +57,14 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 
 ## Working Papers
 
+- Acoustics of Mandarin sibilants.
+<br>
+  With Dr. Alexandra Pfiffner
+
+- Audiovisual production and perception of hight front vowel contrast.
+<br> 
+  With Prof. Keigh Johnson and Dr. Alexandra Pfiffner
+
 - The acoustics of plosive lenition in Dutch.
 <br>
   With [Dr. Alexandra Pfiffner](http://pfiffner.georgetown.domains/).
