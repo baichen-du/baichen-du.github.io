@@ -63,7 +63,7 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 <br>
 - Audiovisual production and perception of hight front vowel contrast.
 <br> 
-  With Prof. Keigh Johnson and Dr. Alexandra Pfiffner
+  With Prof. Keith Johnson and Dr. Alexandra Pfiffner
 <br>
 - The acoustics of plosive lenition in Dutch.
 <br>
