@@ -41,7 +41,7 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2022). Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent. <i>Unpublished Undergraduate Thesis for Political Psychology</i>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (Under review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. Submitted to: <i>Nature: Scientific Reports</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (In review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. <!---Submitted to: <i>Nature: Scientific Reports</i>--->
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
@@ -57,22 +57,27 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 
 ## Working Papers
 
-- Acoustics of Mandarin sibilants.
+- Auditory and visual perception of emotion in running speech
 <br>
-  With Dr. Alexandra Pfiffner
+  With [Dr. Yao Yao](http://www.cbs.polyu.edu.hk/yaoyao/)
+
+- Acoustic and visual properties of Mandarin sibilants.
+<br>
+  With [Dr. Alexandra Pfiffner](http://pfiffner.georgetown.domains/)
 <br>
 - Audiovisual production and perception of hight front vowel contrast.
 <br> 
-  With Prof. Keith Johnson and Dr. Alexandra Pfiffner
+  With [Prof. Keith Johnson](https://linguistics.berkeley.edu/~kjohnson/) and [Dr. Alexandra Pfiffner](http://pfiffner.georgetown.domains/)
 <br>
 - The acoustics of plosive lenition in Dutch.
 <br>
   With [Dr. Alexandra Pfiffner](http://pfiffner.georgetown.domains/).
 <br>
+<!--- 
 - Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.
 <br>
   With [Assoc Prof. Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
-<br>
+<br>--->
 - Examining infant language experiences in a cross-cultural context.
 <br>
   With Prof. Melanie Soderstrom, and Mercedes Casar.
@@ -96,6 +101,11 @@ See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops: Statistical Method in Linguistic Research, Speech Analysis
 
 ## Research Experience
+
+**The Polytechtic University of Hong Kong**
+- **[Incoming, Jun - Aug, 2023]** Research Assistant
+  <br>
+  PI: [Dr. Yao Yao](http://www.cbs.polyu.edu.hk/yaoyao/)
 
 **University of California, Berkeley**
 - **[Jan, 2023 - May, 2023]** Undergraduate Research Apprenticeship Program
