@@ -14,7 +14,7 @@ layout: homepage
   My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference.
 <br>
 <br>
-  During my undergraduate study, I worked on a number of projects for <a href="https://repository.hku.hk/cris/rp/rp02160">Dr. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of the linguistics department at HKU, and with <a href="http://pfiffner.georgetown.domains)">Dr. Alexandra Pfiffner</a> at UC Berkeley Linguistics. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervises me on my thesis. I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
+  During my undergraduate study, I worked on a number of projects for <a href="https://repository.hku.hk/cris/rp/rp02160">Prof. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of the linguistics department at HKU, and with <a href="http://pfiffner.georgetown.domains)">Dr. Alexandra Pfiffner</a> and <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. keith Johnson </a> at UC Berkeley Linguistics. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervises me on my thesis. I will be joining HKPolyU over the summer working with <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> on bilingualism and speech perception. I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
 <br>
 <br>
   Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet. So if you have a lovely one, do let me know and get jealous. </div>
@@ -60,7 +60,7 @@ layout: homepage
 - Auditory and visual perception of emotion in running speech
 <br>
   With [Dr. Yao Yao](http://www.cbs.polyu.edu.hk/yaoyao/)
-
+<br>
 - Acoustic and visual properties of Mandarin sibilants.
 <br>
   With [Dr. Alexandra Pfiffner](http://pfiffner.georgetown.domains/)
@@ -73,8 +73,7 @@ layout: homepage
 <br>
   With [Dr. Alexandra Pfiffner](http://pfiffner.georgetown.domains/).
 <br>
-<!--- 
-- Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.
+<!--- - Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.
 <br>
   With [Assoc Prof. Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
 <br>--->
