@@ -182,7 +182,7 @@ layout: homepage
 - General Skills: Adobe Premiere Pro, Final Cut Pro, WordPress
   <br>
   <br>
-<sup>#</sup>In a descending order of proficiency. <sup>+</sup>Hyperlinked to selected examples.
+<sup>#</sup>In a descending order of proficiency. <sup>+</sup>Hyperlinked to selected examples (Outdated codes).
 
 ## Key Courses
 
