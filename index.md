@@ -146,6 +146,10 @@ layout: homepage
 
 ## Honors, Awards, Grants
 
+**University of California, Berkeley**
+- **[2023]** Instructional endowment for projects titled "Acoustic and visual properties of Mandarin sibilants" and "Audiovisual production and perception of high front vowel contrast", Department of Linguistics. USD 600
+
+**The University of Hong Kong**
 - **[2022]** TransDisciplinary Undergraduate Research Initiative Grant. HKD 3,830
 - **[2022]** Leung Kai Kui Research and Teaching Endowment. HKD 10,000
 - **[2022]** Globalink Research Award. CAD 12,000
