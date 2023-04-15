@@ -59,7 +59,7 @@ layout: homepage
 
 - Auditory and visual perception of emotion in running speech
 <br>
-  With [Dr. Yao Yao](http://www.cbs.polyu.edu.hk/yaoyao/)
+  With [Dr. Yao Yao](http://www.cbs.polyu.edu.hk/yaoyao/) and [Prof. Keith Johnson](https://linguistics.berkeley.edu/~kjohnson/)
 <br>
 - Acoustic and visual properties of Mandarin sibilants.
 <br>
