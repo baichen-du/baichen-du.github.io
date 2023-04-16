@@ -35,7 +35,7 @@ layout: homepage
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (Accepted). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023</i>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (Accepted). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023</i>
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2022). Explanatory Power or Facts: Endorsement for Speculations and Conjectures When Social Facts are Absent. <i>Unpublished Undergraduate Thesis for Political Psychology</i>
