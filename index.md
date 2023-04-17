@@ -35,10 +35,10 @@ layout: homepage
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (Accepted). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023</i>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (In review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. <!---Submitted to: <i>Nature: Scientific Reports</i>--->
