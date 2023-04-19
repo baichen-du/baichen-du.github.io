@@ -8,7 +8,7 @@ layout: homepage
 
 <div style="text-align: justify">
 
-  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>experimental phonology and phonetics, phonetics and phonology, sociolinguistics</b> broadly, and <b>speech perception/production, language learning, cues weighting and integration, sound change, and variation</b> in specific. 
+  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>experimental phonology and phonetics, sociolinguistics</b> broadly, and <b>speech perception/production, computer vision, cues weighting and integration, sound change, and variation</b> in specific. 
 <br>
 <br>
   My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference.
@@ -23,7 +23,7 @@ layout: homepage
 
 ## Research Interests
 
-- **Phonetics & Phonology**: Experimental Phonology and Phonetics, Speech Perception/Production, Sound Change, Lanaguage Learning and Acquisition.
+- **Phonetics & Phonology**: Experimental Phonology and Phonetics, Speech Perception/Production, Sound Change, Computer Vision and Cross-modal cue integration.
 
 ## Presentations & Manuscripts
 
@@ -181,7 +181,7 @@ layout: homepage
 
 - Natural Languages: Mandarin, English, Cantonese, French (Elementary)
 - Programming Lanaguges<sup>#</sup>: [R](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R)<sup>+</sup>, [Praat Script](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/Praat_Script)<sup>+</sup>, LaTex, Python, HTML, Julia
-- Research Tools: RStudio, Praat, PsychoPy, ffmpeg, OpenFace, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk, Montreal Forced Alignment
+- Research Tools: RStudio, Praat, PsychoPy, ffmpeg, OpenCV/OpenFace, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk, Montreal Forced Alignment
 - Research Skills: [Frequentist Statistics](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R)<sup>+</sup>, Bayesian Statistics, [Web Data Extraction](https://github.com/AlbertBaichenDu/Programming_Languages/blob/main/R/NLP/NLP_ForeignMinistry_relations_Step1_webscraping_fm.R)<sup>+</sup>, [Text Data Processing](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R/NLP)<sup>+</sup>
 - General Skills: Adobe Premiere Pro, Final Cut Pro, WordPress
   <br>
