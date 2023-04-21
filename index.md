@@ -110,9 +110,6 @@ layout: homepage
 - **[Jan, 2023 - May, 2023]** Undergraduate Research Apprenticeship Program
   <br>
   PI: Dr. [Alexandra Pfiffner](https://www.alexandra-pfiffner.com/).
-- **[Jan, 2023 - May, 2023]** Sociolinguistics Lab
-  <br>
-  PI: [Dr. Isaac Bleaman](https://www.isaacbleaman.com/)
 
 **The University of Hong Kong**
 - **[Aug. 2021 - Aug. 2022]** Language Development Lab
