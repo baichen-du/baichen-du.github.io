@@ -236,3 +236,4 @@ layout: homepage
            
 ## News
 - **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf).
+- **[May 5, 2023]** I will be having my very first conference presentation at the 184th Meeting of Acoustical Society of America in Chicago. Poster are available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf)
