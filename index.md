@@ -32,7 +32,7 @@ layout: homepage
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (Accepted). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (Accepted). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
@@ -236,4 +236,4 @@ layout: homepage
            
 ## News
 - **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf).
-- **[May 5, 2023]** I will be having my very first conference presentation at the 184th Meeting of Acoustical Society of America in Chicago. Poster are available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf)
+- **[May 5, 2023]** I will be having my very first conference presentation at the 184th Meeting of Acoustical Society of America in Chicago. Poster is available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf)
