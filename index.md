@@ -65,7 +65,7 @@ layout: homepage
 <br>
   With [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/)
 <br>
-- Audiovisual production and perception of high front vowel contrast.
+- Audiovisual production of high front vowel contrast.
 <br> 
   With [Prof. Keith Johnson](https://linguistics.berkeley.edu/~kjohnson/) and [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/)
 <br>
