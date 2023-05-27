@@ -29,7 +29,7 @@ layout: homepage
 
 <div style="text-align: justify">
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted).Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages</i>, CUNY, New York, NY.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted).Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages, CUNY, New York, NY.</i>
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; <b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
