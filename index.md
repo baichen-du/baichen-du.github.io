@@ -92,7 +92,7 @@ layout: homepage
 
 - [2023 - 2024] **University of California, Berkeley**
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate Visiting Student
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate Visiting Student, GPA: 4.0/4.0
 
 - [2020, 2021] **Korea University**
   <br>
@@ -194,9 +194,9 @@ layout: homepage
   <br>
   Phonetics: Describing sounds (A)
   <br>
-  Advanced Phonetics (Pending)
+  Advanced Phonetics (A)
   <br>
-  Experimental Phonetics (Pending)
+  Experimental Phonetics (A+)
   <br>
   Phonology: An introduction to the study of sound systems (A+)
   <br>
@@ -204,7 +204,7 @@ layout: homepage
   <br>
   Variation analysis (A-)
   <br>
-  Advanced Sociolinguistics (Pending)
+  Advanced Sociolinguistics (A)
   <br>
   Laboratory linguistics: Practicum (Capstone experience, A)
   <br>
