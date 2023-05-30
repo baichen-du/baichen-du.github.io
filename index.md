@@ -8,16 +8,16 @@ layout: homepage
 
 <div style="text-align: justify">
 
-  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>experimental phonology and phonetics, sociolinguistics</b> broadly, and <b>speech perception/production, computer vision, cues weighting and integration, sound change, and variation</b> in specific. 
+  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a visiting undergraduate student at UC Berkeley, also a fourth (but not final) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>experimental phonology and phonetics, sociolinguistics</b> broadly, and <b>speech perception/production, computer vision in phonetics study, cues weighting and integration, sound change and variation</b> in specific. 
 <br>
 <br>
-  My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference.
+  My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference. 
 <br>
 <br>
-  During my undergraduate study, I worked on a number of projects for <a href="https://repository.hku.hk/cris/rp/rp02160">Prof. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of the linguistics department at HKU, and with <a href="https://www.alexandra-pfiffner.com/">Dr. Alexandra Pfiffner</a> and <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. keith Johnson </a> at UC Berkeley Linguistics. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervises me on my thesis. I will be joining HKPolyU over the summer working with <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> on bilingualism and speech perception. I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
+  During my undergraduate study, I worked on a number of projects with <a href="https://www.alexandra-pfiffner.com/">Dr. Alexandra Pfiffner</a> and <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. keith Johnson </a> at UC Berkeley Linguistics and <a href="https://repository.hku.hk/cris/rp/rp02160">Prof. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of the linguistics department at HKU. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervises me on my thesis. I am currently woring for HKPolyU Chinese and Bilingual Studies over the summer with <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> on bilingualism and speech perception. <!--I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
 <br>
 <br>
-  Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet. So if you have a lovely one, do let me know and get jealous. </div>
+  Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet. So if you have a lovely one, do let me know and get jealous.--></div>
 
 <p></p>
 
@@ -25,7 +25,7 @@ layout: homepage
 
 - **Phonetics & Phonology**: Experimental Phonology and Phonetics, Speech Perception/Production, Sound Change, Computer Vision and Cross-modal cue integration.
 
-## Presentations & Manuscripts
+## Presentations & Publications
 
 <div style="text-align: justify">
   
@@ -88,11 +88,11 @@ layout: homepage
 ## Education
 - [2019 - 2024] **The University of Hong Kong**
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>First Honor Distinction</em>(expected), GPA: 3.94/4.3, GPA of Linguistics: 4.08/4.3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>First Honor Distinction</em>(expected), GPA: 3.94 out of 4.3, GPA of Linguistics: 4.08.
 
 - [2023 - 2024] **University of California, Berkeley**
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate Visiting Student, GPA: 4.0/4.0
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate Visiting Student, GPA: 4.0 out of 4.0
 
 - [2020, 2021] **Korea University**
   <br>
@@ -105,7 +105,7 @@ layout: homepage
 ## Research Experience
 
 **The Polytechtic University of Hong Kong**
-- **[Incoming, Jun - Aug, 2023]** Research Assistant
+- **[Jun - Aug, 2023]** Research Assistant
   <br>
   PI: [Dr. Yao Yao](http://www.cbs.polyu.edu.hk/yaoyao/)
 
