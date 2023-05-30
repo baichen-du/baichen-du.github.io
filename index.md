@@ -14,7 +14,7 @@ layout: homepage
   My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference. 
 <br>
 <br>
-  During my undergraduate study, I worked on a number of projects with <a href="https://www.alexandra-pfiffner.com/">Dr. Alexandra Pfiffner</a> and <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. keith Johnson </a> at UC Berkeley Linguistics and <a href="https://repository.hku.hk/cris/rp/rp02160">Prof. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of the linguistics department at HKU. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervises me on my thesis. I am currently woring for HKPolyU Chinese and Bilingual Studies over the summer with <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> on bilingualism and speech perception. <!--I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
+  During my undergraduate study, I worked on a number of projects with <a href="https://www.alexandra-pfiffner.com/">Dr. Alexandra Pfiffner</a> and <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. keith Johnson </a> at UC Berkeley Linguistics, and <a href="https://repository.hku.hk/cris/rp/rp02160">Prof. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of the linguistics department at HKU. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervises me on my thesis. I am currently woring for HKPolyU Chinese and Bilingual Studies over the summer with <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> on bilingualism and speech perception. <!--I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
 <br>
 <br>
   Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet. So if you have a lovely one, do let me know and get jealous.--></div>
@@ -35,19 +35,19 @@ layout: homepage
 &#8226;<b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
+&#8226;<b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
+&#8226;<b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <!--<a href="https://albertbaichendu.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
+&#8226;<b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <!--<a href="https://albertbaichendu.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
 <br>
 <br>
-&#8226; Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (In review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. <!---Submitted to: <i>Nature: Scientific Reports</i>--->
+&#8226;Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (In review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. <!---Submitted to: <i>Nature: Scientific Reports</i>--->
 <br>
 <br>
-&#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
+&#8226;Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
 <!--- 
 **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
