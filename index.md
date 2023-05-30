@@ -58,7 +58,7 @@ layout: homepage
 </div>
 <p></p>
 
-## Current Projects
+## Selected Ongoing Projects
 
 - Auditory and visual perception of emotion in running speech
 <br>
