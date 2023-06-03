@@ -118,6 +118,9 @@ layout: homepage
   PI: Dr. [Alexandra Pfiffner](https://www.alexandra-pfiffner.com/).
 
 **The University of Hong Kong**
+- **[Jun. - Sep. 2023]** Department of Linguistics
+  <br>
+  PI: [Dr. Jonathan Havenhill](https://jhavenhill.com). 
 - **[Aug. 2021 - Aug. 2022]** Language Development Lab
   <br>
   PI: [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) & [Dr. Jonathan Havenhill](https://jhavenhill.com). 
