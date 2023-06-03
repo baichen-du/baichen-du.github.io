@@ -32,10 +32,10 @@ layout: homepage
 &#8226;<b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted).Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages, CUNY, New York, NY.</i>
 <br>
 <br>
-&#8226;<b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
+&#8226;<b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
 <br>
 <br>
-&#8226;<b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
+&#8226;<b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
 <br>
 <br>
 &#8226;<b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
