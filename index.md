@@ -50,6 +50,7 @@ layout: homepage
 &#8226;Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
 <br>
 <br>
+<b>Non-linguistics Presentation</b>
 &#8226;<b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <!--<a href="https://albertbaichendu.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
 <!--- 
 **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
