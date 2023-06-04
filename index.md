@@ -248,3 +248,15 @@ layout: homepage
 - **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf).
 - **[May 5, 2023]** I will be having my very first conference presentation at the 184th Meeting of Acoustical Society of America in Chicago. It is part of my undergraduate thesis advised by Dr. Jonathan Havenhill. Dr. Youngah Do, Dr. Alexandra Pfiffner, and Prof. Keith Johnson also offered valuable suggestions. Poster is available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf).
 - **[Jun 1, 2023]** I joined Speech and Lanaguage Science Lab at HKPolyU Chinese and Bilingual Studies as research assistant to work on speech production and perception over this summer.
+
+## Resources
+There are some scripts that might be of use. Feel free to recycle them for other projects and cite (after they are uploaded).
+**Praat Scripts**
+- Automatic tracking of non-periodic segments
+- Automatic tracking of vowels and measurment of formants over time
+- Delete multiple boundaries: This can be useful right after you "Annotate (To silences)".
+**R**
+- 
+**Python**
+- Automatic chopping videos into clipps using MoviePy. It cycles through the target folder, loads the csv files that contain critical timepoints, does the chopping, and saves all clipps. This can be much much more accurate compared to video segmentation using ffmpeg, although it still relies on ffmpeg to compile frames into videos. 
+- Frame extraction using MoviePy: It extracts the exact frame of the given target timepoints. 
