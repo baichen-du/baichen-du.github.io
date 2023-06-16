@@ -32,6 +32,7 @@ div {
 
 ## Presentations & Publications
 
+**Conference Presentations**
 <div style="text-align: justify">
   
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger.<!-- <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages, CUNY, New York, NY.</i>-->
@@ -49,6 +50,10 @@ div {
 &#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
 <br>
 <br>
+&#8226; <b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <!--<a href="https://albertbaichendu.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
+</div>
+**Publications and Manuscripts**
+<div style="text-align: justify">
 &#8226; <b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
 <br>
 <br>
@@ -61,8 +66,6 @@ div {
 &#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
 <br>
 <br>
-<b>Non-linguistics Presentation</b><br>
-&#8226; <b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <!--<a href="https://albertbaichendu.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
 <!--- 
 **Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
   <br>
