@@ -52,7 +52,9 @@ div {
 <br>
 &#8226; <b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <!--<a href="https://albertbaichendu.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
 </div>
+
 **Publications and Manuscripts**
+
 <div style="text-align: justify">
 &#8226; <b>Du, B.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
 <br>
