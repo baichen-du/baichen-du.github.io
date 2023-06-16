@@ -251,15 +251,7 @@ div {
 ## Contact
 
 - Twitter: [_15abcd](https://twitter.com/_15abcd)
-<!----- Email: [baichen@connect.hku.hk](mailto:baichen@connect.hku.hk)
- Phone: +1 (510)859-8581.
- - Github: [AlbertBaichenDu](https://github.com/AlbertBaichenDu) 
-
-- Address: R.C.Lee Hall, The University of Hong Kong
-           <br>
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6A Sassoon Road, 
-           <br>
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pokfulam, Hong Kong--->
+- Github: [AlbertBaichenDu](https://github.com/AlbertBaichenDu) 
            
 ## News
 - **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf).
