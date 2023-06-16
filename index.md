@@ -203,13 +203,13 @@ div {
 ## Skills
 
 - Natural Languages: Mandarin, English, Cantonese, French (Elementary)
-- Programming Lanaguges<sup>#</sup>: [R](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R)<sup>+</sup>, [Praat Script](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/Praat_Script)<sup>+</sup>, LaTex, Python, HTML, Julia
+- Programming Lanaguges<sup>#</sup>: R, Praat Script, LaTex, Python, HTML, Julia
 - Research Tools: RStudio, Praat, PsychoPy, ffmpeg, OpenCV/OpenFace, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk, Montreal Forced Alignment
-- Research Skills: [Frequentist Statistics](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R)<sup>+</sup>, Bayesian Statistics, [Web Data Extraction](https://github.com/AlbertBaichenDu/Programming_Languages/blob/main/R/NLP/NLP_ForeignMinistry_relations_Step1_webscraping_fm.R)<sup>+</sup>, [Text Data Processing](https://github.com/AlbertBaichenDu/Programming_Languages/tree/main/R/NLP)<sup>+</sup>
-- General Skills: Adobe Premiere Pro, Final Cut Pro, WordPress
+- Research Skills: Frequentist and Bayesian Statistics, Web Data Extraction, Text Data Processing
+- General Skills: Adobe Premiere Pro, Final Cut Pro
   <br>
   <br>
-<sup>#</sup>In a descending order of proficiency. <sup>+</sup>Hyperlinked to selected examples (Outdated codes).
+<sup>#</sup>In a descending order of proficiency.
 
 ## Key Courses
 
@@ -238,7 +238,7 @@ div {
   Grammatical description (A+)
   <br>
   Semantics: Meaning and grammar (A-)
-- **Research Methods**: 
+- **Methodology**: 
   <br>
   Research methods in politics and public administration (A)
   <br>
