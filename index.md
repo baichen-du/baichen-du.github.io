@@ -4,7 +4,6 @@ layout: homepage
 
 ## About Me
 
-<!-- See my <a href="https://albertbaichendu.github.io/assets/BaichenDu_CV_Feb2023.pdf" target="_blank">CV</a> for more details. -->
 <style>
 div {
   margin-right: 25px;
@@ -68,13 +67,6 @@ div {
 &#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
 <br>
 <br>
-<!--- 
-**Bilingual Speakers' Performance in Simultaneous Generalization of Multiple Phonological Patterns.**
-  <br>
-  With [Youngah Do](https://repository.hku.hk/cris/rp/rp02160), Sze Sui Lung, Li Tak Wang, and Ho Tsz To.
-  <br>
-  **In Prep**.
---->
 </div>
 <p></p>
 
@@ -156,17 +148,6 @@ div {
   <br>
   PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
 
-<!---<br>
-## Teaching Experience
-
-**The University of Hong Kong**
-- **[Spring 2023, Scheduled] POLI3148** Data Science in Politics and Public Administration (Undergraduate, Advanced)
-  <br>
-  <em> Teaching Assistant </em> to [Dr. Haohan Chen](https://haohanchen.github.io/)
-  <br>
-  Responsible for delivering weekly one-hour tutorial sessions. Scheduled tutorials: Introduction to R, R Basics (Syntax, Data types, Data structure, Operators, Control flow, Print, Pipe, Customized function), StringR, Regular Expression, Web Data Extraction (Indexing, Retrieving, Parsing), Final recap.
---->
-
 ## Honors, Awards, Grants
 
 **University of California, Berkeley**
@@ -203,13 +184,10 @@ div {
 ## Skills
 
 - Natural Languages: Mandarin, English, Cantonese, French (Elementary)
-- Programming Lanaguges<sup>#</sup>: R, Praat Script, LaTex, Python, HTML, Julia
+- Programming Lanaguges: R, Praat Script, LaTex, Python, HTML, Julia
 - Research Tools: RStudio, Praat, PsychoPy, ffmpeg, OpenCV/OpenFace, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk, Montreal Forced Alignment
 - Research Skills: Frequentist and Bayesian Statistics, Web Data Extraction, Text Data Processing
 - General Skills: Adobe Premiere Pro, Final Cut Pro
-  <br>
-  <br>
-<sup>#</sup>In a descending order of proficiency.
 
 ## Key Courses
 
@@ -250,8 +228,7 @@ div {
 
 ## Contact
 
-- Twitter: [_15abcd](https://twitter.com/_15abcd)
-- Github: [AlbertBaichenDu](https://github.com/AlbertBaichenDu) 
+- Twitter: _15abcd
 
 ## News
 - **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf).
