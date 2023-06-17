@@ -37,12 +37,13 @@ div {
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger.<!-- <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages, CUNY, New York, NY.</i>-->
 <br>
 <br>
-<!---&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Visual cues to phonological contrast: A computational approach to different lip rounding and lip protruding properties in Mandarin vowels and consonants.<!-- <i>98th Annual Meeting of Linguistic Society of America, New York, NY.</i>-->
+<!---&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Visual cues to phonological contrast: A computational approach to different lip rounding and lip protruding properties in Mandarin vowels and consonants. <i>98th Annual Meeting of Linguistic Society of America, New York, NY.</i>
 <br>
 <br>
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Acoustic and visual variation correlates in the sound change of sibilant variation and merger in Mandarin.<!-- <i>185th Meeting of Acoustical Society of America 2023, Sydney, AU.</i>--> --->
 <br>
-<br> --->
+<br> 
+--->
 &#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
 <br>
 <br>
