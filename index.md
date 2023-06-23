@@ -185,7 +185,7 @@ div {
 
 - Natural Languages: Mandarin, English, Cantonese, French (Elementary)
 - Programming Lanaguges: R, Praat Script, LaTex, Python, HTML, Julia
-- Research Tools: RStudio, Praat, PsychoPy, ffmpeg, OpenCV/OpenFace, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk, Montreal Forced Alignment
+- Research Tools: RStudio, Praat, PsychoPy, ffmpeg, OpenCV/OpenFace, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk, Montreal Forced Alignment, Facial Action Unit extraction, Facial expression extraction using CNN.
 - Research Skills: Frequentist and Bayesian Statistics, Web Data Extraction, Text Data Processing
 - General Skills: Adobe Premiere Pro, Final Cut Pro
 
