@@ -148,19 +148,20 @@ div {
 ## Honors, Awards, Grants
 
 **University of California, Berkeley**
-- **[2023]** Instructional endowment for projects titled "Acoustic and visual properties of Mandarin sibilants" and "Audiovisual production and perception of high front vowel contrast", Department of Linguistics.
+- **[2023]** Instructional endowment for projects titled "Acoustic and visual properties of Mandarin sibilants" and "Audiovisual production and perception of high front vowel contrast", Department of Linguistics
 
 **The University of Hong Kong**
-- **[2022]** TransDisciplinary Undergraduate Research Initiative Grant.
-- **[2022]** Leung Kai Kui Research and Teaching Endowment.
-- **[2022]** The K.K.Ho Prize.
-- **[2022]** Dean's Honor List.
-- **[2021]** Dean's Honor List.
-- **[2020]** Dean's Honor List.
-- **[2019]** Soong Ching-Ling Scholarship.
+- **[2023]** Ms Cecilia Vong Prize of Linguistics
+- **[2022]** TransDisciplinary Undergraduate Research Initiative Grant
+- **[2022]** Leung Kai Kui Research and Teaching Endowment
+- **[2022]** The K.K.Ho Prize
+- **[2022]** Dean's Honor List
+- **[2021]** Dean's Honor List
+- **[2020]** Dean's Honor List
+- **[2019]** Soong Ching-Ling Scholarship
 
 **University of Manitoba**
-- **[2022]** Globalink Research Award.
+- **[2022]** Globalink Research Award
 
 ## Extracurricular Activities & Community Services
 
