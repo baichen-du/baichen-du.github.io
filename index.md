@@ -226,11 +226,11 @@ div {
   <br>
   Policy Evaluation (A-)
 
-## News
+<!-- ## News
 - **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf).
 - **[May 5, 2023]** I will be having my very first conference presentation at the 184th Meeting of Acoustical Society of America in Chicago. It is part of my undergraduate thesis advised by Dr. Jonathan Havenhill. Dr. Alexandra Pfiffner, and Prof. Keith Johnson also offered valuable suggestions. Poster is available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf).
-- **[Jun 1, 2023]** I joined Speech and Lanaguage Science Lab at HKPolyU Chinese and Bilingual Studies as research assistant to work on speech production and perception over this summer.
-
+- **[Jun 1, 2023]** I joined Speech and Lanaguage Science Lab at HKPolyU Chinese and Bilingual Studies as research assistant to work on speech production and perception over this summer. 
+-->
 ## Resources
 There are some scripts that might be of use. Feel free to recycle them for other projects and cite (after they are uploaded).
 
