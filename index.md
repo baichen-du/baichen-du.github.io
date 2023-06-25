@@ -114,29 +114,29 @@ div {
 ## Research Experience
 
 **The Polytechtic University of Hong Kong**
-- **[Jun - Aug, 2023]** Research Assistant
+- **2023** Research Assistant
   <br>
   PI: [Dr. Yao Yao](http://www.cbs.polyu.edu.hk/yaoyao/)
 
 **University of California, Berkeley**
-- **[Jan, 2023 - May, 2023]** Undergraduate Research Apprenticeship Program
+- **2023** Undergraduate Research Apprenticeship Program
   <br>
   PI: Dr. [Alexandra Pfiffner](https://www.alexandra-pfiffner.com/).
 
 **The University of Hong Kong**
-- **[Jun. - Sep. 2023]** Department of Linguistics
+- **2023** Department of Linguistics
   <br>
   PI: [Dr. Jonathan Havenhill](https://jhavenhill.com). 
-- **[Aug. 2021 - Aug. 2022]** Language Development Lab
+- **2021-2022** Language Development Lab
   <br>
   PI: [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) & [Dr. Jonathan Havenhill](https://jhavenhill.com). 
-- **[Sep. 2022 - Dec. 2022]** Undergraduate Research Fellowship
+- **2022** Undergraduate Research Fellowship
   <br>
   Supervisor: [Dr. Haohan Chen](https://haohanchen.github.io/)
-- **[Jan. 2022 - Apr. 2022]** Department of Politics and Public Administration
+- **2022** Department of Politics and Public Administration
   <br>
   PI: [Dr. Haohan Chen](https://haohanchen.github.io/)
-- **[Jan. 2021 - May. 2021]** Undergraduate Research Opportunity Program
+- **2021** Undergraduate Research Opportunity Program
   <br>
   Supervisor: [Dr. Jonathan Havenhill](https://jhavenhill.com)
   
@@ -165,29 +165,28 @@ div {
 
 ## Extracurricular Activities & Community Services
 
-- **[Jan. 2023 - Present]** Mitacs.
+- **2023** Mitacs.
   <br>
   <em> Globalink Ambassdor</em>
-- **[Dec. 2021 - Present]** Chinese Culture Sub-Committee, Student Association of [R.C.Lee Hall](https://www.rclhall.hku.hk/).
+- **2021-present** Chinese Culture Sub-Committee, Student Association of [R.C.Lee Hall](https://www.rclhall.hku.hk/).
   <br>
   <em> Chairperson </em>
-- **[Jun. 2021 - Aug. 2021]** [Pad for Hope Foundation](https://padforhope.org/).
+- **2021** [Pad for Hope Foundation](https://padforhope.org/).
   <br>
   <em> Teaching Assistant </em>
-- **[Oct. 2020 - Oct. 2021]** Social Service Fund, The University of Hong Kong.
+- **2020-2021** Social Service Fund, The University of Hong Kong.
   <br>
   <em> External Secretary </em>
-- **[Dec. 2020 - Jan. 2021]** [University Service Centre for China Studies Collection](http://www.usc.cuhk.edu.hk/?lang=en), The Chinese University of Hong Kong
+- **2020** [University Service Centre for China Studies Collection](http://www.usc.cuhk.edu.hk/?lang=en), The Chinese University of Hong Kong
   <br>
   <em> Helper </em>
   
 ## Skills
 
-- Natural Languages: Mandarin, English, Cantonese, French (Elementary)
+- Natural Languages: Mandarin, English, Cantonese
 - Programming Lanaguges: R, Praat Script, LaTex, Python, HTML, Julia
-- Research Tools: RStudio, Praat, PsychoPy, ffmpeg, OpenCV/OpenFace, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk, Montreal Forced Alignment, Facial Action Unit extraction, Facial expression extraction using CNN.
+- Research Tools: RStudio, Praat, PsychoPy, ffmpeg, OpenCV/OpenFace, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk, Montreal Forced Alignment, Facial Action Unit extraction, Facial expression extraction.
 - Research Skills: Frequentist and Bayesian Statistics, Web Data Extraction, Text Data Processing
-- General Skills: Adobe Premiere Pro, Final Cut Pro
 
 ## Key Courses
 
