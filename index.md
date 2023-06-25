@@ -95,19 +95,19 @@ div {
 <br>
 
 ## Education
-- [2019 - 2024] **The University of Hong Kong**
+- 2019 - 2024 **The University of Hong Kong**
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>First Honor Distinction</em>(expected), GPA: 3.94 out of 4.3, GPA of Linguistics: 4.08.
 
-- [2023 - 2024] **University of California, Berkeley**
+- 2023 - 2024 **University of California, Berkeley**
   <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate Visiting Student, GPA: 4.0 out of 4.0
 
-- [2020, 2021] **Korea University**
+- 2020, 2021 **Korea University**
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Winter & Summer Capmus, GPA: 4.07 out of 4.5
 
-- [May. 2021] **The Luso-Brazilian Association of Speech Sciences** 
+- 2021 **The Luso-Brazilian Association of Speech Sciences** 
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops: Statistical Method in Linguistic Research, Speech Analysis
 
@@ -141,7 +141,7 @@ div {
   Supervisor: [Dr. Jonathan Havenhill](https://jhavenhill.com)
   
 **University of Manitoba - Winnipeg**
-- **[Jun. 2022 - Present]** The Baby Language Lab
+- **2022** The Baby Language Lab
   <br>
   PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
 
