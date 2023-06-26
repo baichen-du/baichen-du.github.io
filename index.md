@@ -37,7 +37,7 @@ div {
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger.<!-- <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages, CUNY, New York, NY.</i>-->
 <br>
 <br>
-&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). The role of visible articulatory variation in Mandarin sibilant contrast and merger <i><!--98th Annual Meeting of Linguistic Society of America, New York, NY.</i>
+&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). The role of visible articulatory variation in Mandarin sibilant contrast and merger <!--<i>98th Annual Meeting of Linguistic Society of America, New York, NY.</i>
 <br>
 <br>
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Acoustic and visual variation correlates in the sound change of sibilant variation and merger in Mandarin. <i>185th Meeting of Acoustical Society of America 2023, Sydney, AU.</i>-->
