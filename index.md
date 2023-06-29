@@ -12,6 +12,8 @@ div {
 </style>
 <div style="text-align: justify">
 
+  See my <a href="https://albertbaichendu.github.io/assets/20230629.pdf"> CV </a> for more details.
+
   Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a visiting undergraduate student at UC Berkeley, also a final (fifth) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>experimental phonology and phonetics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change and variation</b> in specific. I am also interested in applying computer vision tools to audiovisual phonetic research, such as detecting and tracking facial expressions or critical articulatory cues.
 <!--<br>
 <br>
@@ -43,7 +45,7 @@ div {
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Acoustic and visual variation correlates in the sound change of sibilant variation and merger in Mandarin. <i>185th Meeting of Acoustical Society of America 2023, Sydney, AU.</i>-->
 <br>
 <br> 
-&#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL.</i> doi: doi.org/10.1121/10.0019189 <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
+&#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL.</i> <a href="https://doi.org/10.1121/10.0019189"> DOI: 10.1121/10.0019189 </a><a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
 <br>
 <br>
 &#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
