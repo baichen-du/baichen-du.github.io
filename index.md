@@ -239,8 +239,6 @@ There are some scripts that might be of use. Feel free to recycle them for other
 - Automatic tracking of non-periodic segments
 - Automatic tracking of vowels and measurment of formants over time
 - Delete multiple boundaries: This can be useful right after you "Annotate (To silences)".
-
-**R**
  
 **Python**
 - Automatic chopping videos into clipps using MoviePy. It cycles through the target folder, loads the csv files that contain critical timepoints, does the chopping, and saves all clipps. This can be much much more accurate compared to video segmentation using ffmpeg, although it still relies on ffmpeg to compile frames into videos. 
