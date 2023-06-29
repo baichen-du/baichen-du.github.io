@@ -43,7 +43,7 @@ div {
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Acoustic and visual variation correlates in the sound change of sibilant variation and merger in Mandarin. <i>185th Meeting of Acoustical Society of America 2023, Sydney, AU.</i>-->
 <br>
 <br> 
-&#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL</i> doi: doi.org/10.1121/10.0019189 <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
+&#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL</i> doi: doi.org/10.1121/10.0019189 <a>href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
 <br>
 <br>
 &#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
