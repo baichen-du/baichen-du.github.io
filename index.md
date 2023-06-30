@@ -12,7 +12,7 @@ div {
 </style>
 <div style="text-align: justify">
 
-  See my <a href="https://baichen-du.github.io/assets/20230629.pdf"> CV </a> for more details.
+  See my <a href="https://baichen-du.github.io/assets/main.pdf" target="_blank"> CV </a> for more details.
 <br>
 <br>
   Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a visiting undergraduate student at UC Berkeley, also a final (fifth) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>experimental phonology and phonetics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change and variation</b> in specific. I am also interested in applying computer vision tools to audiovisual phonetic research, such as detecting and tracking facial expressions or critical articulatory cues.
