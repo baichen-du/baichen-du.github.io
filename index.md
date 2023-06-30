@@ -46,13 +46,13 @@ div {
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Acoustic and visual variation correlates in the sound change of sibilant variation and merger in Mandarin. <i>185th Meeting of Acoustical Society of America 2023, Sydney, AU.</i>-->
 <br>
 <br> 
-&#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
+&#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL.</i> <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
+&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <!--<a href="https://albertbaichendu.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
+&#8226; <b>Du, B.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <!--<a href="https://baichen-du.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
 </div>
 <br>
 **Publications and Manuscripts**
@@ -228,8 +228,8 @@ div {
   Policy Evaluation (A-)
 
 <!-- ## News
-- **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger.pdf).
-- **[May 5, 2023]** I will be having my very first conference presentation at the 184th Meeting of Acoustical Society of America in Chicago. It is part of my undergraduate thesis advised by Dr. Jonathan Havenhill. Dr. Alexandra Pfiffner, and Prof. Keith Johnson also offered valuable suggestions. Poster is available [here](https://albertbaichendu.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf).
+- **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf).
+- **[May 5, 2023]** I will be having my very first conference presentation at the 184th Meeting of Acoustical Society of America in Chicago. It is part of my undergraduate thesis advised by Dr. Jonathan Havenhill. Dr. Alexandra Pfiffner, and Prof. Keith Johnson also offered valuable suggestions. Poster is available [here](https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf).
 - **[Jun 1, 2023]** I joined Speech and Lanaguage Science Lab at HKPolyU Chinese and Bilingual Studies as research assistant to work on speech production and perception over this summer. 
 -->
 ## Resources
