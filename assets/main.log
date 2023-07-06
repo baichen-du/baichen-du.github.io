@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.4.12)  5 JUL 2023 15:13
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.4.12)  6 JUL 2023 18:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1107,28 +1107,23 @@ Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;ma
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
  [1
 
-]
-Underfull \hbox (badness 1648) in paragraph at lines 210--213
-\TU/LinLibertine(0)/m/n/10.95 data collection, statistical modelling (e.g., Genearlized Linear Mixed-effects Models) using R,
- []
-
-[2]
-Overfull \hbox (3.033pt too wide) in paragraph at lines 287--287
+] [2]
+Overfull \hbox (3.033pt too wide) in paragraph at lines 285--285
  []|\TU/LinLibertine(0)/m/n/9 Languages|
  []
 
 
-Overfull \hbox (14.544pt too wide) in paragraph at lines 289--289
+Overfull \hbox (14.544pt too wide) in paragraph at lines 287--287
  []|\TU/LinLibertine(0)/m/n/9 Programming|
  []
 
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 297.
+(Font)              scaled to size 10.0pt on input line 295.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
 
 LaTeX Font Warning: Font shape `OT1/LinLibertine(0)/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 297.
+(Font)              size <5> substituted on input line 295.
 
 Requested font "nxlmi" at 10.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
@@ -1173,21 +1168,21 @@ Requested font "ntxexa" at 7.3pt
 Requested font "ntxexa" at 5.5pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 7.3pt on input line 297.
+(Font)              scaled to size 7.3pt on input line 295.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.3pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
 
-Overfull \hbox (9.90901pt too wide) in paragraph at lines 303--303
+Overfull \hbox (9.90901pt too wide) in paragraph at lines 301--301
  []|\TU/LinLibertine(0)/m/n/9 Membership|
  []
 
 [3]
-Overfull \hbox (3.807pt too wide) in paragraph at lines 319--319
+Overfull \hbox (3.807pt too wide) in paragraph at lines 317--317
  []|\TU/LinLibertine(0)/m/n/9 Linguistics|
  []
 
 
-Overfull \hbox (12.86101pt too wide) in paragraph at lines 322--322
+Overfull \hbox (12.86101pt too wide) in paragraph at lines 320--320
  []|\TU/LinLibertine(0)/m/n/9 Methodology|
  []
 
