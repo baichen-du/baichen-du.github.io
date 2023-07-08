@@ -75,6 +75,10 @@ div {
 
 ## Selected Ongoing Projects
 
+- Audiovisual production and perception of Palatalization
+<br>
+ With [Dr. Jonathan Havenhill](https://jhavenhill.com)
+<br>
 - Auditory and visual perception of emotion in running speech
 <br>
   With [Dr. Yao Yao](http://www.cbs.polyu.edu.hk/yaoyao/) and [Prof. Keith Johnson](https://linguistics.berkeley.edu/~kjohnson/)
@@ -95,7 +99,7 @@ div {
 <br>
   With Prof. Melanie Soderstrom, and Mercedes Casar.
 <br>
-
+<!--
 ## Education
 - 2019 - 2024 **The University of Hong Kong**
   <br>
@@ -227,11 +231,11 @@ div {
   <br>
   Policy Evaluation (A-)
 
-<!-- ## News
+ ## News
 - **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf).
 - **[May 5, 2023]** I will be having my very first conference presentation at the 184th Meeting of Acoustical Society of America in Chicago. It is part of my undergraduate thesis advised by Dr. Jonathan Havenhill. Dr. Alexandra Pfiffner, and Prof. Keith Johnson also offered valuable suggestions. Poster is available [here](https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf).
 - **[Jun 1, 2023]** I joined Speech and Lanaguage Science Lab at HKPolyU Chinese and Bilingual Studies as research assistant to work on speech production and perception over this summer. 
--->
+
 ## Resources
 There are some scripts that might be of use. Feel free to recycle them for other projects and cite (after they are uploaded).
 
@@ -242,4 +246,4 @@ There are some scripts that might be of use. Feel free to recycle them for other
 
 **Python**
 - Automatic chopping videos into clipps using MoviePy. It cycles through the target folder, loads the csv files that contain critical timepoints, does the chopping, and saves all clipps. This can be much much more accurate compared to video segmentation using ffmpeg, although it still relies on ffmpeg to compile frames into videos. 
-- Frame extraction using MoviePy: It extracts the exact frame of the given target timepoints. 
+- Frame extraction using MoviePy: It extracts the exact frame of the given target timepoints. -->
