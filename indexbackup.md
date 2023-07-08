@@ -99,5 +99,151 @@ div {
 <br>
   With Prof. Melanie Soderstrom, and Mercedes Casar.
 <br>
+<!--
+## Education
+- 2019 - 2024 **The University of Hong Kong**
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>First Honor Distinction</em>(expected), GPA: 3.94 out of 4.3, GPA of Linguistics: 4.08.
 
-Check out my <a href="https://baichen-du.github.io/assets/main.pdf" target="_blank"> CV </a> for more details.
+- 2023 - 2024 **University of California, Berkeley**
+  <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undergraduate Visiting Student, GPA: 4.0 out of 4.0
+
+- 2020, 2021 **Korea University**
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Winter & Summer Capmus, GPA: 4.07 out of 4.5
+
+- 2021 **The Luso-Brazilian Association of Speech Sciences** 
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops: Statistical Method in Linguistic Research, Speech Analysis
+
+## Research Experience
+
+**The Polytechtic University of Hong Kong**
+- **2023** Research Assistant
+  <br>
+  PI: [Dr. Yao Yao](http://www.cbs.polyu.edu.hk/yaoyao/)
+
+**University of California, Berkeley**
+- **2023** Undergraduate Research Apprenticeship Program
+  <br>
+  PI: Dr. [Alexandra Pfiffner](https://www.alexandra-pfiffner.com/).
+
+**The University of Hong Kong**
+- **2023** Department of Linguistics
+  <br>
+  PI: [Dr. Jonathan Havenhill](https://jhavenhill.com). 
+- **2021-2022** Language Development Lab
+  <br>
+  PI: [Dr. Youngah Do](https://repository.hku.hk/cris/rp/rp02160) & [Dr. Jonathan Havenhill](https://jhavenhill.com). 
+- **2022** Undergraduate Research Fellowship
+  <br>
+  Supervisor: [Dr. Haohan Chen](https://haohanchen.github.io/)
+- **2022** Department of Politics and Public Administration
+  <br>
+  PI: [Dr. Haohan Chen](https://haohanchen.github.io/)
+- **2021** Undergraduate Research Opportunity Program
+  <br>
+  Supervisor: [Dr. Jonathan Havenhill](https://jhavenhill.com)
+  
+**University of Manitoba - Winnipeg**
+- **2022** The Baby Language Lab
+  <br>
+  PI: [Prof. Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
+
+## Honors, Awards, Grants
+
+**University of California, Berkeley**
+- **2023** Instructional endowment for projects titled "Acoustic and visual properties of Mandarin sibilants" and "Audiovisual production and perception of high front vowel contrast", Department of Linguistics
+
+**The University of Hong Kong**
+- **2023** Ms Cecilia Vong Prize of Linguistics
+- **2022** TransDisciplinary Undergraduate Research Initiative Grant
+- **2022** Leung Kai Kui Research and Teaching Endowment
+- **2022** The K.K.Ho Prize
+- **2022** Dean's Honor List
+- **2021** Dean's Honor List
+- **2020** Dean's Honor List
+- **2019** Soong Ching-Ling Scholarship
+
+**University of Manitoba**
+- **2022** Globalink Research Award
+
+## Extracurricular Activities & Community Services
+
+- **2023** Mitacs.
+  <br>
+  <em> Globalink Ambassdor</em>
+- **2021-present** Chinese Culture Sub-Committee, Student Association of [R.C.Lee Hall](https://www.rclhall.hku.hk/).
+  <br>
+  <em> Chairperson </em>
+- **2021** [Pad for Hope Foundation](https://padforhope.org/).
+  <br>
+  <em> Teaching Assistant </em>
+- **2020-2021** Social Service Fund, The University of Hong Kong.
+  <br>
+  <em> External Secretary </em>
+- **2020** [University Service Centre for China Studies Collection](http://www.usc.cuhk.edu.hk/?lang=en), The Chinese University of Hong Kong
+  <br>
+  <em> Helper </em>
+  
+## Skills
+
+- Natural Languages: Mandarin, English, Cantonese
+- Programming Lanaguges: R, Praat Script, LaTex, Python, HTML, Julia
+- Research Tools: RStudio, Praat, PsychoPy, ffmpeg, OpenCV/OpenFace, ELAN, Qualtrics, Amazon Polly Speech Synthesis, Amazon Mechanical Turk, Montreal Forced Alignment, Facial Action Unit extraction, Facial expression extraction.
+- Research Skills: Frequentist and Bayesian Statistics, Web Data Extraction, Text Data Processing
+
+## Key Courses
+
+- **Linguistics**: 
+  <br>
+  Phonetics: Describing sounds (A)
+  <br>
+  Advanced Phonetics (A)
+  <br>
+  Experimental Phonetics (A+)
+  <br>
+  Phonology: An introduction to the study of sound systems (A+)
+  <br>
+  Mind and body: A holistic approach to the sounds of language (The interface between Phonetics and Phonology, A+)
+  <br>
+  Variation analysis (A-)
+  <br>
+  Advanced Sociolinguistics (A)
+  <br>
+  Laboratory linguistics: Practicum (Capstone experience, A)
+  <br>
+  Second language research (A+)
+  <br>
+  Languages of the world (Language typology, A+)
+  <br>
+  Grammatical description (A+)
+  <br>
+  Semantics: Meaning and grammar (A-)
+- **Methodology**: 
+  <br>
+  Research methods in politics and public administration (A)
+  <br>
+  Data science in politics and public administration (A+)
+  <br>
+  Data Analysis with R (A)
+  <br>
+  Policy Evaluation (A-)
+
+ ## News
+- **[Apr 15, 2023]** I had my very first symposium talk at UC Berkeley. Slides are available [here](https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf).
+- **[May 5, 2023]** I will be having my very first conference presentation at the 184th Meeting of Acoustical Society of America in Chicago. It is part of my undergraduate thesis advised by Dr. Jonathan Havenhill. Dr. Alexandra Pfiffner, and Prof. Keith Johnson also offered valuable suggestions. Poster is available [here](https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf).
+- **[Jun 1, 2023]** I joined Speech and Lanaguage Science Lab at HKPolyU Chinese and Bilingual Studies as research assistant to work on speech production and perception over this summer. 
+
+## Resources
+There are some scripts that might be of use. Feel free to recycle them for other projects and cite (after they are uploaded).
+
+**Praat Scripts**
+- Automatic tracking of non-periodic segments
+- Automatic tracking of vowels and measurment of formants over time
+- Delete multiple boundaries: This can be useful right after you "Annotate (To silences)".
+
+**Python**
+- Automatic chopping videos into clipps using MoviePy. It cycles through the target folder, loads the csv files that contain critical timepoints, does the chopping, and saves all clipps. This can be much much more accurate compared to video segmentation using ffmpeg, although it still relies on ffmpeg to compile frames into videos. 
+- Frame extraction using MoviePy: It extracts the exact frame of the given target timepoints. -->
