@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.4.12)  12 JUL 2023 00:59
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.4.12)  15 JUL 2023 03:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1112,77 +1112,98 @@ Overfull \hbox (3.033pt too wide) in paragraph at lines 289--289
  []|\TU/LinLibertine(0)/m/n/9 Languages|
  []
 
-
-Overfull \hbox (14.544pt too wide) in paragraph at lines 291--291
- []|\TU/LinLibertine(0)/m/n/9 Programming|
- []
-
-LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 299.
-Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+Requested font "cmr9" at 9.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 
 LaTeX Font Warning: Font shape `OT1/LinLibertine(0)/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 299.
+(Font)              size <5> substituted on input line 291.
 
-Requested font "nxlmi" at 10.0pt
+Requested font "nxlmi" at 9.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
 Requested font "nxlmi7" at 7.3pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmi7.tfm
 Requested font "nxlmi5" at 5.5pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmi5.tfm
-Requested font "ntxsy" at 10.0pt
+Requested font "ntxsy" at 9.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
 Requested font "ntxsy7" at 7.3pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy7.tfm
 Requested font "ntxsy5" at 5.5pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy5.tfm
-Requested font "ntxexx" at 10.0pt
+Requested font "ntxexx" at 9.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
 Requested font "ntxexx" at 7.3pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
 Requested font "ntxexx" at 5.5pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "nxlmia" at 10.0pt
+Requested font "nxlmia" at 9.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
 Requested font "nxlmia" at 7.3pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
 Requested font "nxlmia" at 5.5pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "ntxsym" at 10.0pt
+Requested font "ntxsym" at 9.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 Requested font "ntxsym" at 7.3pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 Requested font "ntxsym" at 5.5pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsyc" at 10.0pt
+Requested font "ntxsyc" at 9.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 Requested font "ntxsyc" at 7.3pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 Requested font "ntxsyc" at 5.5pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxexa" at 10.0pt
+Requested font "ntxexa" at 9.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 Requested font "ntxexa" at 7.3pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 Requested font "ntxexa" at 5.5pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 7.3pt on input line 299.
+(Font)              scaled to size 7.3pt on input line 291.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.3pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
 
-Overfull \hbox (9.90901pt too wide) in paragraph at lines 305--305
+Overfull \hbox (17.7377pt too wide) in paragraph at lines 291--291
+ []|\TU/LinLibertine(0)/m/n/9 Programming$[]$|
+ []
+
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 300.
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+Requested font "nxlmi" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
+Requested font "ntxsy" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
+Requested font "ntxexx" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "nxlmia" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "ntxsym" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsyc" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxexa" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--301
+
+ []
+
+
+Overfull \hbox (9.90901pt too wide) in paragraph at lines 306--306
  []|\TU/LinLibertine(0)/m/n/9 Membership|
  []
 
 [3]
-Overfull \hbox (3.807pt too wide) in paragraph at lines 321--321
+Overfull \hbox (3.807pt too wide) in paragraph at lines 322--322
  []|\TU/LinLibertine(0)/m/n/9 Linguistics|
  []
 
 
-Overfull \hbox (12.86101pt too wide) in paragraph at lines 324--324
+Overfull \hbox (12.86101pt too wide) in paragraph at lines 325--325
  []|\TU/LinLibertine(0)/m/n/9 Methodology|
  []
 
@@ -1198,12 +1219,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25878 strings out of 476179
- 502409 string characters out of 5809544
+ 25887 strings out of 476179
+ 502542 string characters out of 5809544
  761760 words of memory out of 5000000
- 46351 multiletter control sequences out of 15000+600000
- 489973 words of font info for 116 fonts, out of 8000000 for 9000
+ 46359 multiletter control sequences out of 15000+600000
+ 493362 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,9n,112p,375b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,9n,112p,381b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (4 pages).
