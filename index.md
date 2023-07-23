@@ -46,7 +46,7 @@ div {
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger.<!-- <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages, CUNY, New York, NY.</i>-->
 <br>
 <br>
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). The role of visible articulatory variation in Mandarin sibilant contrast and merger <!--<i>98th Annual Meeting of Linguistic Society of America, New York, NY.</i>
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). The role of visible articulatory variation in Mandarin sibilant contrast and merger. <!--<i>98th Annual Meeting of Linguistic Society of America, New York, NY.</i>-->
 <br>
 <br>
 &#8226; <b>Du, Baichen.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL.</i> <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
@@ -55,7 +55,7 @@ div {
 &#8226; <b>Du, Baichen.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
 <br>
 <br>
-&#8226; <b>Du, Baichen.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, The University of Hong Kong, HK.</i> <!--<a href="https://baichen-du.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
+&#8226; <b>Du, Baichen.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK.</i> <!--<a href="https://baichen-du.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
 </div>
 <br>
 **Publications and Manuscripts**
