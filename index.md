@@ -36,7 +36,13 @@ div {
 
 **Conference Presentations**
 <div style="text-align: justify">
-  
+
+&#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In Prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.<!-- <i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>-->
+<br>
+<br>
+&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Consonant and vowel rounding: same acoustics, different visuals.<!-- <i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>-->
+<br>
+<br>
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (Submitted). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger.<!-- <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages, CUNY, New York, NY.</i>-->
 <br>
 <br>
@@ -65,9 +71,6 @@ div {
 <br>
 <br>
 &#8226; Do, Y.<sup>*</sup>, Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (In review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. <!---Submitted to: <i>Nature: Scientific Reports</i>--->
-<br>
-<br>
-&#8226; Havenhill, J.<sup>*</sup>, <b>Du, B.</b> (In prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.
 <br>
 <br>
 </div>
