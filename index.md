@@ -37,7 +37,7 @@ div {
 **Conference Presentations**
 <div style="text-align: justify">
 
-&#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (In Prep). An audio-visual account for palatalization and sound change in synchronic and diachronic time.<!-- <i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>-->
+&#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (Submitted). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization<!-- <i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>-->
 <br>
 <br>
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). Consonant and vowel rounding: same acoustics, different visuals.<!-- <i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>-->
