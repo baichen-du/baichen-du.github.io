@@ -67,7 +67,7 @@ div {
 &#8226; <b>Du, Baichen.</b> (To appear). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
 <br>
 <br>
-&#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (In review). Adults intuitively prefer learning regular novel phonological patterns: A tale of two planets. <!---Submitted to: <i>Nature: Scientific Reports</i>--->
+&#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (In review). Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations. <!---Submitted to: <i>Nature: Scientific Reports</i>--->
 <br>
 <br>
 </div>
