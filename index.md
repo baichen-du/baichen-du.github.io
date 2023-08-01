@@ -36,7 +36,7 @@ div {
 
 **Conference Presentations**
 <div style="text-align: justify">
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk to be given at <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY.</i>
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk to be given at <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY.</i>
 <br>
 <br>
 <!--
