@@ -36,19 +36,18 @@ div {
 
 **Conference Presentations**
 <div style="text-align: justify">
+&#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (Submitted). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. <!--<i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>-->
+<br>
+<br>
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). Consonant and vowel rounding: same acoustics, different visuals.<!-- <i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>-->
+<br>
+<br>
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). The role of visible articulatory variation in Mandarin sibilant contrast and merger. <!--<i>98th Annual Meeting of Linguistic Society of America, New York, NY.</i>-->
+<br>
+<br>
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk to be given at <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY.</i>
 <br>
 <br>
-<!--
-&#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (Submitted). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization <i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>
-<br>
-<br>
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). Consonant and vowel rounding: same acoustics, different visuals.<!-- <i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>
-<br>
-<br>
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). The role of visible articulatory variation in Mandarin sibilant contrast and merger. <!--<i>98th Annual Meeting of Linguistic Society of America, New York, NY.</i>
-<br>
-<br>-->
 &#8226; <b>Du, Baichen.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL.</i> <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
 <br>
 <br>
