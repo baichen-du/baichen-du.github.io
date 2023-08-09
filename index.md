@@ -6,8 +6,8 @@ layout: homepage
 
 <style>
 div {
-  margin-right: 25px;
-  margin-left: 25px;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 </style>
 <div style="text-align: justify">
