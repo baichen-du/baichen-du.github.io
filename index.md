@@ -77,7 +77,7 @@ div {
 **Workshops**
 
 <div style="text-align: justify">
-&#8226; <b>Du, Baichen.</b> (2023). Introduction to Advanced R Programming with RMarkdown. The Sociolinguistics Lab, University of California, Berkeley.
+&#8226; <b>Du, Baichen.</b> (2023, Sep). Introduction to Advanced R Programming with RMarkdown. The Sociolinguistics Lab, University of California, Berkeley.
 </div>
 <br>
 <p></p>
