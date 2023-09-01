@@ -15,7 +15,7 @@ div {
   See my <a href="https://baichen-du.github.io/assets/main.pdf" target="_blank"> CV </a> for more details.
 <br>
 <br>
-  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2]. I also go by <b>Albert</b> for simplicity. I am a visiting undergraduate student at UC Berkeley, also a final (fifth) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>experimental phonology and phonetics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change and variation</b> in specific. <!--Methodologicaly, I am also interested in applying computer vision tools to audiovisual phonetic research, such as detecting and tracking facial expressions or critical articulatory cues, and using eyetracking and pupillometry data to detect effects in speech perception that are not salient enough to surface as behavioural patterns (e.g, accuracy).
+  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am a visiting undergraduate student at UC Berkeley, also a final (fifth) year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and Political Science. I am interested in <b>experimental phonology and phonetics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change and variation</b> in specific. <!--Methodologicaly, I am also interested in applying computer vision tools to audiovisual phonetic research, such as detecting and tracking facial expressions or critical articulatory cues, and using eyetracking and pupillometry data to detect effects in speech perception that are not salient enough to surface as behavioural patterns (e.g, accuracy).
 <br>
 <br>
   My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference. -->
@@ -45,16 +45,16 @@ div {
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). The role of visible articulatory variation in Mandarin sibilant contrast and merger. <!--<i>98th Annual Meeting of Linguistic Society of America, New York, NY.</i>-->
 <br>
 <br>
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk to be given at <i>New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY.</i>
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk to be given at New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY.
 <br>
 <br>
-&#8226; <b>Du, Baichen.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at <i>184th Meeting of Acoustical Society of America 2023, Chicago, IL.</i> <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
+&#8226; <b>Du, Baichen.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at the 184th Meeting of Acoustical Society of America 2023 (ASA184), Chicago, IL. <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
 <br>
 <br>
-&#8226; <b>Du, Baichen.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at <i>Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i> <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
+&#8226; <b>Du, Baichen.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA. <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
 <br>
 <br>
-&#8226; <b>Du, Baichen.</b> (2023).The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda. Poster presentation at <i>Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK.</i> <!--<a href="https://baichen-du.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
+&#8226; <b>Du, Baichen.</b> (2023). The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda: A pre-analysis plan. Poster presentation at Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK. <!--<a href="https://baichen-du.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
 </div>
 <br>
 **Publications and Manuscripts**
@@ -66,10 +66,18 @@ div {
 &#8226; <b>Du, Baichen.</b> (To appear). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
 <br>
 <br>
-&#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (In review). Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations. <!---Submitted to: <i>Nature: Scientific Reports</i>--->
+&#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (In review). Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations.
 <br>
 <br>
+&#8226; <b>Du, Baichen.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Undergraduate thesis of political psychology. University of Hong Kong.
 </div>
+<br>
+**Workshops**
+
+<div style="text-align: justify">
+&#8226; <b>Du, Baichen.</b> (2023, Sep). Introduction to Advanced R Programming with RMarkdown. The Sociolinguistics Lab, University of California, Berkeley.
+</div>
+<br>
 <p></p>
 
 ## Selected Ongoing Projects
