@@ -69,9 +69,7 @@ div {
 &#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (In review). Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations.
 <br>
 <br>
-<b>Du, Baichen.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Undergraduate thesis of political psychology. University of Hong Kong.
-<br>
-<br>
+&#8226; <b>Du, Baichen.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Undergraduate thesis of political psychology. University of Hong Kong.
 </div>
 <br>
 **Workshops**
