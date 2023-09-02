@@ -1,0 +1,186 @@
+---
+title: "SocioSkillShare@SLab"
+subtitle: "Introduction to Advanced R Programming with R Markdown"
+format: 
+  revealjs:
+    slide-number: true
+date: today
+author: Baichen Du (BSocSc V)
+institute: Department of Linguistics, University of Hong Kong
+editor: visual
+---
+
+## TOC {.smaller}
+
+-   Markdown and RMarkdown
+-   YAML headers
+-   Useful packages & functions:
+    -   The foundation: piping in tidyverse
+
+    -   here() + .Rproj
+
+    -   self-defined functions + map_der()
+
+    -   theme_set()
+
+    -   knitr::opts_chunk\$set(fig.width=10, fig.height=8)
+
+    -   keyboard shortcuts 
+
+    -   lavaan
+
+## RMarkdown {.smaller}
+
+-   What is Markdown and RMarkdown
+
+    -   Instead of using indentation/bolding/italicizing, you use codes to denote the properties of or the relationships between texts and groups of texts, e.g., HTML, LaTex.
+    -   RMarkdown combines Markdown language with R codes, and compiles the source code to HTML or PDF files.
+
+-   Why using it?
+
+    -   Extended in-line documentation.
+    -   Replication of analyses, especially when submitting to journals, etc.
+
+## YAML Headers {.smaller}
+
+-   Nested structure of YAML (YAML Ain't Markup Language) Headers
+
+-   Common elements
+
+```         
+-   toc
+-   toc_float
+-   df_print: numbered
+-   code_folding: hide
+-   figure options
+```
+
+For more: See bookdown.org/yihui/rmarkdown/
+
+Let's jump to demonstrations.
+
+## Piping in Tidyverse {.smaller}
+
+Consider the following example:
+
+```{r, echo = TRUE, eval= FALSE}
+# Change variable type of some variables
+results$age <- as.factor(results$age)
+results$participant <- as.factor(results$participant)
+results$ses <- as.factor(results$ses)
+results$engprof <- as.factor(results$engprof)
+
+# Focusing on middle-class dudes
+mid <- subset(results, results$ses=="middle")
+```
+
+The dataframe "results" are really just a middle step that can be passed along the "pipe". If we do not do any other thing about it, we will kind of throw it away after we got the "mid" dataset.
+
+## Piping in Tidyverse (Cont'd) {.smaller}
+
+Therefore, the previous code is nothing different from these lines of code (in terms of what we'll eventually get).
+
+```{r, echo = TRUE, eval= FALSE}
+# Originally:
+results$age <- as.factor(results$age)
+results$participant <- as.factor(results$participant)
+results$ses <- as.factor(results$ses)
+results$engprof <- as.factor(results$engprof)
+results$F0 <- as.numeric(results$F0)
+mid <- subset(results, results$ses=="middle")
+# Simpler choice:
+middle <- results %>% # Here's the piping!
+  mutate(age = as.factor(age),
+         ses = as.factor(ses),
+         participnt = as.factor(participant),
+         engprof = as.factor(engprof),
+         F0 = as.numeric(F0)) %>%
+  filter(ses == "middle")
+```
+
+So, %\>% passes the data frame used in the last command to the next.
+
+## Here() + .Rproj {.smaller}
+
+-   R works on absolute directory.
+-   When zipping and passing codes around, all directory will almost always no longer work on a new computer. 
+-   Therefore, I recommend always work inside an R Project and replace all absolute path to relative path using here().
+-   And zip the whole folder that includes the .Rproj file when passing to someone else for code checking/debugging
+
+Therefore, please do:
+
+```{r,  echo = TRUE, eval= FALSE}
+results <- read.csv(here("results", "subj001.csv"))
+```
+
+Not-as-good option:
+
+```{r,  echo = TRUE, eval= FALSE}
+results <- read.csv("/Users/baichendu/Library/CloudStorage/Dropbox/qualifying_ppr1/results/subj001.csv")
+```
+
+## Dealing with many CSVs that share the same structure {.smaller}
+
+-   Set up a self-defined function to process all files all in once, and append all files together using map_dfr()
+
+-   rbind()? Not as good.
+
+```{r, echo = TRUE, eval= FALSE}
+results_dir <- dir_ls(here("results")) # List all file paths
+
+# Create a function
+clean <- function(csv){
+  raw <- read.csv(csv) %>% 
+    select(-date:-STUDY_ID) %>% 
+    slice(-1) %>% 
+    select(participant = SESSION_ID, resp = key_resp_4.keys, rt = key_resp_4.rt, choice1_onset:step)
+}
+
+all <- purrr::map_dfr(results, clean) # Use map_dfr to bind all files into one
+```
+
+## Set a theme for all ggplots in the file unless specified otherwise {.smaller}
+
+In the setup section (the very first Rmd code section), include:
+
+```{r, eval = FALSE, echo = TRUE}
+theme_set(theme_minimal()+theme(axis.text.x = element_text(size = 12))+
+  theme(axis.text.y = element_text(size = 12))+
+  theme(axis.title = element_text(size = 15))+
+  theme(axis.title = element_text(size = 15))+
+  theme(legend.text = element_text(size = 12))+
+  theme(legend.title = element_text(size = 15))+
+  theme(strip.text.x = element_text(size = 12))+
+  theme(strip.text.y = element_text(size = 12)))
+# Or whatever theme option you want
+```
+
+## Keyboard shortcuts {.smaller}
+
+-   Make fonts bigger in the GUI?
+    -   cmd/ctrl+ +
+-   The assign or bind symbol (\<-)?
+    -   option/alt + -
+-   Insert a new code section in RMarkdown?
+    -   ctrl + option + i
+-   The piping symbol?
+    -   cmd/ctrl + shift + M
+-   These are among the most most frequently used ones.
+
+## Advanced Statistics using lavaan {.smaller}
+
+-   Latent Variable and Confirmatory Factor Analysis using the package lavaan.
+
+-   Language attitudes, perception of the talker, how language is evaluated in a community, etc, are not directly measurable and therefore, latent.
+
+-   Indicators (e.g., Do you like your native language? How often do you use it at home? At work? At market place?) are used to indirectly measure them.
+
+-   The relationship between indicators, latent variables, and among LVs, can be easily modeled by lavaan.
+
+-   See the package documentation for more information.
+
+## Thank you
+
+Perhap, one of the ways to learn more is by peeking at people's supplementary files, appendices, and osf attachments. For example, [here](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/hearing-emotion-in-two-languages-a-pupillometry-study-of-cantonesemandarin-bilinguals-perception-of-affective-cognates-in-l1-and-l2/EF231BE13AAFB65F07E96475D0B822F3) (Yao, et al., 2022).
+
+Thank you for being here. Any questions?
