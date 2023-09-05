@@ -82,6 +82,10 @@ div {
 
 ## Selected Ongoing Projects
 
+- Acoustical and perceptual consequences of noise-masked cue weighting and integration.
+<br>
+With [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/)
+<br>
 - Audiovisual production and perception of Palatalization
 <br>
  With [Dr. Jonathan Havenhill](https://jhavenhill.com)
