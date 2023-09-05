@@ -19,7 +19,7 @@ editor: visual
 
     -   here() + .Rproj
 
-    -   self-defined functions + map_der()
+    -   self-defined functions + map_dfr()
 
     -   theme_set()
 
@@ -165,9 +165,9 @@ theme_set(theme_minimal()+theme(axis.text.x = element_text(size = 12))+
     -   ctrl + option + i
 -   The piping symbol?
     -   cmd/ctrl + shift + M
--   These are among the most most frequently used ones.
+-   These are among the absolutely most frequently used ones.
 
-## Advanced Statistics using lavaan {.smaller}
+## Advanced Statistics for Sociothings using lavaan {.smaller}
 
 -   Latent Variable and Confirmatory Factor Analysis using the package lavaan.
 
@@ -177,10 +177,10 @@ theme_set(theme_minimal()+theme(axis.text.x = element_text(size = 12))+
 
 -   The relationship between indicators, latent variables, and among LVs, can be easily modeled by lavaan.
 
--   See the package documentation for more information.
+-   See the package documentation and [the lavaan project](https://lavaan.ugent.be/) for more information.
 
 ## Thank you
 
-Perhap, one of the ways to learn more is by peeking at people's supplementary files, appendices, and osf attachments. For example, [here](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/hearing-emotion-in-two-languages-a-pupillometry-study-of-cantonesemandarin-bilinguals-perception-of-affective-cognates-in-l1-and-l2/EF231BE13AAFB65F07E96475D0B822F3) (Yao, et al., 2022).
+Perhaps, one of the ways to learn more is by peeking at people's supplementary files, appendices, and osf attachments. For example, [here](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/hearing-emotion-in-two-languages-a-pupillometry-study-of-cantonesemandarin-bilinguals-perception-of-affective-cognates-in-l1-and-l2/EF231BE13AAFB65F07E96475D0B822F3) (Yao, et al., 2022).
 
 Thank you for being here. Any questions?
