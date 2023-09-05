@@ -5,7 +5,7 @@ format:
   revealjs:
     slide-number: true
 date: Sep 12, 2023
-author: Baichen Du (BSocSc V)
+author: Baichen Du, BSocSc V
 institute: Department of Linguistics, University of Hong Kong
 editor: visual
 ---
