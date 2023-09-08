@@ -29,6 +29,8 @@ editor: visual
 
     -   lavaan
 
+    -   calling Praat inside R
+
 ## RMarkdown {.smaller}
 
 -   What is Markdown and RMarkdown
@@ -177,7 +179,27 @@ theme_set(theme_minimal()+theme(axis.text.x = element_text(size = 12))+
 
 -   The relationship between indicators, latent variables, and among LVs, can be easily modeled by lavaan.
 
--   See the package documentation and [the lavaan project](https://lavaan.ugent.be/) for more information.
+See the package documentation and [the lavaan project](https://lavaan.ugent.be/) for more information.
+
+## Calling Praat inside R {.smaller}
+
+-   A more perfectionist approach to processing recordings might be to have the whole process fully replicable. No human error involved.
+-   To do this, we can:
+
+```{r, eval = FALSE, echo = TRUE}
+# Load the library
+library(speakr)
+# Specify and execute our script by specifying all arguments inside R, 
+# instead of typing in script menu.
+script <- system.file("scripts", "measuringF0.praat", package = "speakr")
+## Specify arguments of the script
+Gender <- "F"
+Unit <- "Hz"
+dir <- here("data")
+## Execute the script
+F0 <- praat_run(script, Gender, Unit, dir, capture = TRUE)
+# Then we can read in all CSVs the script created using here(), dir_ls(), functions.
+```
 
 ## Thank you
 

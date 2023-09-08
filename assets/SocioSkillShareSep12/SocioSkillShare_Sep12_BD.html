@@ -418,6 +418,7 @@ Baichen Du, BSocSc V
 <li><p>knitr::opts_chunk$set(fig.width=10, fig.height=8)</p></li>
 <li><p>keyboard shortcuts&nbsp;</p></li>
 <li><p>lavaan</p></li>
+<li><p>calling Praat inside R</p></li>
 </ul></li>
 </ul>
 </section>
@@ -568,8 +569,29 @@ Baichen Du, BSocSc V
 <li><p>Language attitudes, perception of the talker, how language is evaluated in a community, etc, are not directly measurable and therefore, latent.</p></li>
 <li><p>Indicators (e.g., Do you like your native language? How often do you use it at home? At work? At market place?) are used to indirectly measure them.</p></li>
 <li><p>The relationship between indicators, latent variables, and among LVs, can be easily modeled by lavaan.</p></li>
-<li><p>See the package documentation and <a href="https://lavaan.ugent.be/">the lavaan project</a> for more information.</p></li>
 </ul>
+<p>See the package documentation and <a href="https://lavaan.ugent.be/">the lavaan project</a> for more information.</p>
+</section>
+<section id="calling-praat-inside-r" class="slide level2 smaller">
+<h2>Calling Praat inside R</h2>
+<ul>
+<li>A more perfectionist approach to processing recordings might be to have the whole process fully replicable. No human error involved.</li>
+<li>To do this, we can:</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1"></a><span class="co"># Load the library</span></span>
+<span id="cb8-2"><a href="#cb8-2"></a><span class="fu">library</span>(speakr)</span>
+<span id="cb8-3"><a href="#cb8-3"></a><span class="co"># Specify and execute our script by specifying all arguments inside R, </span></span>
+<span id="cb8-4"><a href="#cb8-4"></a><span class="co"># instead of typing in script menu.</span></span>
+<span id="cb8-5"><a href="#cb8-5"></a>script <span class="ot">&lt;-</span> <span class="fu">system.file</span>(<span class="st">"scripts"</span>, <span class="st">"measuringF0.praat"</span>, <span class="at">package =</span> <span class="st">"speakr"</span>)</span>
+<span id="cb8-6"><a href="#cb8-6"></a><span class="do">## Specify arguments of the script</span></span>
+<span id="cb8-7"><a href="#cb8-7"></a>Gender <span class="ot">&lt;-</span> <span class="st">"F"</span></span>
+<span id="cb8-8"><a href="#cb8-8"></a>Unit <span class="ot">&lt;-</span> <span class="st">"Hz"</span></span>
+<span id="cb8-9"><a href="#cb8-9"></a>dir <span class="ot">&lt;-</span> <span class="fu">here</span>(<span class="st">"data"</span>)</span>
+<span id="cb8-10"><a href="#cb8-10"></a><span class="do">## Execute the script</span></span>
+<span id="cb8-11"><a href="#cb8-11"></a>F0 <span class="ot">&lt;-</span> <span class="fu">praat_run</span>(script, Gender, Unit, dir, <span class="at">capture =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb8-12"><a href="#cb8-12"></a><span class="co"># Then we can read in all CSVs the script created using here(), dir_ls(), functions.</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 </section>
 <section id="thank-you" class="slide level2">
 <h2>Thank you</h2>
