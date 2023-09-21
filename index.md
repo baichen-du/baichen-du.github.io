@@ -38,10 +38,10 @@ div {
 <div style="text-align: justify">
 <!--&#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (Submitted). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. <i>185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.</i>
 <br>
-<br>
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (Submitted). The role of visible articulatory variation in Mandarin sibilant contrast and merger. <i>98th Annual Meeting of Linguistic Society of America, New York, NY.</i>
-<br>
 <br>-->
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2024, Jan). The role of visible articulatory variation in Mandarin sibilant contrast and merger. Talk at be given at the 98th Annual Meeting of Linguistic Society of America, New York City, NY.
+<br>
+<br>
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Dec). Consonant and vowel rounding: same acoustics, different visuals. Poster to be presented at the 185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society, Sydney, Australia.
 <br>
 <br>
