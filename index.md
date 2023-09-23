@@ -84,7 +84,7 @@ div {
 
 - Acoustical and perceptual consequences of noise-masked cue weighting and integration.
 <br>
-With [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/)
+With [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/) and [Prof. Keith Johnson](https://linguistics.berkeley.edu/~kjohnson/)
 <br>
 - Audiovisual production and perception of Palatalization
 <br>
@@ -105,10 +105,6 @@ With [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/)
 - The acoustics of plosive lenition in Dutch.
 <br>
   With [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/).
-<br>
-- Examining infant language experiences in a cross-cultural context.
-<br>
-  With Prof. Melanie Soderstrom, and Mercedes Casar.
 <br>
 
 Check out my <a href="https://baichen-du.github.io/assets/main.pdf" target="_blank"> CV </a> for more details.
