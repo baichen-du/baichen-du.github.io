@@ -42,7 +42,7 @@ div {
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Dec). Consonant and vowel rounding: same acoustics, different visuals. Poster to be presented at the 185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society (ASA185), Sydney, Australia.
 <br>
 <br>
-&#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (Submitted). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. Poster to be presented at the 185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society (ASA185), Sydney, Australia.
+&#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (2023, Dec). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. Poster to be presented at the 185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society (ASA185), Sydney, Australia.
 <br>
 <br>
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk to be given at New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY.
