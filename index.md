@@ -21,7 +21,7 @@ div {
   My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference. -->
 <br>
 <br>
-  I will be applying for PhD degrees in 2024 Fall for 2025 cohort. Let me know if you see a fit.
+  I will be applying for PhD degrees in 2024 for 2025 Fall cohort. Let me know if you see a fit.
 <br>
 <br>
   During my undergraduate study, I worked on a number of projects with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. Keith Johnson </a> and <a href="https://www.alexandra-pfiffner.com/">Dr. Alexandra Pfiffner</a> at UC Berkeley Linguistics, and <a href="https://repository.hku.hk/cris/rp/rp02160">Prof. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of HKU Linguistics, as well as <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> at HKPolyU Chinese and Bilingual Studies. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervised me on my thesis. <!--I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
@@ -48,7 +48,7 @@ div {
 &#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (2023, Dec). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. Poster to be presented at the 185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society (ASA185), Sydney, Australia.
 <br>
 <br>
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk to be given at New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY.
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk to be given at New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY. <a href="https://docs.google.com/presentation/d/15aB5uoF73BXkLEtXdfhLGwyTWoB4F2DoGlLK8vTo9DY/edit?usp=sharing" target="_blank">Slides</a>
 <br>
 <br>
 &#8226; <b>Du, Baichen.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at the 184th Meeting of Acoustical Society of America 2023 (ASA184), Chicago, IL. <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
