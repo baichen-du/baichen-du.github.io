@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.25)  3 OCT 2023 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.25)  3 OCT 2023 21:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -772,96 +772,66 @@ File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 113.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-)
-Overfull \hbox (1.75494pt too wide) in paragraph at lines 150--150
- []|\OT1/LinuxLibertineT-TLF/m/n/9 Workshop|
- []
-
-[1
+) [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_kijugd.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc}]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.213 \end{SectionTable}
+l.215 \end{SectionTable}
                          [2]
-LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 250.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 252.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 250.
+(Font)              scaled to size 10.95pt on input line 252.
 
-Overfull \hbox (3.03296pt too wide) in paragraph at lines 279--279
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.286 \newpage
+               [3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}]
+Overfull \hbox (3.03296pt too wide) in paragraph at lines 288--288
  []|\OT1/LinuxLibertineT-TLF/m/n/9 Languages|
  []
 
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 281.
+(Font)              scaled to size 7.3pt on input line 290.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 281.
+(Font)              scaled to size 5.5pt on input line 290.
 
-Overfull \hbox (17.73763pt too wide) in paragraph at lines 281--281
+Overfull \hbox (17.73763pt too wide) in paragraph at lines 290--290
  []|\OT1/LinuxLibertineT-TLF/m/n/9 Programming$[]$|
  []
 
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 290.
+(Font)              scaled to size 10.0pt on input line 299.
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--291
+Underfull \hbox (badness 10000) in paragraph at lines 297--300
 
  []
 
 
-Overfull \hbox (9.90894pt too wide) in paragraph at lines 296--296
+Overfull \hbox (9.90894pt too wide) in paragraph at lines 305--305
  []|\OT1/LinuxLibertineT-TLF/m/n/9 Membership|
  []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.307 \end{SectionTable}
-                         [3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}]
-Overfull \hbox (3.80695pt too wide) in paragraph at lines 312--312
+Overfull \hbox (3.80695pt too wide) in paragraph at lines 321--321
  []|\OT1/LinuxLibertineT-TLF/m/n/9 Linguistics|
  []
 
 
-Overfull \hbox (12.86093pt too wide) in paragraph at lines 315--315
+Overfull \hbox (12.86093pt too wide) in paragraph at lines 324--324
  []|\OT1/LinuxLibertineT-TLF/m/n/9 Methodology|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 321--326
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--331
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--336
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--341
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--346
-
  []
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.388 \end{document}
+l.397 \end{document}
                      [4] (/Users/baichendu/Documents/GitHub/baichen-du.github.io/assets/.texpadtmp/main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -875,10 +845,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,9n,76p,404b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /Users/baichendu/Documents/GitHub/baichen-du.github.io/assets/.texpadtmp/main.pdf (4 pages, 256150 bytes).
+Output written on /Users/baichendu/Documents/GitHub/baichen-du.github.io/assets/.texpadtmp/main.pdf (4 pages, 252974 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  14 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
