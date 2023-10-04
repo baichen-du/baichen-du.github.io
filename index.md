@@ -21,6 +21,9 @@ div {
   My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference. -->
 <br>
 <br>
+  I will be applying for PhD degrees in 2024 Fall for 2025 cohort. Let me know if you see a fit.
+<br>
+<br>
   During my undergraduate study, I worked on a number of projects with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. Keith Johnson </a> and <a href="https://www.alexandra-pfiffner.com/">Dr. Alexandra Pfiffner</a> at UC Berkeley Linguistics, and <a href="https://repository.hku.hk/cris/rp/rp02160">Prof. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of HKU Linguistics, as well as <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> at HKPolyU Chinese and Bilingual Studies. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervised me on my thesis. <!--I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
 <br>
 <br>
