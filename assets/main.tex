@@ -11,7 +11,7 @@
 % --- Page layout settings ---
 
 % Set page margins
-\usepackage[left=0in, right=0.2in, bottom=0.5in, top=0.7in, headsep=0in, footskip=0.2in]{geometry}
+\usepackage[left=0in, right=0.1in, bottom=0.5in, top=0.5in, headsep=0in, footskip=0.2in]{geometry}
 \usepackage{multicol}
 \usepackage{hyperref}
 % Set line spacing
@@ -46,20 +46,20 @@
 % title of the section. See main document for how these environments are used.
 
 % Define settings for left-hand column in which dates are printed
-\newcolumntype{R}{>{\raggedleft}p{0.5in}}
+\newcolumntype{R}{>{\raggedleft}p{0.6in}}
 
 % Define 'SectionTable' environment
 \newenvironment{SectionTable}[1]{
 	\renewcommand*{\arraystretch}{1.7}
 	\setlength{\tabcolsep}{10pt}
-	\begin{longtable}{Rp{6.2in}} & #1 \\}
+	\begin{longtable}{Rp{6.3in}} & #1 \\}
 {\end{longtable}\vspace{-.3cm}}
 
 % Define 'SectionTableSingleSpace' environment
 \newenvironment{SectionTableSingleSpace}[1]{
 	\renewcommand*{\arraystretch}{1.2}
 	\setlength{\tabcolsep}{10pt}
-	\begin{longtable}{Rp{6.2in}} & #1 \\[0.6em]}
+	\begin{longtable}{Rp{6.3in}} & #1 \\[0.6em]}
 {\end{longtable}\vspace{-.3cm}}
 
 % --- Document starts here ---
@@ -69,31 +69,31 @@
 % --- Name and contact information ---
 
 \begin{SectionTable}{\huge Baichen Du} &
-Last update: \today \newline
+Oct, 2023 \newline
 Email: \href{mailto::baichen@connect.hku.hk}{baichen@connect.hku.hk} \& \href{mailto::albertbaichendu@berkeley.edu}{albertbaichendu@berkeley.edu}\newline
 Webpage: \href{https://baichen-du.github.io}{baichen-du.github.io}\newline
 Twitter: \href{https://twitter.com/_15abcd}{\_15abcd}\newline
-Github: \href{https://github.com/baichen-du}{baichen-du} \& \href{https://github.com/albertbaichendu}{albertbaichendu}\\
+%Github: \href{https://github.com/baichen-du}{baichen-du} \& \href{https://github.com/albertbaichendu}{albertbaichendu}\\
 \end{SectionTable}
 % --- Section: Research interests ---
 
-\begin{SectionTable}{\headingfont Research interests}
-\footnotesize Topics & Phonetics \& Phonology: experimental phonology and phonetics, speech production and perception, sound change, cross-modal cue integration. \\
+\begin{SectionTable}{\headingfont Research Interests}
+Topics & Phonetics \& Phonology: experimental phonology and phonetics, acoustic, auditory, and articulatory phonetics, speech production and perception, developmental phonetics and phonology, sound change, cue integration, weighting, and trading. \\
 %\footnotesize Methodology & Computer vision as articulometry in audiovisual phonetics research: Emotion and facial expression detection and tracking, facial landmarks tracking.\\
 \end{SectionTable}
 
 % --- Section: Education ---
 
 \begin{SectionTable}{\headingfont Education}
-\footnotesize 2023 -- 2024 &
-University of California, Berkeley, CA \newline
+2023 -- 2024 &
+\textbf{University of California, Berkeley}, CA \newline
 Undergraduate Visiting Student of Linguistics \newline
-Advisor: Dr. Alexandra Pfiffner. \textit{GPA: 4.0 out of 4.0}. \\
+Advisor: Dr. Alexandra Pfiffner. \newline GPA: 4.0 out of 4.0. \\
 
-\footnotesize 2019 -- 2024 &
-University of Hong Kong, HK \newline
-Bachelor of Social Sciences in Politics and Public Administration \& Linguistics \newline
-Advisors: Dr. Jonathan Havenhill, Dr. Youngah Do, Dr. Haohan Chen. \newline \textit{GPA: 3.93 out of 4.3, GPA of Linguistics: 4.12}. \\
+2019 -- 2024 &
+\textbf{University of Hong Kong}, HK \newline
+B.Soc.Sc, Politics and Public Administration \& Linguistics \newline
+Advisors: Dr. Jonathan Havenhill, Dr. Youngah Do, Dr. Haohan Chen. \newline GPA: 3.93 out of 4.3, GPA of Linguistics: 4.12 (Top 1). \\
 %& \textbf{Selected coursework}
 %\begin{itemize}[itemsep=0pt, leftmargin=*]
 %\item \textit{Statistics}: Asymptotic statistics, Mathematical statistics, Functional data analysis, High-dimensional statistics, Information theory
@@ -105,19 +105,19 @@ Advisors: Dr. Jonathan Havenhill, Dr. Youngah Do, Dr. Haohan Chen. \newline \tex
 % --- Section: Publications ---
 
 
-\begin{SectionTable}{\headingfont Publications \& manuscripts}
-\footnotesize Publications &
-\textbf{Du, Baichen.} \normalfont{(To appear). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023}}. Linguistic Society of University of California, Berkeley, CA} \\
+\begin{SectionTable}{\headingfont Publications \& Manuscripts}
+To appear&
+\textbf{Du, Baichen.} \normalfont{Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023}}. Linguistic Society of University of California, Berkeley, CA} \\
 
- &
- \normalfont{Do, Youngah\textsuperscript{*}}, \normalfont{Van Hoey, Thomas, Yu, Xiaoyu,} \textbf{Du, Baichen}, \normalfont{Tan, Lihui. }(In review). {Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations}\\
+Revising &
+ \normalfont{Do, Youngah\textsuperscript{*}}, \normalfont{Van Hoey, Thomas, Yu, Xiaoyu,} \textbf{Du, Baichen}, \normalfont{Tan, Lihui. } {Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations}\\
 
- &
- \textbf{Du, B.} \normalfont{(In prep). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Meetings on Acoustics 184ASA}}. Acoustical Society of America, 2023} \\
+In Prep &
+ \textbf{Du, B.} \normalfont{ An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Meetings on Acoustics 184ASA}}. Acoustical Society of America, 2023} \\
 
 
-\footnotesize Thesis &
-\textbf{Du, Baichen} \normalfont{(2023). \textit{The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.} Undergraduate Thesis of Political Psychology} \\
+2023 &
+\textbf{Du, Baichen} \normalfont{\textit{The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.} Undergraduate Thesis of Political Psychology, University of Hong Kong, HK.} \\
 
  %  &
 %  \normalfont{Soderstrom, M.\textsuperscript{*}, Casar, M.}, \textbf{Du, B.} (In prep). Examining infant language experiences in a cross-cultural context \\
@@ -125,6 +125,13 @@ Advisors: Dr. Jonathan Havenhill, Dr. Youngah Do, Dr. Haohan Chen. \newline \tex
 \end{SectionTable}
 
 \begin{SectionTable}{\headingfont Presentations}
+&
+\textbf{\normalsize{\textit{Workshops}}}\\
+2023 &
+\textbf{Du, Baichen} \normalfont{(2023, Sep). {Introduction to Advanced R Programming with RMarkdown.} The Sociolinguistic Lab at University of California, Berkeley.} \href{https://baichen-du.github.io/assets/SocioSkillShareSep12/SocioSkillShare_Sep12_BD.html#/title-slide}{Slides}.\\
+&
+\textbf{\textit{Conference Papers and Posters}}\\
+
 2023 &
 \textbf{Du, Baichen}\normalfont{, Pfiffner, Alexandra, Johnson, Keith. (2024, Jan). The role of visible articulatory variation in the Mandarin sibilant contrast and merger.} Talk to be given at the 98th Annual Meeting of Linguistic Society of America (LSA2024), New York City, NY. \\
 
@@ -147,8 +154,6 @@ Advisors: Dr. Jonathan Havenhill, Dr. Youngah Do, Dr. Haohan Chen. \newline \tex
 2023 &
 \textbf{Du, Baichen.} \normalfont{(2023, Apr). The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.} Poster presented at {Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK.} \\
 
-2023 &
-\textbf{Du, Baichen} \normalfont{(2023, Sep). {Introduction to Advanced R Programming with RMarkdown.} The Sociolinguistic Lab of University of California, Berkeley.} \href{https://baichen-du.github.io/assets/SocioSkillShareSep12/SocioSkillShare_Sep12_BD.html#/title-slide}{Slides}.\\
 \end{SectionTable}
 
 \begin{SectionTable}{\headingfont Work-in-progress}
@@ -167,52 +172,6 @@ Advisors: Dr. Jonathan Havenhill, Dr. Youngah Do, Dr. Haohan Chen. \newline \tex
  \normalfont{Do, Youngah\textsuperscript{*}}, Sze, Sui Lung,\textbf{ Du, Baichen}, Ho, To Tsz, Li, Tak Wang. Bilingual speakers’ performance in simultaneous generalization of multiple phonological patterns \\
 \end{SectionTable}
 
-
-% --- Section: Research experience ---
-
-\begin{SectionTable}{\headingfont Research experience}
-
-&
-\normalsize \textbf{UC Berkeley}\\
-\footnotesize 2023 &
-Undergraduate Research Apprenticeship Program \hfill Dr. Alexandra Pfiffner \newline
-Supervised Independent Study \hfill Dr. Alexandra Pfiffner\\
-%Assistance to TextGrid segmentation and auto-alignment of boundaries by Praat scripting. \\
-
-&
-\normalsize \textbf{Polytechnic Univ. of HK}\\
-\footnotesize 2023 &
-Speech and Language Science Lab, \hfill Dr. Yao Yao \\
-%Assistance to study design, experimental programming, participant recuriting, emotion and facial expression detection and tracking using CNN, eye tracking and behavioral data collection. \\
-&
-\normalsize \textbf{Univ. of HK}\\
-\footnotesize 2023 &
-Dept of Linguistics \hfill Dr. Jonathan Havenhill \\
-
-% & 
-%Assistance to Study design, audiovisual stimuli creation, experimental programming in PsychoPy and Pavolovia.org using Python and Javascript, subjects recuriting, data collection, statistical modelling (e.g., Genearlized Linear Mixed-effects Models) using R, Manuscripts preparation.\\
-
-\footnotesize 2022 &
-Undergraduate Research Fellowship Program \hfill Dr. Haohan Chen \newline
-Dept of Politics and Public Administration \hfill Dr. Haohan Chen \\
-\footnotesize 2021/22&
-Language Development Lab \hfill Dr. Youngah Do \& Dr. Jonathan Havenhill. \\
-
-
-\footnotesize 2021 &
-Undergraduate Research Opportunity Program \hfill Dr. Jonathan Havenhill\\
-
-% &
-%Independent study titled "The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda". Assisting web data extraction using R. Analyzing and interpreting text data. Compiling tutorials of advanced data science course for POLI3148: Data Science in Politics and Public Administration. \\
-
-&
-\normalsize \textbf{Univ. of Manitoba}\\
-\footnotesize 2022 &
-The Baby Language Lab, Univ. of Manitoba \hfill PI: Prof. Melaine Soderstrom. \\
-%Assistance to automatic pitch measurement using Praat, performing statistical analysis in R. \\
-
-
-\end{SectionTable}
 
 % --- Section: Teaching experience ---
 
@@ -246,33 +205,33 @@ The Baby Language Lab, Univ. of Manitoba \hfill PI: Prof. Melaine Soderstrom. \\
 
 % --- Section: Talks and tutorials ---
 
-\begin{SectionTable}{\headingfont Grants and fundings}
+\begin{SectionTable}{\headingfont Grants and Fundings}
 
 2023 &
 Down Funder Student Travel Funding, Acoustical Society of America.  \hfill US\$1,000 \newline
-\textit{185th Meeting of Acoustical Society of America \& 2023 Meeting of the Australian \newline Acoustical Society, Syndey}\\
+Trip to: 185th Meeting of Acoustical Society of America \& 2023 Meeting of the Australian \newline Acoustical Society, Syndey\\
 
-&
+2023 &
 Instructional Grants at Dept of Linguistics, UC Berkeley.  \hfill US\$600  \newline
-\textit{Audiovisual production and perception of Mandarin sibilants \& Cross-modal cue \newline integration and weighting in the perception of Mandarin high front vowel contrast.} \\
+Project: Audiovisual production and perception of Mandarin sibilants \& Cross-modal cue \newline integration and weighting in the perception of Mandarin high front vowel contrast. \\
 
 2022& 
 Transdisciplinary Undergraduate Research Initiative Grant \hfill HK\$3,830   \newline
-\textit{An audio-visual account for linguistic and social selectivity in the accommodation \newline to sibilant mergers in Mandarin.} \\
+Project: An audio-visual account for linguistic and social selectivity in the accommodation \newline to sibilant mergers in Mandarin. \\
 
-& 
-Leung Kau Kui Research and Teaching Grant \hfill US\$1,300 \newline
-\textit{The backfire effect in the perception and judgement of congruent and incongruent \newline interpretation of political propaganda.} \\
+2022& 
+Leung Kau Kui Research and Teaching Endowment \hfill US\$1,300 \newline
+Project: The backfire effect in the perception and judgement of congruent and incongruent \newline interpretation of political propaganda. \\
 \end{SectionTable}
 
-\begin{SectionTable}{\headingfont Honors and Awards}
+\begin{SectionTableSingleSpace}{\headingfont Honors and Awards}
 2023&
-Ms Cecilia Prize of Linguistics  \hfill HK\$1,000 \\
+Ms Cecilia Prize of Linguistics  \hfill HK\$1,000\\
 2022&
-Globalink Research Award  \hfill CA\$12,000 \\
-&
+Globalink Research Award, Mitacs \hfill CA\$12,000 \\
+2022&
 The K.K.Ho Prize  \hfill US\$2,560 \\
-&
+2022&
 Dean's Honor List\hfill \\
 2021&
 Dean's Honor List\hfill \\
@@ -280,50 +239,111 @@ Dean's Honor List\hfill \\
 Dean's Honor List\hfill \\
 2019&
 Soong Ching-ling Foundation Scholarship  \hfill US\$ 30,700 \\
-\end{SectionTable}
+\end{SectionTableSingleSpace}
 
+
+
+% --- Section: Research experience ---
+
+\begin{SectionTableSingleSpace}{\headingfont Research Experience}
+
+	%&
+	%\normalsize \textbf{UC Berkeley}\\
+ 2023 &
+	Undergraduate Research Apprenticeship Program \hfill Dr. Alexandra Pfiffner \\
+	2023&
+	Supervised Independent Study \hfill Dr. Alexandra Pfiffner\\
+	%Assistance to TextGrid segmentation and auto-alignment of boundaries by Praat scripting. \\
+	
+	%&
+	%\normalsize \textbf{Polytechnic Univ. of HK}\\
+2023 &
+	Speech and Language Science Lab, Hong Kong Polytechnic University \hfill Dr. Yao Yao \\
+	%Assistance to study design, experimental programming, participant recuriting, emotion and facial expression detection and tracking using CNN, eye tracking and behavioral data collection. \\
+	%&
+	%\normalsize \textbf{Univ. of HK}\\
+2023 &
+	Student Research Assistant \hfill Dr. Jonathan Havenhill \\
+	
+	% & 
+	%Assistance to Study design, audiovisual stimuli creation, experimental programming in PsychoPy and Pavolovia.org using Python and Javascript, subjects recuriting, data collection, statistical modelling (e.g., Genearlized Linear Mixed-effects Models) using R, Manuscripts preparation.\\
+	
+2022 &
+	Undergraduate Research Fellowship Program \hfill Dr. Haohan Chen \\
+	2022&
+	Student Research Assistant \hfill Dr. Haohan Chen \\
+
+	2021-22&
+	Language Development Lab \hfill Dr. Youngah Do \\
+	
+	
+2021 &
+	Undergraduate Research Opportunity Program \hfill Dr. Jonathan Havenhill\\
+	
+	% &
+	%Independent study titled "The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda". Assisting web data extraction using R. Analyzing and interpreting text data. Compiling tutorials of advanced data science course for POLI3148: Data Science in Politics and Public Administration. \\
+	
+	%&
+	%\normalsize \textbf{Univ. of Manitoba}\\
+2022 &
+	The Baby Language Lab, University of Manitoba-Winnipeg \hfill Prof. Melaine Soderstrom. \\
+	%Assistance to automatic pitch measurement using Praat, performing statistical analysis in R. \\
+
+	\end{SectionTableSingleSpace}
+	
 % --- Section: Mentorship and service ---
-\newpage
-\begin{SectionTable}{\headingfont Skills}
-\footnotesize Languages &
+%\newpage
+\begin{SectionTableSingleSpace}{\headingfont Skills}
+Languages &
 English, Mandarin, Cantonese\\
-\footnotesize Programming\textsuperscript{*} &
+
+\small Programming &
 R, Praat Scripting, \LaTeX, Markdown, HTML, Python\\
 
-\footnotesize Research Tools &
-RStudio, Praat, PsychoPy, EyeLink, ffmpeg, OpenFace, ELAN, Qualtrics, Montreal Forced Alignment, Emotion and facial expression extraction using CNN, Facial landmarks tracking, TANDAM-STRAIGHT speech synthesis and morphing, Amazon Polly Speech Synthesis, Amazon Mechanical Turk\\
+Research Tools &
+\textbf{Statistics:} RStudio, jamovi\newline
+\textbf{Experiment:} PsychoPy, EyeLink 1000 Plus, Pavlovia.org\newline
+\textbf{Measurement:} Praat, OpenFace, Qualtrics\newline
+\textbf{Processing:} Klatt Synthesizer, Montreal Forced Alignment,TANDAM-STRAIGHT, ffmpeg, ELAN, Polly\newline 
+\textbf{Recruitment:} Mechanical Turk, Prolific\\
 
-\footnotesize Research Skills &
-{Frequentist and Bayesian statistics (e.g., Linear Mixed Effects Regression, Generalized Mixed Effects Regression)}, Structural Equation Modeling (e.g., Exploratory and Confirmatory Factor Analysis, Latent Growth Model, Multi-level Modelling), Web Data Extraction, {Text Data Processing (e.g., Topic Modelling, Sentiment analysis)}\newline
-\newline
-\small \textsuperscript{*}In a descending order of proficiency\\
-\end{SectionTable}
+Research Skills &
+\textbf{Statistical Modelling:}{ Frequentist and Bayesian statistics (e.g., Linear/Generalized Mixed Effects Regression)}, Structural Equation Modeling (e.g., EFA, CFA, Latent Growth Model, Multi-level Modelling), \newline
+\textbf{Text Data Processing:} web data extraction, topic modelling, sentiment analysis\newline
+\textbf{Computer Vision:} Facial Landmarks Tracking, Emotion Detection, Eye Tracking\\
+\end{SectionTableSingleSpace}
 
 % --- Section: Mentorship and service ---
 
-\begin{SectionTable}{\headingfont Membership and service}
-\footnotesize Membership &
-Acoustical Society of America \newline
-Linguistic Society of America \\
+\begin{SectionTableSingleSpace}{\headingfont Membership and Service}
+2023-&
+Acoustical Society of America \hfill Student member\\
+2021-&
+Linguistic Society of America \hfill Student member\\
 
-\footnotesize Service &
-Mitacs \hfill Globalink Research Ambassador \newline
-Undergraduate Buddy Program \hfill Mentor to Fu Jiani \newline
-Chinese Culture Committee \hfill Chariperson\newline
-Social Service Fund \hfill External Secretary\newline
-Pad for Hope Foundation \hfill Teaching Assistant\newline
-University Service Centre of CUHK \hfill Helper
-\end{SectionTable}
+2023 &
+Mitacs \hfill Globalink Research Ambassador \\
+2022&
+ Undergraduate Buddy Program \hfill Mentor to Fu Jia'ni \\
+2021-23&
+Chinese Culture Committee at R.C.Lee Hall \hfill Chariperson\\
+2020-21&
+Social Service Fund, HKUSU \hfill External Secretary\\
+2021&
+Pad for Hope Foundation \hfill Teaching Assistant\\
+2020&
+University Service Centre of CUHK \hfill Student Helper\\
+\end{SectionTableSingleSpace}
 
 % --- Section: Professional society memberships ---
 %\newpage
-\begin{SectionTable}{\headingfont Key courses}
-\footnotesize Linguistics &
-Phonetics (A), Advanced Phonetics (A), Experimental Phonetics (A+), Phonology (A+), Phonetic-Phonology interface (A+), Variation analysis (A-), Advanced Sociolinguistics (A), Laboratory linguistics (A),  Second language research (A+), Languages of the world (A+), Grammatical description (A+), Semantics (A-), Language Revitalization (Pending).\\
+\begin{SectionTableSingleSpace}{\headingfont Relevant Coursework}
+Linguistics &
+Phonetics (A), Advanced Phonetics (A), Experimental Phonetics (A+), Phonology (A+), \newline Phonetic-Phonology interface (A+), Variation analysis (A-), Advanced Sociolinguistics (A), \newline Laboratory linguistics (A),  Second language research (A+), Languages of the world (A+), \newline Grammatical description (A+), Semantics (A-), Language Revitalization (Pending).\\
 
-\footnotesize Methodology &
-Research Methods in Social Sciences (A+), Data Science in Politics and Public Administration (A+),\newline Data Analysis with R (A), Policy and Program Evaluation (A-), Advanced Methods in Psychological Science (Pending) \\
-\end{SectionTable}\vspace{-1.5cm}
+Methods &
+Advanced Statistics in Psychology (Pending), Research Methods in Social Sciences (A+), \newline Data Science in Politics and Public Administration (A+), Policy and Program Evaluation (A-),\newline Data Analysis with R (A)\\
+\end{SectionTableSingleSpace}\vspace{-1.5cm}
 
 %\begin{SectionTable}{}
 %	& \begin{multicols*}{2}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.4.12)  22 SEP 2023 19:32
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.4.12)  11 OCT 2023 23:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -905,13 +905,12 @@ File: CJK.enc 2021/10/16 4.8.5
 \CJK@indent=\box107
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-))
-No file main.aux.
+)) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 67.
 LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 67.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/omlnxlmi.fd
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
 LaTeX Font Info:    ... okay on input line 67.
@@ -1030,12 +1029,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 67.
 LaTeX Info: Redefining \pageref on input line 67.
 LaTeX Info: Redefining \nameref on input line 67.
+ (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1045,15 +1042,15 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(0.0pt, 599.84123pt, 14.45377pt)
-* v-part:(T,H,B)=(50.58878pt, 708.24622pt, 36.135pt)
+* h-part:(L,W,R)=(0.0pt, 607.06757pt, 7.22743pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=599.84123pt
-* \textheight=708.24622pt
+* \textwidth=607.06757pt
+* \textheight=722.7pt
 * \oddsidemargin=-72.26999pt
 * \evensidemargin=-72.26999pt
-* \topmargin=-33.68121pt
+* \topmargin=-48.135pt
 * \headheight=12.0pt
 * \headsep=0.0pt
 * \topskip=11.0pt
@@ -1079,28 +1076,19 @@ LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
 (Font)              scaled to size 14.4pt on input line 80.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 14.4pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
-LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 81.
-Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
-LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 91.
-Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.95pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
-
-Overfull \hbox (8.93701pt too wide) in paragraph at lines 137--137
- []|\TU/LinLibertine(0)/m/n/9 Publications|
- []
-
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 138.
+(Font)              scaled to size 10.95pt on input line 89.
 Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.95pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
-LaTeX Font Info:    Trying to load font information for OT1+LinLibertine(0) on input line 141.
-LaTeX Font Info:    No file OT1LinLibertine(0).fd. on input line 141.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 110.
+Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.95pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
+LaTeX Font Info:    Trying to load font information for OT1+LinLibertine(0) on input line 113.
+LaTeX Font Info:    No file OT1LinLibertine(0).fd. on input line 113.
 
 LaTeX Font Warning: Font shape `OT1/LinLibertine(0)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 141.
+(Font)              using `OT1/cmr/m/n' instead on input line 113.
 
 Requested font "cmr10" at 10.95pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
@@ -1126,7 +1114,7 @@ Requested font "ntxexx" at 8.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
 Requested font "ntxexx" at 6.1pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 141.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 113.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
@@ -1136,7 +1124,7 @@ Requested font "nxlmia" at 8.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
 Requested font "nxlmia" at 6.1pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 141.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 113.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
@@ -1146,7 +1134,7 @@ Requested font "ntxsym" at 8.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 Requested font "ntxsym" at 6.1pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 141.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 113.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
@@ -1163,170 +1151,48 @@ Requested font "ntxexa" at 8.0pt
 Requested font "ntxexa" at 6.1pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 141.
+(Font)              scaled to size 8.0pt on input line 113.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 8.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
-
-Overfull \hbox (10.098pt too wide) in paragraph at lines 168--168
- []|\TU/LinLibertine(0)/m/n/9 Presentation|
- []
-
-
-Overfull \hbox (1.755pt too wide) in paragraph at lines 190--190
- []|\TU/LinLibertine(0)/m/n/9 Workshop|
- []
-
-[1
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/it' will be
+(Font)              scaled to size 10.95pt on input line 129.
+Requested font "[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.95pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RBI.otf
+ [1
 
 ] [2]
-Overfull \hbox (3.033pt too wide) in paragraph at lines 304--304
- []|\TU/LinLibertine(0)/m/n/9 Languages|
- []
-
-Requested font "cmr9" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-
-LaTeX Font Warning: Font shape `OT1/LinLibertine(0)/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 306.
-
-Requested font "nxlmi" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
-Requested font "nxlmi7" at 7.3pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmi7.tfm
-Requested font "nxlmi5" at 5.5pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmi5.tfm
-Requested font "ntxsy" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
-Requested font "ntxsy7" at 7.3pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy7.tfm
-Requested font "ntxsy5" at 5.5pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy5.tfm
-Requested font "ntxexx" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "ntxexx" at 7.3pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "ntxexx" at 5.5pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "nxlmia" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "nxlmia" at 7.3pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "nxlmia" at 5.5pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "ntxsym" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsym" at 7.3pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsym" at 5.5pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsyc" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxsyc" at 7.3pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxsyc" at 5.5pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxexa" at 9.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-Requested font "ntxexa" at 7.3pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-Requested font "ntxexa" at 5.5pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 7.3pt on input line 306.
-Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.3pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
-
-Overfull \hbox (17.7377pt too wide) in paragraph at lines 306--306
- []|\TU/LinLibertine(0)/m/n/9 Programming$[]$|
+Overfull \hbox (4.29196pt too wide) in paragraph at lines 297--297
+ []|\TU/LinLibertine(0)/m/n/10.95 Languages|
  []
 
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 315.
+(Font)              scaled to size 10.0pt on input line 300.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
-Requested font "nxlmi" at 10.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
-Requested font "ntxsy" at 10.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
-Requested font "ntxexx" at 10.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "nxlmia" at 10.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "ntxsym" at 10.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsyc" at 10.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxexa" at 10.0pt
- -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--316
-
- []
-
-
-Overfull \hbox (9.90901pt too wide) in paragraph at lines 321--321
- []|\TU/LinLibertine(0)/m/n/9 Membership|
+Overfull \hbox (12.94757pt too wide) in paragraph at lines 300--300
+ []|\TU/LinLibertine(0)/m/n/10 Programming|
  []
 
 [3]
-Overfull \hbox (3.807pt too wide) in paragraph at lines 337--337
- []|\TU/LinLibertine(0)/m/n/9 Linguistics|
- []
-
-
-Overfull \hbox (12.86101pt too wide) in paragraph at lines 340--340
- []|\TU/LinLibertine(0)/m/n/9 Methodology|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--351
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--356
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 357--361
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 362--366
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--371
-
+Overfull \hbox (5.23366pt too wide) in paragraph at lines 341--341
+ []|\TU/LinLibertine(0)/m/n/10.95 Linguistics|
  []
 
 [4] (./main.aux)
 
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
-
-
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26018 strings out of 476179
- 504835 string characters out of 5809544
- 769175 words of memory out of 5000000
- 46493 multiletter control sequences out of 15000+600000
- 493362 words of font info for 124 fonts, out of 8000000 for 9000
+ 25989 strings out of 476179
+ 504214 string characters out of 5809544
+ 766806 words of memory out of 5000000
+ 46460 multiletter control sequences out of 15000+600000
+ 480577 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,9n,112p,395b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,9n,112p,399b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (4 pages).
