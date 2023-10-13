@@ -30,7 +30,7 @@ div {
 
 ## Research Interests
 
-- **Phonetics & Phonology**: Experimental Phonetics and Phonology, Speech Perception/Production, Cue integration and weighting, Sound Change, Computer Vision, Eye-tracking/Pupillometry
+- **Phonetics & Phonology**: Experimental and Developmental Phonetics & Phonology, Speech Perception & Production, Cue integration, weighting, and trading, Sound Change and Variation, Computer Vision, Eye-tracking/Pupillometry
 
 ## Presentations & Publications
 
