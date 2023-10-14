@@ -27,8 +27,6 @@ editor: visual
 
     -   keyboard shortcuts 
 
-    -   lavaan
-
     -   calling Praat inside R
 
 ## RMarkdown {.smaller}
@@ -168,18 +166,6 @@ theme_set(theme_minimal()+theme(axis.text.x = element_text(size = 12))+
 -   The piping symbol?
     -   cmd/ctrl + shift + M
 -   These are among the absolutely most frequently used ones.
-
-## Advanced Statistics for Sociothings using lavaan {.smaller}
-
--   Latent Variable and Confirmatory Factor Analysis using the package lavaan.
-
--   Language attitudes, perception of the talker, how language is evaluated in a community, etc, are not directly measurable and therefore, latent.
-
--   Indicators (e.g., Do you like your native language? How often do you use it at home? At work? At market place?) are used to indirectly measure them.
-
--   The relationship between indicators, latent variables, and among LVs, can be easily modeled by lavaan.
-
-See the package documentation and [the lavaan project](https://lavaan.ugent.be/) for more information.
 
 ## Calling Praat inside R {.smaller}
 
