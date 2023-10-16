@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.4.12)  12 OCT 2023 21:33
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.4.12)  16 OCT 2023 02:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1161,21 +1161,21 @@ Requested font "[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;
  [1
 
 ] [2]
-Overfull \hbox (4.29196pt too wide) in paragraph at lines 294--294
+Overfull \hbox (4.29196pt too wide) in paragraph at lines 295--295
  []|\TU/LinLibertine(0)/m/n/10.95 Languages|
  []
 
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 297.
+(Font)              scaled to size 10.0pt on input line 298.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
 
-Overfull \hbox (12.94757pt too wide) in paragraph at lines 297--297
+Overfull \hbox (12.94757pt too wide) in paragraph at lines 298--298
  []|\TU/LinLibertine(0)/m/n/10 Programming|
  []
 
 [3]
-Overfull \hbox (5.23366pt too wide) in paragraph at lines 338--338
+Overfull \hbox (5.23366pt too wide) in paragraph at lines 339--339
  []|\TU/LinLibertine(0)/m/n/10.95 Linguistics|
  []
 
