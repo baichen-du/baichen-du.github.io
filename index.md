@@ -45,7 +45,7 @@ div {
 &#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (2023, Dec). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. Poster to be presented at the 185th Meeting of Acoustical Society of America & 2023 Meeting of the Australian Acoustical Society (ASA185), Sydney, Australia.
 <br>
 <br>
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk to be given at New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY. <a href="https://docs.google.com/presentation/d/15aB5uoF73BXkLEtXdfhLGwyTWoB4F2DoGlLK8vTo9DY/edit?usp=sharing" target="_blank">Slides</a>
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk given at New Ways of Analyzing Variation 51: Variation in the World’s Languages (NWAV51), Queens College CUNY, New York City, NY. <a href="https://docs.google.com/presentation/d/15aB5uoF73BXkLEtXdfhLGwyTWoB4F2DoGlLK8vTo9DY/edit?usp=sharing" target="_blank">Slides</a>
 <br>
 <br>
 &#8226; <b>Du, Baichen.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at the 184th Meeting of Acoustical Society of America 2023 (ASA184), Chicago, IL. <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
