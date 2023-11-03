@@ -34,6 +34,33 @@ div {
 
 ## Presentations & Publications
 
+**Publications and Manuscripts**
+
+<div style="text-align: justify">
+&#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra, Johnson, Keith. (Accepted). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30</i>(2).
+<br>
+<br>
+&#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra. (To be submitted). Cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger.
+<br>
+<br>
+&#8226; <b>Du, Baichen.</b> (To appear). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
+<br>
+<br>
+&#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (In review). Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations.
+<br>
+<br>
+&#8226; <b>Du, Baichen.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
+<br>
+<br>
+&#8226; <b>Du, Baichen.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished Undergraduate thesis of political psychology. University of Hong Kong.
+</div>
+<br>
+**Workshops**
+
+<div style="text-align: justify">
+&#8226; <b>Du, Baichen.</b> (2023, Sep). Introduction to Advanced R Programming with RMarkdown. The Sociolinguistics Lab, University of California, Berkeley. <a href="https://baichen-du.github.io/assets/SocioSkillShareSep12/SocioSkillShare_Sep12_BD.html" target="_blank">Slides</a>
+</div>
+<br>
 **Conference Presentations**
 <div style="text-align: justify">
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2024, Jan). The role of visible articulatory variation in Mandarin sibilant contrast and merger. Talk at be given at the 98th Annual Meeting of Linguistic Society of America (LSA2024), New York City, NY.
@@ -55,33 +82,6 @@ div {
 <br>
 <br>
 &#8226; <b>Du, Baichen.</b> (2023). The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda: A pre-analysis plan. Poster presentation at Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK. <!--<a href="https://baichen-du.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
-</div>
-<br>
-**Publications and Manuscripts**
-
-<div style="text-align: justify">
-&#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra, Johnson, Keith. (Accepted). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30</i>(2).
-<br>
-<br>
-&#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra. (To be submitted). Cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger.
-<br>
-<br>
-&#8226; <b>Du, Baichen.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
-<br>
-<br>
-&#8226; <b>Du, Baichen.</b> (To appear). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
-<br>
-<br>
-&#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (In review). Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations.
-<br>
-<br>
-&#8226; <b>Du, Baichen.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Undergraduate thesis of political psychology. University of Hong Kong.
-</div>
-<br>
-**Workshops**
-
-<div style="text-align: justify">
-&#8226; <b>Du, Baichen.</b> (2023, Sep). Introduction to Advanced R Programming with RMarkdown. The Sociolinguistics Lab, University of California, Berkeley. <a href="https://baichen-du.github.io/assets/SocioSkillShareSep12/SocioSkillShare_Sep12_BD.html" target="_blank">Slides</a>
 </div>
 <br>
 <p></p>
