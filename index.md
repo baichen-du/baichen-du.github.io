@@ -32,7 +32,7 @@ div {
 
 - **Phonetics & Phonology**: Experimental and Developmental Phonetics & Phonology, Speech Perception & Production, Cue integration, weighting, and trading, Sound Change and Variation, Computer Vision, Eye-tracking/Pupillometry
 
-## Presentations & Publications
+## Publications & Presentations
 
 **Publications and Manuscripts**
 
@@ -47,9 +47,6 @@ div {
 <br>
 <br>
 &#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (In review). Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations.
-<br>
-<br>
-&#8226; <b>Du, Baichen.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
 <br>
 <br>
 &#8226; <b>Du, Baichen.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished undergraduate thesis of political psychology. University of Hong Kong.
