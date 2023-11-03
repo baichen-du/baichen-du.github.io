@@ -60,7 +60,10 @@ div {
 **Publications and Manuscripts**
 
 <div style="text-align: justify">
-&#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra. (To be submitted). Visible articulation as a cue to sound change: Lip rounding and protrusion variability and the effect of cross-modality cue weighting on listener-based sound change. 
+&#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra, Johnson, Keith. (Accepted). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30</i>(2).
+<br>
+<br>
+&#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra. (To be submitted). Cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger.
 <br>
 <br>
 &#8226; <b>Du, Baichen.</b> (In Prep). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In <i>Proceedings of Meetings on Acoustics ASA2023. </i>Acoustical Society of America.
