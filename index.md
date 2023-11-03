@@ -63,7 +63,7 @@ div {
 <br>
 **Conference Presentations**
 <div style="text-align: justify">
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2024, Jan). The role of visible articulatory variation in Mandarin sibilant contrast and merger. Talk at be given at 2024 LSA Annual Meeint (LSA2024), New York City, NY.
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2024, Jan). The role of visible articulatory variation in Mandarin sibilant contrast and merger. Talk at be given at 2024 LSA Annual Meeting (LSA2024), New York City, NY.
 <br>
 <br>
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Dec). Consonant and vowel rounding: same acoustics, different visuals. Poster to be presented at ASA 185th Meeting (ASA185) Sydney, Australia.
