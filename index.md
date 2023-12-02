@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-2023/12/02: Posters and slides for ASA185 and LSA98(LSA2024) can be found in the section of papers and presentations. 
+2023/12/02: Posters and slides can be found after ASA185 and LSA98(LSA2024) in the section of papers and presentations.
 
 ## About Me
 
