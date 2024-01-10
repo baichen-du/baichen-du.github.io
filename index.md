@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-2023/12/02: Posters and slides can be found after ASA185 and LSA98(LSA2024) in the section of papers and presentations.
+<!--2023/12/02: Posters and slides can be found after ASA185 and LSA98(LSA2024) in the section of papers and presentations.--->
 
 ## About Me
 
@@ -57,7 +57,7 @@ div {
 **Workshops**
 
 <div style="text-align: justify">
-&#8226; <b>Du, Baichen.</b> (2023, Sep). Introduction to Advanced R Programming with RMarkdown. The Sociolinguistics Lab, University of California, Berkeley. <a href="https://baichen-du.github.io/assets/SocioSkillShareSep12/SocioSkillShare_Sep12_BD.html" target="_blank">Slides</a>
+&#8226; <b>Du, Baichen.</b> (2023, Sep). Introduction to Advanced R Programming with RMarkdown. The Sociolinguistics Lab, University of California, Berkeley.<!-- <a href="https://baichen-du.github.io/assets/SocioSkillShareSep12/SocioSkillShare_Sep12_BD.html" target="_blank">Slides</a>--->
 </div>
 <br>
 **Conference Presentations**
@@ -65,19 +65,19 @@ div {
 &#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2024, Jan). The role of visible articulatory variation in Mandarin sibilant contrast and merger. Talk at be given at 2024 LSA Annual Meeting (LSA2024), New York City, NY.
 <br>
 <br>
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Dec). Consonant and vowel rounding: same acoustics, different visuals. Poster presented at ASA 185th Meeting (ASA185) Sydney, Australia. <a href="https://baichen-du.github.io/assets/Updated_BD-AF-KJ_ASA185_Sydney_Poster.pdf" target="_blank">Poster</a>
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Dec). Consonant and vowel rounding: same acoustics, different visuals. Poster presented at ASA 185th Meeting (ASA185) Sydney, Australia. <!--<a href="https://baichen-du.github.io/assets/Updated_BD-AF-KJ_ASA185_Sydney_Poster.pdf" target="_blank">Poster</a>--->
 <br>
 <br>
-&#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (2023, Dec). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. Poster presented at ASA 185th Meeting (ASA185) Sydney, Australia. <a href="https://baichen-du.github.io/assets/Updated_JH-BD_ASA185_Sydney_Poster.pdf" target="_blank">Poster</a>
+&#8226; Havenhill, Jonathan.<sup>*</sup>, <b>Du, Baichen.</b> (2023, Dec). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. Poster presented at ASA 185th Meeting (ASA185) Sydney, Australia. <!--<a href="https://baichen-du.github.io/assets/Updated_JH-BD_ASA185_Sydney_Poster.pdf" target="_blank">Poster</a>--->
 <br>
 <br>
-&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk given at New Ways of Analyzing Variation 51 (NWAV51), Queens College, New York City, NY. <a href="https://docs.google.com/presentation/d/15aB5uoF73BXkLEtXdfhLGwyTWoB4F2DoGlLK8vTo9DY/edit?usp=sharing" target="_blank">Slides</a>
+&#8226; <b>Du, Baichen</b>, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk given at New Ways of Analyzing Variation 51 (NWAV51), Queens College, New York City, NY. <!--<a href="https://docs.google.com/presentation/d/15aB5uoF73BXkLEtXdfhLGwyTWoB4F2DoGlLK8vTo9DY/edit?usp=sharing" target="_blank">Slides</a>--->
 <br>
 <br>
-&#8226; <b>Du, Baichen.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at ASA 184th Meeting (ASA184), Chicago, IL. <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>
+&#8226; <b>Du, Baichen.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at ASA 184th Meeting (ASA184), Chicago, IL. <!--<a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>--->
 <br>
 <br>
-&#8226; <b>Du, Baichen.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA. <a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>
+&#8226; <b>Du, Baichen.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA. <!--<a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>--->
 <br>
 <br>
 &#8226; <b>Du, Baichen.</b> (2023). The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda: A pre-analysis plan. Poster presentation at Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK. <!--<a href="https://baichen-du.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
