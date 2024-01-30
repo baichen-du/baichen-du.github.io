@@ -51,7 +51,7 @@ div {
 &#8226; <b>Du, Baichen.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished undergraduate thesis of political psychology. University of Hong Kong.
 <br>
 <br>
-&#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (Revising). Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations.
+&#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (Accepted). Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning.
 </div>
 <br>
 **Workshops**
