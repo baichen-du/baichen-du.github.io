@@ -17,7 +17,7 @@ div {
   See my <a href="https://baichen-du.github.io/assets/main.pdf" target="_blank"> CV </a> for more details.
 <br>
 <br>
-  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am a visiting undergraduate student at UC Berkeley, also a final year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and PPA (Politics and Public Administration). I am interested in <b>experimental phonology and phonetics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change and variation</b> in specific. <!--Methodologicaly, I am also interested in applying computer vision tools to audiovisual phonetic research, such as detecting and tracking facial expressions or critical articulatory cues, and using eyetracking and pupillometry data to detect effects in speech perception that are not salient enough to surface as behavioural patterns (e.g, accuracy).
+  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am a final year undergraduate student at the University of Hong Kong, majoring in <b>Linguistics</b> and PPA (Politics and Public Administration). I visited UC Berkeley in the Spring and Fall semester of 2023 at UC Berkeley. I am interested in <b>experimental phonology and phonetics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change and variation</b> in specific. <!--Methodologicaly, I am also interested in applying computer vision tools to audiovisual phonetic research, such as detecting and tracking facial expressions or critical articulatory cues, and using eyetracking and pupillometry data to detect effects in speech perception that are not salient enough to surface as behavioural patterns (e.g, accuracy).
 <br>
 <br>
   My UG thesis investigates how acoustic distance in speakers' production repertoire and social attitude affect the perceptual boundary between alveolars and retroflexes in sibilants merges of Mandarin. Some other projects I contributed also study phonological learning, bilingualism, or cognitive preference. -->
@@ -26,7 +26,7 @@ div {
   During my undergraduate study, I worked on a number of projects with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. Keith Johnson </a> and <a href="https://www.alexandra-pfiffner.com/">Dr. Alexandra Pfiffner</a> at UC Berkeley Linguistics, and <a href="https://repository.hku.hk/cris/rp/rp02160">Prof. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of HKU Linguistics, as well as <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> at HKPolyU Chinese and Bilingual Studies. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervised me on my thesis. <!--I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
 <br>
 <br>
-  Apart from academic interests, I also enjoy photographing, cycling, and hiking. One of my life goals is to keep a Ragdoll at home, though I have not achieved it yet. So if you have a lovely one, do let me know and get jealous.--></div>
+  Apart from research interests, we also keep a Minuet --></div>
 
 <p></p>
 
