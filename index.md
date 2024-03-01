@@ -26,8 +26,8 @@ div {
   During my undergraduate study, I worked on a number of projects with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. Keith Johnson </a> and <a href="https://www.alexandra-pfiffner.com/">Dr. Alexandra Pfiffner</a> at UC Berkeley Linguistics, and <a href="https://repository.hku.hk/cris/rp/rp02160">Prof. Youngah Do</a> and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at the <a href="https://linguistics.hku.hk/ldlhku/">Language Development Lab</a> of HKU Linguistics, as well as <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> at HKPolyU Chinese and Bilingual Studies. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervised me on my thesis. <!--I learned a lot from all the great people on experimental design, experiment programming, statistical programming and text data processing.
 <br>
 <br>
-  Apart from research interests, we also keep a Minuet --></div>
-
+  Apart from research interests, we also keep a Minuet -->
+</div>
 <p></p>
 
 ## Research Interests
@@ -39,19 +39,19 @@ div {
 **Publications and Manuscripts**
 
 <div style="text-align: justify">
-&#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra, Johnson, Keith. (Invited Submission). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30</i>(2).
-<br>
-<br>
 &#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra. (To be submitted). Cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger.
+<br>
+<br>
+&#8226; <b>Du, Baichen,</b> Pfiffner, Alexandra, Johnson, Keith. (To appear). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30</i>(2).
 <br>
 <br>
 &#8226; <b>Du, Baichen.</b> (To appear). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
 <br>
 <br>
+&#8226; Do, Youngah, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (Accepted). Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning. _Linguistics Vanguard_.
+<br>
+<br>
 &#8226; <b>Du, Baichen.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished undergraduate thesis of political psychology. University of Hong Kong.
-<br>
-<br>
-&#8226; Do, Youngah<sup>*</sup>, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (Accepted). Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning.
 </div>
 <br>
 **Workshops**
