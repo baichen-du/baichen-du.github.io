@@ -48,7 +48,7 @@ div {
 &#8226; <b>Du, Baichen.</b> (To appear). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
 <br>
 <br>
-&#8226; Do, Youngah, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (Accepted). Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning. <i>Linguistics Vanguard</i>.
+&#8226; Do, Youngah, Van Hoey, Thomas, Yu, Xiaoyu, <b>Du, Baichen</b>, Tan, Lihui. (To appear). Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning. <i>Linguistics Vanguard</i>.
 <br>
 <br>
 &#8226; <b>Du, Baichen.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished undergraduate thesis of political psychology. University of Hong Kong.
