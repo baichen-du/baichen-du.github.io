@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.9)  12 APR 2024 15:40
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.9)  12 APR 2024 17:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1048,16 +1048,6 @@ Overfull \hbox (2.29474pt too wide) in paragraph at lines 334--334
 []|\TU/LinLibertine(0)/m/n/8 Languages|  
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 387--391
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 392--396
-
- []
-
 [4] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1066,10 +1056,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26083 strings out of 476683
- 506778 string characters out of 5804048
+ 26082 strings out of 476683
+ 506773 string characters out of 5804048
  1863018 words of memory out of 5000000
- 46042 multiletter control sequences out of 15000+600000
+ 46041 multiletter control sequences out of 15000+600000
  523605 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,9n,112p,492b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
