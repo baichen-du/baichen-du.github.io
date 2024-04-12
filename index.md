@@ -14,7 +14,7 @@ div {
 </style>
 <div style="text-align: justify">
 
-  See my <a href="https://baichen-du.github.io/assets/main.pdf" target="_blank"> CV </a> for more details.
+  See my <a href="https://baichen-du.github.io/assets/CV_current/main.pdf" target="_blank"> CV </a> for more details.
 <br>
 <br>
   Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am graduating from BSocSc in <b>Linguistics</b> and PPA (Politics and Public Administration) at University of Hong Kong in May 2024 and will be on my gap year before joining <b>UCLA Linguistics as a PhD student</b> in Fall 2025. I was also a visiting student at UC Berkeley in the Spring and Fall semester of 2023. I am interested in <b>experimental phonology and phonetics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change and variation</b> in specific.
