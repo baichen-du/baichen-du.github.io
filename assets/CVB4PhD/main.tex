@@ -11,12 +11,9 @@
 % --- Page layout settings ---
 
 % Set page margins
-\usepackage[left=0in, right=0.1in, bottom=0.6in, top=0.6in, headsep=0in, footskip=0.2in]{geometry}
+\usepackage[left=0in, right=0.1in, bottom=0.6in, top=0.5in, headsep=0in, footskip=0.2in]{geometry}
 \usepackage{multicol}
 \usepackage{hyperref}
-\usepackage{tabto}
-\newcommand\mytab{\tabto{0.5cm}}
-
 % Set line spacing
 
 \renewcommand{\baselinestretch}{1}
@@ -34,8 +31,8 @@
 % Remove page numbering
 \pagenumbering{arabic}%or arabic
 
-% Define font size and color for section headings, use MidnightBlue for default
-\newcommand{\headingfont}{\Large\color{black}}
+% Define font size and color for section headings
+\newcommand{\headingfont}{\Large\color{MidnightBlue}}
 
 % --- CV section settings ---
 
@@ -50,28 +47,20 @@
 % title of the section. See main document for how these environments are used.
 
 % Define settings for left-hand column in which dates are printed
-
-\newcolumntype{R}{>{\raggedright \scriptsize}p{0.45in}}
+\newcolumntype{R}{>{\raggedleft}p{0.6in}}
 
 % Define 'SectionTable' environment
 \newenvironment{SectionTable}[1]{
-	\renewcommand*{\arraystretch}{1.3}
+	\renewcommand*{\arraystretch}{1.7}
 	\setlength{\tabcolsep}{10pt}
-	\begin{longtable}{Rp{6.3in}} & #1 \vspace{0.13cm}\hrule\\[0.6em]}
+	\begin{longtable}{Rp{6.3in}} & #1 \\}
 {\end{longtable}\vspace{-.3cm}}
 
 % Define 'SectionTableSingleSpace' environment
 \newenvironment{SectionTableSingleSpace}[1]{
-	\renewcommand*{\arraystretch}{1.3}
+	\renewcommand*{\arraystretch}{1.2}
 	\setlength{\tabcolsep}{10pt}
-	\begin{longtable}{Rp{6.3in}} & #1 \vspace{0.13cm}\hrule \\[0.6em] }
-{\end{longtable}\vspace{-.3cm}}
-
-% Define tile table environment
-\newenvironment{TitleTable}[1]{
-	\renewcommand*{\arraystretch}{1.6}
-	\setlength{\tabcolsep}{10pt}
-	\begin{longtable}{Rp{6.3in}} & #1\\}
+	\begin{longtable}{Rp{6.3in}} & #1 \\[0.6em]}
 {\end{longtable}\vspace{-.3cm}}
 
 % --- Document starts here ---
@@ -79,130 +68,125 @@
 \begin{document}
 % --- Name and contact information ---
 
-\begin{TitleTable}
-	{\huge{{Baichen Du}} \hspace{1cm}\Large{tʷu:4 pai3 ʈʂʰən2}} &
-Department of Linguistics, \hfill Email: \href{mailto::baichen@connect.hku.hk}{baichen@connect.hku.hk}\newline
-University of California, Los Angeles, \hfill URL: \href{https://baichen-du.github.io}{https://baichen-du.github.io}\newline
-Campbell Hall, CA-90095, USA\\
+\begin{SectionTable}{\huge Baichen Du} &
+Oct, 2023 \newline
+Email: \href{mailto::baichen@connect.hku.hk}{baichen@connect.hku.hk} \& \href{mailto::albertbaichendu@berkeley.edu}{albertbaichendu@berkeley.edu}\newline
+Webpage: \href{https://baichen-du.github.io}{baichen-du.github.io}\newline
+Twitter: \href{https://twitter.com/_15abcd}{\_15abcd}\newline
 %Github: \href{https://github.com/baichen-du}{baichen-du} \& \href{https://github.com/albertbaichendu}{albertbaichendu}\\
-\end{TitleTable}
+\end{SectionTable}
 % --- Section: Research interests ---
 
-\begin{SectionTable}{\headingfont{\textbf{Research Interests}}}
-{\scriptsize{Topics}} & Phonetics \& Phonology: Experimental phonology and phonetics, acoustic, auditory, and articulatory phonetics, speech production and perception, sound change, cue integration, weighting, and trading \\
+\begin{SectionTable}{\headingfont Research Interests}
+Topics & Phonetics \& Phonology: experimental phonology and phonetics, sociophonetics, acoustic, auditory, and articulatory phonetics, speech production and perception, sound change, cue integration, weighting, and trading. \\
 %\footnotesize Methodology & Computer vision as articulometry in audiovisual phonetics research: Emotion and facial expression detection and tracking, facial landmarks tracking.\\
 \end{SectionTable}
 
 % --- Section: Education ---
 
-\begin{SectionTableSingleSpace}{\headingfont{\textbf{Education}}}
-&
-{\normalfont{\textsc{Degree programs}}}\\
-\raggedright{\scriptsize{2025-}} &
-\textbf{University of California, Los Angeles}\newline Ph.D in Linguistics \vspace{0.3cm}\\
+\begin{SectionTable}{\headingfont Education}
+2023 -- 2024 &
+\textbf{University of California, Berkeley} - Undergraduate Visiting Student of Linguistics \newline
+- GPA: 4.0/4.0 \newline
+- Advisor: Dr. Alexandra Pfiffner. \\
 
-\raggedright{\scriptsize{2025-}} &
-\textbf{University of California, Los Angeles}\newline M.A in Linguistics \vspace{0.3cm}\\
-
-\raggedright{\scriptsize{2019-2024}} &
-\textbf{The University of Hong Kong}\newline
-\textsc{Bachelor of Social Sciences} with the Highest Honor Distinction (\textit{summa cum laude})\newline
-\textit{Majors:} Politics and Public Administration; Linguistics\newline
-\textit{Advisors:} Jonathan Havenhill, Haohan Chen \vspace{0.3cm}\\
-
-&
-{\normalfont{\textsc{Non-degree trainings}}}\\
-
-\raggedright{\scriptsize{2023}} &
-\textbf{University of California, Berkeley}, Undergraduate Visiting Student \newline
-\textit{Advisor:} Alexandra Pfiffner\\
-
-\raggedright{\scriptsize{2020-2022}}&
-\textbf{Korea University,} {Int'l Summer \& Winter Campus}\\
+2019 -- 2024 &
+\textbf{University of Hong Kong} - B.Soc.Sc in Politics and Public Administration \& Linguistics \newline
+ - First Honor Distinction expected (summa cum laude)
+ \newline - GPA: 3.93/4.3, GPA of Linguistics: 4.12, Top 1. \newline
+- Advisors: Dr. Jonathan Havenhill, Dr. Youngah Do, Dr. Haohan Chen. \\
 %& \textbf{Selected coursework}
 %\begin{itemize}[itemsep=0pt, leftmargin=*]
 %\item \textit{Statistics}: Asymptotic statistics, Mathematical statistics, Functional data analysis, High-dimensional statistics, Information theory
 %\item \textit{Mathematics}: Measure theory, Functional analysis, Measure-theoretic probability with martingales
 %\end{itemize}
 
-\end{SectionTableSingleSpace}
+\end{SectionTable}
 
 % --- Section: Publications ---
-\begin{SectionTable}{\headingfont{\textbf{Publications \& Manuscripts}}}
-\raggedright{\scriptsize{2024}}&
-\textbf{Du, B.}, Pfiffner, A., Johnson, K. \normalfont{Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger.} \textit{{University of Pennsylvania Working Papers in Linguistics, 30}}(2). \\
-\raggedright{\scriptsize{In prep}}&
-\textbf{Du, B.,} Alexandra A. \normalfont{Multiple and cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger}\\
-
-\raggedright{\scriptsize{To appear}}&
-\textbf{Du, B.} \normalfont{Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023}}. Linguistic Society of University of California, Berkeley, CA} \\
-
-\raggedright{\scriptsize{Accepted}} &
- \normalfont{Do, Y.\textsuperscript{*}}, \normalfont{Van Hoey, T., Yu, X.,} \textbf{Du, B.}, \normalfont{Tan, L. } {Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations}\\
 
 
-% \centerline{In prep} &
-%   \textbf{Du, B.} \normalfont{ An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Meetings on Acoustics 184ASA}}. Acoustical Society of America, 2023} \\
-%   \newpage
-\raggedright{\scriptsize{2023}} &
-\textbf{Du, B.} \normalfont{\textit{The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.} Undergraduate Thesis of Political Psychology, University of Hong Kong, HK.} \\
-\newpage
+\begin{SectionTable}{\headingfont Publications \& Manuscripts}
+&
+\textbf{\textit{Invited articles}}\\
+\footnotesize{To be submitted}&
+\textbf{Du, Baichen}, Pfiffner, Alexandra, Johnson, Keith. \normalfont{Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger.} \textit{{University of Pennsylvania Working Papers in Linguistics, 30}}(2). \\
+&
+\textbf{\textit{Contributed articles}}\\
+\footnotesize{To be submitted}&
+\textbf{Du, Baichen,} Alexandra Pfiffner. \normalfont{Multiple and cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger}\\
+
+
+
+To appear&
+\textbf{Du, Baichen.} \normalfont{Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023}}. Linguistic Society of University of California, Berkeley, CA} \\
+
+Accepted &
+ \normalfont{Do, Youngah\textsuperscript{*}}, \normalfont{Van Hoey, Thomas, Yu, Xiaoyu,} \textbf{Du, Baichen}, \normalfont{Tan, Lihui. } {Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations}\\
+
+% In Prep &
+%  \textbf{Du, Baichen.} \normalfont{ An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Meetings on Acoustics 184ASA}}. Acoustical Society of America, 2023} \\
+
+&
+\textbf{\textit{Thesis}}\\
+2023 &
+\textbf{Du, Baichen.} \normalfont{\textit{The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.} Undergraduate Thesis of Political Psychology, University of Hong Kong, HK.} \\
 
  %  &
 %  \normalfont{Soderstrom, M.\textsuperscript{*}, Casar, M.}, \textbf{Du, B.} (In prep). Examining infant language experiences in a cross-cultural context \\
 
 \end{SectionTable}
+\newpage
+\begin{SectionTable}{\headingfont Presentations}
+&
+\textbf{\normalsize{\textit{Workshops}}}\\
+2023 &
+\textbf{Du, Baichen} \normalfont{(2023, Sep). {Introduction to Advanced R Programming with RMarkdown.} The Sociolinguistic Lab at University of California, Berkeley.} \href{https://baichen-du.github.io/assets/SocioSkillShareSep12/SocioSkillShare_Sep12_BD.html#/title-slide}{Slides}.\\
+&
+\textbf{\textit{Conference Papers and Posters}}\\
 
-\begin{SectionTable}{\headingfont{\textbf{Presentations}}}
-&
-{\textit{(As presenting author)}}\\
-&
-\textsc{\normalsize{{Workshops}}}\\
-\raggedright{\scriptsize{2023}} &
-\textbf{Du, B.} \normalfont{(2023, Sep). {Introduction to Advanced R Programming with RMarkdown.} The Sociolinguistic Lab at University of California, Berkeley.} \href{https://baichen-du.github.io/assets/SocioSkillShareSep12/SocioSkillShare_Sep12_BD.html#/title-slide}{Slides}.\\
-&
-\textsc{{Conference Papers and Posters}}\\
-
-\raggedright{\scriptsize{2023}} &
-\textbf{Du, B.}\normalfont{, Pfiffner, A., Johnson, K. (2024, Jan). The role of visible articulatory variation in the Mandarin sibilant contrast and merger.} Paper presented at the 98th Annual Meeting of Linguistic Society of America (LSA2024), New York City, NY. \\
+2023 &
+\textbf{Du, Baichen}\normalfont{, Pfiffner, Alexandra, Johnson, Keith. (2024, Jan). The role of visible articulatory variation in the Mandarin sibilant contrast and merger.} Paper to be presented at the 98th Annual Meeting of Linguistic Society of America (LSA2024), New York City, NY. \\
 %\newpage
 %\pagenumbering{arabic}
 
 
-\raggedright{\scriptsize{2023}} &
-\normalfont{Havenhill, J, \textbf{Du, B}. (2023, Dec). The role of visual cues in sound change: A cross-modality perceptual account for the typological rarity of labial palatalization.} Poster to be presented at the 185th Meeting of Acoustical Society of America \& 2023 Meeting of the Australian Acoustical Society (ASA185), Sydney, Australia.\\
+2023 &
+\normalfont{Havenhill, Jonathan, \textbf{Du, Baichen}. (2023, Dec). The role of visual cues in sound change: A cross-modality perceptual account for the typological rarity of labial palatalization.} Poster to be presented at the 185th Meeting of Acoustical Society of America \& 2023 Meeting of the Australian Acoustical Society (ASA185), Sydney, Australia.\\
 
-\raggedright{\scriptsize{2023}} &
- \textbf{Du, B.}, \normalfont{Pfiffner, A., Johnson, K. (2023, Dec). Consonant and vowel rounding: same acoustics, different visuals.} Poster to be presented at the 185th Meeting of Acoustical Society of America \& 2023 Meeting of the Australian Acoustical Society (ASA185), Sydney, Australia.\\
+2023 &
+ \textbf{Du, Baichen}, \normalfont{Pfiffner, Alexandra, Johnson, Keith. (2023, Dec). Consonant and vowel rounding: same acoustics, different visuals.} Poster to be presented at the 185th Meeting of Acoustical Society of America \& 2023 Meeting of the Australian Acoustical Society (ASA185), Sydney, Australia.\\
 
 
- \raggedright{\scriptsize{2023}}&
-\textbf{Du, B.}\normalfont{, Pfiffner, A., Johnson, K. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Paper presented at {New Ways of Analyzing Variation: Variation in World's Languages (NWAV51), Queens College CUNY, New York City, NY.}} \href{https://docs.google.com/presentation/d/15aB5uoF73BXkLEtXdfhLGwyTWoB4F2DoGlLK8vTo9DY/edit?usp=sharing}{Slides}.\\
+2023&
+\textbf{Du, Baichen}\normalfont{, Pfiffner, Alexandra, Johnson, Keith. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Paper presented at {New Ways of Analyzing Variation: Variation in World's Languages (NWAV51), Queens College CUNY, New York City, NY.}} \href{https://docs.google.com/presentation/d/15aB5uoF73BXkLEtXdfhLGwyTWoB4F2DoGlLK8vTo9DY/edit?usp=sharing}{Slides}.\\
 
-\raggedright{\scriptsize{2023}}&
-\textbf{Du, B.} \normalfont{(2023, May). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin.} Poster presented at the {184th Meeting of Acoustical Society of America 2023 (ASA 184), Chicago, IL.} DOI: \href{https://doi.org/10.1121/10.0019189}{10.1121/10.0019189}. \\
+2023 &
+\textbf{Du, Baichen.} \normalfont{(2023, May). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin.} Poster presented at the {184th Meeting of Acoustical Society of America 2023 (ASA 184), Chicago, IL.} DOI: \href{https://doi.org/10.1121/10.0019189}{10.1121/10.0019189}. \\
 
-\raggedright{\scriptsize{2023}} &
-\textbf{Du, B.} \normalfont{(2023, Apr). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin.} Talk given at the {Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.} \\
+2023 &
+\textbf{Du, Baichen.} \normalfont{(2023, Apr). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin.} Talk given at the {Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.} \\
 
-\raggedright{\scriptsize{2023}} &
-\textbf{Du, B.} \normalfont{(2023, Apr). The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.} Poster presented at {Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK.} \\
+2023 &
+\textbf{Du, Baichen.} \normalfont{(2023, Apr). The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.} Poster presented at {Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK.} \\
 
 \end{SectionTable}
 
-% \begin{SectionTable}{\headingfont{\textbf{Work-in-progress}}}
-% \raggedright{\scriptsize{In progress}}&
-%   \normalfont{\textbf{Du, Baichen}, Pfiffner, Alexandra, Johnson, Keith. Adaptive  cue weightings in production and perception of palatal contrast in Korean} \\
+\begin{SectionTable}{\headingfont Work-in-progress}
+ In Prep &
+  \normalfont{\textbf{Du, Baichen}, Pfiffner, Alexandra, Johnson, Keith. Adaptive  cue weightings in production and perception of palatal contrast in Korean} \\
+&
+ \normalfont{Yao, Yao\textsuperscript{*}}, \textbf{Du, Baichen}, \& Johnson, Keith. Production and perception of smiling speech: Implications for sound change.\\
+
+ &
+ \normalfont{Havenhill, Jonathan\textsuperscript{*}}, \textbf{Du, Baichen}. Cross-modal cue integration and phonological evolution: An audio-visual account for palatalization and sound change in diachronic and synchronic Time \\
+
+ &
+ \normalfont{Pfiffner, Alexandra\textsuperscript{*}}, \textbf{ Du, Baichen.} The acoustics of plosive lenition in Dutch \\
 
 %  &
-%  \normalfont{Havenhill, Jonathan\textsuperscript{*}}, \textbf{Du, Baichen}. Cross-modal cue integration and phonological evolution: An audio-visual account for palatalization and sound change in diachronic and synchronic Time \\
-
-%  &
-%  \normalfont{Pfiffner, Alexandra\textsuperscript{*}}, \textbf{ Du, Baichen.} The acoustics of plosive lenition in Dutch \\
-
-% %  &
-% %  \normalfont{Do, Youngah\textsuperscript{*}}, Sze, Sui Lung,\textbf{ Du, Baichen}, Ho, To Tsz, Li, Tak Wang. Bilingual speakers’ performance in simultaneous generalization of multiple phonological patterns \\
-% \end{SectionTable}
+%  \normalfont{Do, Youngah\textsuperscript{*}}, Sze, Sui Lung,\textbf{ Du, Baichen}, Ho, To Tsz, Li, Tak Wang. Bilingual speakers’ performance in simultaneous generalization of multiple phonological patterns \\
+\end{SectionTable}
 
 
 % --- Section: Teaching experience ---
@@ -236,7 +220,8 @@ Campbell Hall, CA-90095, USA\\
 % \end{SectionTable}
 
 % --- Section: Talks and tutorials ---
-\begin{SectionTable}{\headingfont{\textbf{Grants and Fundings}}}
+\newpage
+\begin{SectionTable}{\headingfont Grants and Fundings}
 
 2023 &
 Down Funder Student Travel Funding, Acoustical Society of America: \textit{185th Meeting of Acoustical Society of America \& 2023 Meeting of the Australian Acoustical Society, Syndey} \hfill US\$1,000\\
@@ -249,9 +234,9 @@ HKU Transdisciplinary Undergraduate Research Initiative Grant: \textit{An audio-
 
 2022&
 HKU Leung Kau Kui Research and Teaching Endowment: \textit{The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.}\hfill US\$1,300 \\
-\end{SectionTable}\newpage
+\end{SectionTable}
 
-\begin{SectionTableSingleSpace}{\headingfont{\textbf{Honors and Awards}}}
+\begin{SectionTableSingleSpace}{\headingfont Honors and Awards}
 2023&
 Ms Cecilia Vong Prize of Linguistics  \hfill HK\$1,000\\
 2022&
@@ -334,7 +319,7 @@ Soong Ching-ling Foundation Scholarship  \hfill US\$ 30,700 \\
 Languages &
 English, Mandarin, Cantonese\\
 
-Scripting &
+\small Programming &
 R, Praat Scripting, \LaTeX, Markdown, HTML, Python\\
 
 Research Tools &
@@ -380,10 +365,11 @@ Phonetics (A), Advanced Phonetics (A), Experimental Phonetics (A+), Phonology (A
 
 Methods &
 Advanced Statistics in Psychology (Pending), Research Methods in Social Sciences (A+), \newline Data Science in Politics and Public Administration (A+), Policy and Program Evaluation (A-),\newline Data Analysis with R (A)\\
-\end{SectionTableSingleSpace}
+\end{SectionTableSingleSpace}\vspace{-1.5cm}
 
-\begin{SectionTableSingleSpace}{\headingfont{References}}
-	&
+\begin{SectionTable}{}
+	& \begin{multicols*}{2}
+		{\headingfont References}\vspace{0.5cm}\newline
 		\textbf{Dr. Alexandra Pfiffner}\newline
 		Lecturer at UC Berkeley\newline
 		\href{https://www.alexandra-pfiffner.com/}{alexandra-pfiffner.com}\newline
@@ -394,11 +380,21 @@ Advanced Statistics in Psychology (Pending), Research Methods in Social Sciences
 		\href{https://linguistics.berkeley.edu/~kjohnson/}{linguistics.berkeley.edu/~kjohnson}\newline
 		keithjohnson@berkeley.edu\newline
 
+		
+
+
+
+		\vspace{0.5cm}\textbf{Dr. Youngah Do}\newline
+		Associate Professor at Univ. of HK\newline
+		\href{https://repository.hku.hk/cris/rp/rp02160}{repository.hku.hk/cris/rp/rp02160}\newline
+		youngah@hku.hk\newline
+
 		\textbf{Dr. Jonathan Havenhill}\newline
 		Assistant Professor at Univ. of HK\newline
 		\href{https://jhavenhill.com}{jhavenhill.com}\newline
 		jhavenhill@hku.hk
-\end{SectionTableSingleSpace}
+	\end{multicols*}
+\end{SectionTable}
 %  \begin{SectionTable}{\headingfont References}
 %  &
 %  \textbf{Dr. Alexandra Pfiffner}\newline
