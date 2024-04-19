@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.9)  13 APR 2024 16:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.9)  19 APR 2024 14:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1025,24 +1025,24 @@ LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/sc' will be
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 10.95pt on input line 92.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 101.
+(Font)              scaled to size 10.95pt on input line 99.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 108.
-LaTeX Font Info:    Trying to load font information for OT1+LinLibertine(0) on input line 144.
-LaTeX Font Info:    No file OT1LinLibertine(0).fd. on input line 144.
+(Font)              scaled to size 10.95pt on input line 110.
+LaTeX Font Info:    Trying to load font information for OT1+LinLibertine(0) on input line 145.
+LaTeX Font Info:    No file OT1LinLibertine(0).fd. on input line 145.
 
 LaTeX Font Warning: Font shape `OT1/LinLibertine(0)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 144.
+(Font)              using `OT1/cmr/m/n' instead on input line 145.
 
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 144.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 145.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 144.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 145.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 144.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 145.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 ) [1
