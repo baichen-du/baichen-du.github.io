@@ -28,7 +28,7 @@ div {
 
 ## Research Interests
 
-- **Phonetics & Phonology**: Experimental and Developmental Phonetics & Phonology, Speech Perception & Production, Cue integration, weighting, and trading, Sound Change and Variation.
+- **Phonetics & Phonology**: experimental and developmental Phonetics & Phonology, speech perception & production, multiple cues, sound change and variation.
 
 ## Publications & Presentations
 
