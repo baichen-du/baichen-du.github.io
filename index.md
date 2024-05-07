@@ -32,16 +32,16 @@ div {
 
 ## Publications & Presentations
 
-**Publications and Manuscripts**
+**Papers and Manuscripts**
 
 <div style="text-align: justify">
 &#8226; <b>Du, B.,</b> Pfiffner, A. (To be submitted). Cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger.
 <br>
 <br>
-&#8226; <b>Du, B.,</b> Pfiffner, A., Johnson, K. (To appear). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30</i>(2).
+&#8226; <b>Du, B.,</b> Pfiffner, A., Johnson, K. (2024). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30.2</i> (Selected Papers from NWAV 51).
 <br>
 <br>
-&#8226; <b>Du, B.</b> (To appear). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
+&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
 <br>
 <br>
 &#8226; Do, Y., Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (To appear). Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning. <i>Linguistics Vanguard</i>.
