@@ -83,10 +83,11 @@ div {
 ## Teaching
 
 **Teaching Assistant**
-
+<div style="text-align: justify">
 &#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Instructor: Haohan Chen)
 <br>
 <br>
+</div>
 <p></p>
 
 <!--
