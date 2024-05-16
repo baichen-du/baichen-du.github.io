@@ -109,7 +109,7 @@ With [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/) and [Prof. Ke
 
 **Teaching Assistant**
 
-&#8226; POLI3148: Data Science in Politics and Public Administration (Planned, Instructor: Haohan Chen)
+&#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Instructor: Haohan Chen)
 <br>
 <br>
 <p></p>
