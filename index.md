@@ -79,7 +79,6 @@ div {
 &#8226; <b>Du, B.</b> (2023). The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda: A pre-analysis plan. Poster presentation at Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK. <!--<a href="https://baichen-du.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
 </div>
 <br>
-<p></p>
 <!--
 - Acoustical and perceptual consequences of noise-masked cue weighting and integration.
 <br>
@@ -105,3 +104,14 @@ With [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/) and [Prof. Ke
 <br>
   With [Dr. Alexandra Pfiffner](https://www.alexandra-pfiffner.com/).
 <br>--->
+
+## Teaching
+**Teaching Assistant**
+&#8226; POLI3148: Data Science in Politics and Public Administration (Planned, Instructor: Haohan Chen)
+<br>
+<br>
+<p></p>
+
+
+
+
