@@ -17,7 +17,7 @@ div {
   See my <a href="https://baichen-du.github.io/assets/CV_current/main.pdf" target="_blank"> CV </a> for more details.
 <br>
 <br>
-  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am graduating from BSocSc in <b>Linguistics</b> and PPA (Politics and Public Administration) at University of Hong Kong in May 2024 and will be on my gap year before joining <b>UCLA Linguistics as a PhD student</b> in Fall 2025. I was also a visiting student at UC Berkeley in the Spring and Fall semester of 2023. I am interested in <b>experimental phonology and phonetics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change and variation</b> in specific.
+  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am currently on my gap year and working as Research and Teaching Assistant for Dr. Haohan Chen at HKU and Dr. Yao Yao at HKPolyU. I will join <b>UCLA Linguistics as a PhD student</b> in Fall 2025. I visited UC Berkeley in 2023 and obtained my Bachelor's degree in PPA (Politics and Public Administration) and Linguistics at HKU in 2024 Spring. I am interested in <b>experimental phonology and phonetics</b> broadly, and <b>speech perception/production, cues weighting and integration, sound change and variation</b> in specific.
 <br>
 <br>
   Previously, I worked on a number of projects with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Prof. Keith Johnson </a> and <a href="https://www.alexandra-pfiffner.com/">Dr. Alexandra Pfiffner</a> at UC Berkeley Linguistics, and <a href="https://Jhavenhill.com">Dr. Jonathan Havenhill</a> at HKU, as well as <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Prof. Yao Yao </a> at HKPolyU Chinese and Bilingual Studies. For my political science  major, <a href="https://haohanchen.github.io">Dr. Haohan Chen</a> supervised me on my UG thesis.
@@ -42,9 +42,6 @@ div {
 <br>
 <br>
 &#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
-<br>
-<br>
-&#8226; Do, Y., Van Hoey, T., Yu, X., <b>Du, B.</b>, Tan, L. (To appear). Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning. <i>Linguistics Vanguard</i>.
 <br>
 <br>
 &#8226; <b>Du, B.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished undergraduate thesis of political psychology. University of Hong Kong.
