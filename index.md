@@ -83,7 +83,7 @@ div {
 <div style="text-align: justify">
 &#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Instructor: Haohan Chen)
 <br>
-Data Science in Python: Data wrangling, visulization, geospatial analysis, text analysis, machine learning, and advnaced topics in TM and ML.
+Data Science in Political Science with Python: Python Basics, data wrangling with Pandas, visulization with seaborn, geospatial analysis, text analysis, machine learning, and advnaced topics in TM and ML.
 <br>
 <br>
 </div>
