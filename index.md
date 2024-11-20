@@ -17,7 +17,7 @@ div {
   See my <a href="https://baichen-du.github.io/assets/CV_current/main.pdf" target="_blank"> CV </a> for more details.
 <br>
 <br>
-  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am currently on my gap year and working as Research and Teaching Assistant for Dr. Haohan Chen at HKU and Dr. Yao Yao at HKPolyU. I will join <b>UCLA Linguistics as a PhD student</b> in Fall 2025. I visited UC Berkeley in 2023 and obtained my Bachelor's degree in Political Science and Linguistics at HKU in 2024 Spring. I am interested in <b>experimental phonology and phonetics</b> broadly, sound change and variation, sentence processing and pronoun interpretation</b>.
+  Hi! My name is <b>Baichen Du 杜柏辰</b> [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am currently on my gap year and working as Research and Teaching Assistant for Dr. Haohan Chen at HKU and Dr. Yao Yao at HKPolyU. I will join <b>UCLA Linguistics as a PhD student</b> in Fall 2025. I visited UC Berkeley in 2023 and obtained my Bachelor's degree in Political Science and Linguistics at HKU in 2024 Spring. I am interested in <b>experimental phonology and phonetics</b> broadly, sound change and variation, sentence processing and pronoun interpretation.
 <br>
 <br>
   Previously, I worked on a number of projects with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson </a> and <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a> at UC Berkeley Linguistics, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a> at HKU, and <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Yao Yao </a> at HKPolyU Chinese and Bilingual Studies. For my political science  major, <a href="https://haohanchen.github.io"> Haohan Chen</a> supervised me on my UG thesis. Many thanks to all of them ;-)
@@ -83,7 +83,7 @@ div {
 <div style="text-align: justify">
 &#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Instructor: Haohan Chen)
 <br>
-Data Science in Political Science with Python: Python Basics, data wrangling with Pandas, visulization with seaborn, geospatial analysis, text analysis, machine learning, and advnaced topics in TM and ML.
+Data Science in Political Science with Python: Python Basics, data wrangling with Pandas, visulization with Seaborn, geospatial analysis with Geopandas, text analysis with SpaCy, regression and machine learning with scikit-learn, and advnaced topics in TM and ML with transformers. To access course files, please click <a href="https://github.com/baichen-du/POLI3148-1A_24Fall_HKU/" target="_blank">here</a>.
 <br>
 <br>
 </div>
