@@ -26,10 +26,6 @@ div {
 </div>
 <p></p>
 
-## Research Interests
-
-Phonetics & phonology, sound change and variation, language processing
-
 ## Publications & Presentations
 
 **Papers and Manuscripts**
