@@ -28,7 +28,7 @@ div {
 
 ## Research Interests
 
-- **Phonetics & Phonology**: Phonetics & Phonology, sound change and variation, language processing
+Phonetics & phonology, sound change and variation, language processing
 
 ## Publications & Presentations
 
