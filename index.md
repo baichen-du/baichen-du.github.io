@@ -12,7 +12,7 @@ div {
 </style>
 <div style="text-align: justify">
 
-  Hi! My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am a PhD student at UCLA starting from Fall 2025. I visited UC Berkeley in 2023 and obtained my BSocSc in Political Science and Linguistics at HKU in 2024. I am interested in experimental phonology and phonetics broadly, also sound change, sentence processing, and computational linguistics. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson </a> and <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Yao Yao </a>. For my political science  major, <a href="https://haohanchen.github.io"> Haohan Chen</a> supervised me on my UG thesis. 
+  Hi! My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am a PhD student at UCLA starting from Fall 2025. I am interested in experimental phonology and phonetics broadly, also sound change, sentence processing, and computational linguistics. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson </a> and <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Yao Yao </a>. For political science and computational social science, I worked with <a href="https://haohanchen.github.io"> Haohan Chen</a>. 
 <br>
 <br>
   We keep an 1-year-old Napoleon cat, Gelato, at home. My data science tutorials (in progress) in Python, SQL, and R can be found <a href="https://github.com/baichen-du/DataScienceTutorials/" target="_blank">here</a>.
@@ -52,22 +52,22 @@ div {
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (2024, Jan). The role of visible articulatory variation in Mandarin sibilant contrast and merger. Talk given at 2024 LSA Annual Meeting (LSA2024), New York City, NY.
 <br>
 <br>
-&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (2023, Dec). Consonant and vowel rounding: same acoustics, different visuals. Poster presented at ASA 185th Meeting (ASA185) Sydney, Australia. <!--<a href="https://baichen-du.github.io/assets/Updated_BD-AF-KJ_ASA185_Sydney_Poster.pdf" target="_blank">Poster</a>--->
+&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (2023, Dec). Consonant and vowel rounding: same acoustics, different visuals. Poster presented at ASA 185th Meeting (ASA185) Sydney, Australia.
 <br>
 <br>
-&#8226; Havenhill, J., <b>Du, B.</b> (2023, Dec). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. Poster presented at ASA 185th Meeting (ASA185) Sydney, Australia. <!--<a href="https://baichen-du.github.io/assets/Updated_JH-BD_ASA185_Sydney_Poster.pdf" target="_blank">Poster</a>--->
+&#8226; Havenhill, J., <b>Du, B.</b> (2023, Dec). Visual cues in sound change: A cross-modal perceptual account for the typological rarity of labial palatalization. Poster presented at ASA 185th Meeting (ASA185) Sydney, Australia.
 <br>
 <br>
-&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk given at New Ways of Analyzing Variation 51 (NWAV51), Queens College, New York City, NY. <!--<a href="https://docs.google.com/presentation/d/15aB5uoF73BXkLEtXdfhLGwyTWoB4F2DoGlLK8vTo9DY/edit?usp=sharing" target="_blank">Slides</a>--->
+&#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (2023, Oct). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Talk given at New Ways of Analyzing Variation 51 (NWAV51), Queens College, New York City, NY.
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at ASA 184th Meeting (ASA184), Chicago, IL. <!--<a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger_asa2023chicago.pdf" target="_blank">Poster</a>--->
+&#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at ASA 184th Meeting (ASA184), Chicago, IL.
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA. <!--<a href="https://baichen-du.github.io/assets/Du_2023_sibilants_merger.pdf" target="_blank">Slides</a>--->
+&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2023). The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda: A pre-analysis plan. Poster presentation at Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK. <!--<a href="https://baichen-du.github.io/assets/Du_2023_backfire.pdf" target="_blank">Poster</a>--->
+&#8226; <b>Du, B.</b> (2023). The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda: A pre-analysis plan. Poster presentation at Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK.
 </div>
 <br>
 
