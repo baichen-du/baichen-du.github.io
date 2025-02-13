@@ -12,9 +12,6 @@ div {
 </style>
 <div style="text-align: justify">
 
-  See my <a href="https://baichen-du.github.io/assets/CV_current/main.pdf" target="_blank"> CV </a> for more details.
-<br>
-<br>
   Hi! My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. I am a PhD student at UCLA starting from Fall 2025. I visited UC Berkeley in 2023 and obtained my BSocSc in Political Science and Linguistics at HKU in 2024. I am interested in experimental phonology and phonetics broadly, also sound change, sentence processing, and computational linguistics. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson </a> and <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Yao Yao </a>. For my political science  major, <a href="https://haohanchen.github.io"> Haohan Chen</a> supervised me on my UG thesis. 
 <br>
 <br>
