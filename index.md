@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
 <style>
 div {
