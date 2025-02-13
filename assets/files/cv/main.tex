@@ -35,21 +35,7 @@
 \pagenumbering{arabic}%or arabic
 
 % Define font size and color for section headings, use MidnightBlue for default
-\newcommand{\headingfont}{\Large\color{black}}
-
-% --- CV section settings ---
-
-% Note: each section of this table (Education, Awards, Publications etc.) is
-% stored in a two-column table. The left-hand column is narrow (1 inch) and is
-% meant to store dates. The right-hand column is wide (5.2 inches) and stores
-% the main text.  Sections in which each entry might have multiple lines
-% (e.g., Education) are stored in a 'SectionTable' environment). Sections in
-% which each entry might just have one line are stored in a 'SectionTableSingleSpace'
-% environment. The only difference between the two environments is the line
-% spacing between each entry. Both environments take one argument, which is the
-% title of the section. See main document for how these environments are used.
-
-% Define settings for left-hand column in which dates are printed
+\newcommand{\headingfont}{\Large\color{MidnightBlue}}%or black
 
 \newcolumntype{R}{>{\raggedright \footnotesize}p{0.45in}}
 
@@ -81,15 +67,15 @@
 
 \begin{TitleTable}
 	{\huge{{Baichen Du}} \hspace{1cm}\Large{[pai3 ʈʂʰən2 tʷu:4]} \hfill{\small{\today}}} &
-Dept of Politics and Public Administration, \hfill Email: \href{mailto::baichen@connect.hku.hk}{baichen@connect.hku.hk}\newline
-10/F, The Jockey Club Tower \hfill URL: \href{https://baichen-du.github.io}{https://baichen-du.github.io}\newline
-Univ. of Hong Kong, Pokfulam Road, HK\\
+Dept of Politics and Public Administration, \hfill \href{mailto::baichendu@ucla.edu}{baichendu@ucla.edu}\newline
+10/F, The Jockey Club Tower, HKU \hfill \href{https://baichen-du.github.io}{baichen-du.github.io}\\
 %Github: \href{https://github.com/baichen-du}{baichen-du} \& \href{https://github.com/albertbaichendu}{albertbaichendu}\\
 \end{TitleTable}
+
 % --- Section: Research interests ---
 
 \begin{SectionTable}{\headingfont{\textbf{\textsc{Research Interests}}}}
-{\scriptsize{Topics}} & 
+\vspace{-1cm}{\scriptsize{Topics}} & \vspace{-0.1cm}
 \vspace{-1cm}\textbf{Phonetics \& Phonology:} Experimental and developmental phonology and phonetics, acoustic, auditory, and articulatory phonetics, speech perception, sound change, multiple cues \\
 %\footnotesize Methodology & Computer vision as articulometry in audiovisual phonetics research: Emotion and facial expression detection and tracking, facial landmarks tracking.\\
 \end{SectionTable}
@@ -99,24 +85,19 @@ Univ. of Hong Kong, Pokfulam Road, HK\\
 \begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Education}}}}
 &\vspace{-1cm}{\normalfont{\textsc{Degree programs}}}\\
 
-\vspace{-1cm}\raggedright{{2024-}} &\vspace{-1cm}
-\textbf{The Univesity of Hong Kong}\newline \textsc{Master of Arts in Linguistics} \vspace{0.3cm}\\
+\vspace{-1cm}\raggedright{{2025-}} &\vspace{-1cm}
+\textbf{Doctor of Philosophy in Linguistics}, {University of California, Los Angeles}\\
 
 \raggedright{{2024}} &
-\textbf{The University of Hong Kong}\newline
-\textsc{Bachelor of Social Sciences, \textit{First Class Honours}}\newline
-\textit{Majors:} Politics and Public Administration; Linguistics\newline
-\textit{Advisors:} Jonathan Havenhill, Haohan Chen \vspace{0.3cm}\\
+{\textbf{Bachelor of Social Sciences}, {The University of Hong Kong}}\newline
+\textit{First Class Honours}\newline
+\textit{Majors:} Politics and Public Administration; Linguistics\vspace{0.3cm}\\
 
 &
 {\normalfont{\textsc{Non-degree trainings}}}\\
 
 \raggedright{{2023}} &
 \textbf{University of California, Berkeley}, Undergraduate Visiting Student \\
-\raggedright{{2022}}&
-\textbf{Korea University,} {International Summer and Winter Campus}\\
-2021 &
-\textbf{The Luso-Brazillian Association of Linguistics}\\
 
 %& \textbf{Selected coursework}
 %\begin{itemize}[itemsep=0pt, leftmargin=*]
@@ -128,8 +109,8 @@ Univ. of Hong Kong, Pokfulam Road, HK\\
 
 % --- Section: Publications ---
 \begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Publications \& Manuscripts}}}}
-&\textsc{Invited articles}\\
-\raggedright{{2024}}&
+\vspace{-1cm}&\vspace{-1cm}\textsc{Invited articles}\\
+\vspace{-1cm}\raggedright{{2024}}&\vspace{-1cm}
 \textbf{Du, B.}, Pfiffner, A., Johnson, K. \normalfont{Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger.} \textit{{University of Pennsylvania Working Papers in Linguistics, 30}}(2). \\
 
 &\textsc{Contributed articles}\\
@@ -155,13 +136,13 @@ Univ. of Hong Kong, Pokfulam Road, HK\\
 
 \end{SectionTableSingleSpace}
 
-\newpage
+%\newpage
 \begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Presentations}}}}
-&
-{\textit{(As presenting author)}}\\
-&
-\textsc{\normalsize{{Workshops}}}\\
-\raggedright{{2023}} &
+\vspace{-1cm}&\vspace{-1cm}
+{\textit{As presenting author}}\\
+\vspace{-1cm}&
+\vspace{-1cm}\textsc{\normalsize{{Workshops}}}\\
+\vspace{-1cm}\raggedright{{2023}} &\vspace{-1cm}
 \textbf{Du, B.} \normalfont{{Introduction to Advanced R Programming with RMarkdown.} The Sociolinguistic Lab at UC Berkeley.}\\
 &
 \textsc{{Conference Papers and Posters}}\\
@@ -193,77 +174,29 @@ Univ. of Hong Kong, Pokfulam Road, HK\\
 
 \end{SectionTableSingleSpace}
 
-% \begin{SectionTable}{\headingfont{\textbf{Work-in-progress}}}
-% \raggedright{\scriptsize{In progress}}&
-%   \normalfont{\textbf{Du, Baichen}, Pfiffner, Alexandra, Johnson, Keith. Adaptive  cue weightings in production and perception of palatal contrast in Korean} \\
-
-%  &
-%  \normalfont{Havenhill, Jonathan\textsuperscript{*}}, \textbf{Du, Baichen}. Cross-modal cue integration and phonological evolution: An audio-visual account for palatalization and sound change in diachronic and synchronic Time \\
-
-%  &
-%  \normalfont{Pfiffner, Alexandra\textsuperscript{*}}, \textbf{ Du, Baichen.} The acoustics of plosive lenition in Dutch \\
-
-% %  &
-% %  \normalfont{Do, Youngah\textsuperscript{*}}, Sze, Sui Lung,\textbf{ Du, Baichen}, Ho, To Tsz, Li, Tak Wang. Bilingual speakers’ performance in simultaneous generalization of multiple phonological patterns \\
-% \end{SectionTable}
-
-
-% --- Section: Teaching experience ---
-
-% \begin{SectionTable}{\headingfont Teaching experience}
-% Fall 2020 &
-% \textbf{Teaching assistant, STAT 123: Course name here (University)} \newline
-% Topics and description of your responsibilities. Aliquam volutpat est vel massa. Sed dolor lacus, imperdiet non, ornare non, commodo eu, neque. \newline
-% \textit{Average student rating: X/5.} \\
-
-% Spring 2020 &
-% \textbf{Teaching assistant, MATH 234: Course name here (University)} \newline
-% Topics and description of your responsibilities. Aliquam volutpat est vel massa. Sed dolor lacus, imperdiet non, ornare non, commodo eu, neque. \newline
-% \textit{Average student rating: X/5.}
-% \end{SectionTable}
-
-% --- Section: Industry experience ---
-
-% \begin{SectionTable}{\headingfont Industry experience}
-% Summer 2020 &
-% \textbf{Name of company (Title of job or internship)} -- City, State \newline
-% Description of your responsibilities. Integer pretium semper justo. Proin risus. Nullam id quam. Nam neque. Phasellus at purus et lib ero lacinia dictum.  \\
-
-% Summer 2019 &
-% \textbf{Name of company (Title of job or internship)} -- City, State \newline
-% Description of your responsibilities. Integer pretium semper justo. Proin risus. Nullam id quam. Nam neque. Phasellus at purus et lib ero lacinia dictum.  \\
-
-% Summer 2018 &
-% \textbf{Name of company (Title of job or internship)} -- City, State \newline
-% Description of your responsibilities. Integer pretium semper justo. Proin risus. Nullam id quam. Nam neque. Phasellus at purus et lib ero lacinia dictum.  \\
-% \end{SectionTable}
-
-
 \begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Honors and Awards}}}}
-2023&
+\vspace{-1cm}2023&\vspace{-1cm}
 Ms Cecilia Vong Prize of Linguistics  \hfill HK\$1,000\\
-2022&
+\vspace{-1cm}2022&\vspace{-1cm}
 Globalink Research Award, Mitacs \hfill CA\$12,000 \\
-2022&
+\vspace{-1cm}2022&\vspace{-1cm}
 Undergraduate Research Fellowship \hfill HK\$10,000\\
-2022&
+\vspace{-1cm}2022&\vspace{-1cm}
 K.K.Ho Prize  \hfill US\$2,560 \\
-2022&
+\vspace{-1cm}2022&\vspace{-1cm}
 Dean's Honor List\hfill \\
-2021&
+\vspace{-1cm}2021&\vspace{-1cm}
 Dean's Honor List\hfill \\
-2020&
+\vspace{-1cm}2020&\vspace{-1cm}
 Dean's Honor List\hfill \\
-2019&
+\vspace{-1cm}2019&\vspace{-1cm}
 Soong Ching-ling Foundation Scholarship  \hfill US\$ 30,700 \\
-\end{SectionTableSingleSpace}\newpage
-
-
+\end{SectionTableSingleSpace}
 
 % --- Section: Talks and tutorials ---
 \begin{SectionTable}{\headingfont{\textbf{\textsc{Grants and Fundings}}}}
 
-	2023 &
+	\vspace{-1cm}2023 &\vspace{-1cm}
 	Down Funder Student Travel Funding, ASA: \hfill US\$1,000\newline\textit{185th Meeting of Acoustical Society of America \& 2023 Meeting of the Australian Acoustical Society, Syndey}\\
 	
 	2023 &
@@ -276,65 +209,65 @@ Soong Ching-ling Foundation Scholarship  \hfill US\$ 30,700 \\
 	HKU Leung Kau Kui Research and Teaching Endowment:\hfill US\$1,300\newline \textit{The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda} \\
 	\end{SectionTable}
 % --- Section: Research experience ---
-
+\newpage
  \begin{SectionTable}{\headingfont{\textbf{\textsc{Teaching Experience}}}}
 
- &\textsc{As Teaching Assistant}\\
+\vspace{-1cm}&\vspace{-1cm}\textsc{As Teaching Assistant}\\
 
- 2024 Fall&
+\vspace{-1cm}2024 Fall&\vspace{-1cm}
 \textbf{POLI 3148 Data Science in Politics and Public Administration} (Instructor: Prof. Haohan Chen)\newline
 Data Science in Python including topics of data wrangling, data visualization, geospatial analysis, text analysis, machine learning, and advanced topics in TM and ML.\\
 
  \end{SectionTable}
 
-\begin{SectionTable}{\headingfont{\textbf{\textsc{Research Experience}}}}
+% \begin{SectionTable}{\headingfont{\textbf{\textsc{Research Experience}}}}
 
-&\textsc{Undergraduate Experience}\\
-	%&
-	%\normalsize \textbf{UC Berkeley}\\
- 2023 &
- \textbf{Korean tonogenesis among native and heritage speakers} \hfill{UC Berkeley}\newline
- \textbf{Multiple adaptive cue weighting in Korean palatal contrast}\newline
- \textbf{Mandarin sibilant merger and differential cue weightings}\newline
-	\textit{PI:} Keith Johnson\newline
-	\textit{Roles:} Independent projects on cue weightings and bilingualism, study design, experimentation, analyses and manuscript preparation.
-	\\
-2023 &
-	\textbf{Integration of emotion in speech perception}\hfill Polytechnic University of Hong Kong\newline 
-	\textit{PIs:} Keith Johnson, Yao Yao\newline
-	\textit{Roles:} Leading project on smiling speech. Study design, experiment programing, administering audiovidual production, facial expression tracking and action unit analysis, audiovisual alignment and segmentation.\\
-	%Assistance to study design, experimental programming, participant recuriting, emotion and facial expression detection and tracking using CNN, eye tracking and behavioral data collection. \\
-	%&
-	%\normalsize \textbf{Univ. of HK}\\
-2023 &
-\textbf{Audiovisual perception of Korean labial palatalization} \hfill University of Hong Kong \newline
-	\textit{PIs:} Jonathan Havenhill\newline
-	\textit{Roles:} Acoustic analysis, speech manipulation and synthesis with KlattGrid, audiovisual stimuli creation, experiment programming, analyses and presentation\\
+% 	\vspace{-1cm}&\vspace{-1cm}\textsc{Undergraduate Experience}\\
+% 	%&
+% 	%\normalsize \textbf{UC Berkeley}\\
+% 	\vspace{-1cm}2023 &\vspace{-1cm}
+%  \textbf{Korean tonogenesis among native and heritage speakers} \hfill{UC Berkeley}\newline
+%  \textbf{Multiple adaptive cue weighting in Korean palatal contrast}\newline
+%  \textbf{Mandarin sibilant merger and differential cue weightings}\newline
+% 	\textit{PI:} Keith Johnson\newline
+% 	\textit{Roles:} Independent projects on cue weightings and bilingualism, study design, experimentation, analyses and manuscript preparation.
+% 	\\
+% 2023 &
+% 	\textbf{Integration of emotion in speech perception}\hfill Polytechnic University of Hong Kong\newline 
+% 	\textit{PIs:} Keith Johnson, Yao Yao\newline
+% 	\textit{Roles:} Leading project on smiling speech. Study design, experiment programing, administering audiovidual production, facial expression tracking and action unit analysis, audiovisual alignment and segmentation.\\
+% 	%Assistance to study design, experimental programming, participant recuriting, emotion and facial expression detection and tracking using CNN, eye tracking and behavioral data collection. \\
+% 	%&
+% 	%\normalsize \textbf{Univ. of HK}\\
+% 2023 &
+% \textbf{Audiovisual perception of Korean labial palatalization} \hfill University of Hong Kong \newline
+% 	\textit{PIs:} Jonathan Havenhill\newline
+% 	\textit{Roles:} Acoustic analysis, speech manipulation and synthesis with KlattGrid, audiovisual stimuli creation, experiment programming, analyses and presentation\\
 
-2022 &
-\textbf{The ManyBaby project} \hfill University of Manitoba \newline \textit{PI:} Melaine Soderstrom. \newline
-\textit{Roles:} Acoustic measurement, statistical modelling of prosodic changes in Child Directed Speech\\
-	%Assistance to automatic pitch measurement using Praat, performing statistical analysis in R. \\
+% 2022 &
+% \textbf{The ManyBaby project} \hfill University of Manitoba \newline \textit{PI:} Melaine Soderstrom. \newline
+% \textit{Roles:} Acoustic measurement, statistical modelling of prosodic changes in Child Directed Speech\\
+% 	%Assistance to automatic pitch measurement using Praat, performing statistical analysis in R. \\
 
-2022 &
-\textbf{The backfire effect in the perception of political views} \hfill University of Hong Kong \newline 
-\textit{Advisor:} Haohan Chen\newline
-\textit{Roles:} Conducting this independent study, including web data extraction using R, analyzing and interpreting text data. Compiling tutorials of advanced data science course of POLI3148: Data Science in Politics and Public Administration.\\
+% 2022 &
+% \textbf{The backfire effect in the perception of political views} \hfill University of Hong Kong \newline 
+% \textit{Advisor:} Haohan Chen\newline
+% \textit{Roles:} Conducting this independent study, including web data extraction using R, analyzing and interpreting text data. Compiling tutorials of advanced data science course of POLI3148: Data Science in Politics and Public Administration.\\
 
-	% &
-	%Independent study titled "The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda". Assisting web data extraction using R. Analyzing and interpreting text data. Compiling tutorials of advanced data science course for POLI3148: Data Science in Politics and Public Administration. \\
+% 	% &
+% 	%Independent study titled "The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda". Assisting web data extraction using R. Analyzing and interpreting text data. Compiling tutorials of advanced data science course for POLI3148: Data Science in Politics and Public Administration. \\
 
-	%&
-	%\normalsize \textbf{Univ. of Manitoba}\\
-	\end{SectionTable}
+% 	%&
+% 	%\normalsize \textbf{Univ. of Manitoba}\\
+% 	\end{SectionTable}
 
 % --- Section: Mentorship and service ---
 %\newpage
 \begin{SectionTable}{\headingfont{\textbf{\textsc{Skills}}}}
-Language &
+	\vspace{-1cm}Language &\vspace{-1cm}
 English, Mandarin, Cantonese\\
 
-Scripting &
+\vspace{-1cm}Scripting &\vspace{-1cm}
 Python, SQL, R, Praat, \LaTeX, Markdown, HTML\\
 
 % Tools &
@@ -353,22 +286,22 @@ Python, SQL, R, Praat, \LaTeX, Markdown, HTML\\
 % --- Section: Mentorship and service ---
 
 \begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Memberships and Services}}}}
-2023-&
+	\vspace{-1cm}2023-&\vspace{-1cm}
 Acoustical Society of America \hfill Student member\\
-2021-&
+\vspace{-1cm}2021-&\vspace{-1cm}
 Linguistic Society of America \hfill Student member\\
 
-2023 &
+\vspace{-1cm}2023 &\vspace{-1cm}
 Mitacs \hfill Globalink Research Ambassador \\
-2022&
+\vspace{-1cm}2022&\vspace{-1cm}
  Undergraduate Buddy Program \hfill Mentor to Fu Jia'ni \\
-2021-23&
+ \vspace{-1cm}2021-23&\vspace{-1cm}
 Chinese Culture Committee at R.C.Lee Hall \hfill Chariperson\\
-2020-21&
+\vspace{-1cm}2020-21&\vspace{-1cm}
 Social Service Fund, HKUSU \hfill External Secretary\\
-2021&
+\vspace{-1cm}2021&\vspace{-1cm}
 Pad for Hope Foundation \hfill Teaching Assistant\\
-2020&
+\vspace{-1cm}2020&\vspace{-1cm}
 University Service Centre of CUHK \hfill Student Helper\\
 \end{SectionTableSingleSpace}
 
