@@ -1,6 +1,6 @@
 # Basic Information 
 title: Baichen Du
-position: Ph.D. Student
+position: PhD Student
 affiliation: UCLA Linguistics
 email: baichendu (at) ucla.edu
 
@@ -8,7 +8,7 @@ email: baichendu (at) ucla.edu
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Baichen Du
 description: PhD student in Linguistics
-canonical: https://minimal-light-theme.yliu.me/
+#canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -21,8 +21,8 @@ github_link: https://github.com/baichen-du
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/IMG_3004.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/monogram.png
+favicon_dark: ./assets/img/monogram.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -38,7 +38,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+#google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
