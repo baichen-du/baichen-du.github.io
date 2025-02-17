@@ -12,7 +12,7 @@ div {
 </style>
 <div style="text-align: justify">
 
-  I am an incoming PhD student at UCLA Linguistics. My research focuses on how the structure (i.e., Phonology and Syntax) and fine details (i.e., Phonetics) are acquired, transmitted, and changed. Experimentation and computational methods are exployed to investigate the questions. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Yao Yao </a>.
+  I am an incoming PhD student at UCLA Linguistics. My research focuses on how the structure and fine details of language are acquired, transmitted, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "http://www.cbs.polyu.edu.hk/yaoyao"> Yao Yao </a>.
 <br>
 <br>
   For the side quest for computational methods, I worked with <a href="https://haohanchen.github.io"> Haohan Chen</a>. My data science tutorials (in progress) in Python, SQL, and R can be found <a href="https://github.com/baichen-du/DataScienceTutorials/" target="_blank">here</a>.
