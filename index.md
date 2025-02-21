@@ -11,10 +11,7 @@ div {
 }
 </style>
 <div style="text-align: justify">
-<p class="hidden">My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. </p>I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phonetics, and Phonology. My research focuses on how the structure and fine details of language are acquired, transmitted, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>.
-<br>
-<br>
-  For the side quest for computational methods, I worked with <a href="https://haohanchen.github.io"> Haohan Chen</a>. My data science tutorials (in progress) in Python, SQL, and R can be found <a href="https://github.com/baichen-du/DataScienceTutorials/" target="_blank">here</a>.
+<p class="hidden">My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. For the side quest for computational methods, I worked with <a href="https://haohanchen.github.io"> Haohan Chen</a>. My data science tutorials (in progress) in Python, SQL, and R can be found <a href="https://github.com/baichen-du/DataScienceTutorials/" target="_blank">here</a>.</p>I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phonetics, and Phonology. My research focuses on how the structure and fine details of language are acquired, transmitted, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>.
 <br>
 <br>
 </div>
