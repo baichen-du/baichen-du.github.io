@@ -20,10 +20,10 @@ I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguist
 
 ## Research
 
-**Current Projects**
-
+<div style="text-align: justify">
 To be updated.
-
+</div>
+<br>
 
 ## Publications & Presentations
 
