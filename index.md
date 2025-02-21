@@ -18,6 +18,13 @@ I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguist
 </div>
 <p></p>
 
+## Research
+
+**Current Projects**
+
+To be updated.
+
+
 ## Publications & Presentations
 
 **Papers and Manuscripts**
