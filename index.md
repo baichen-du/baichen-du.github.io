@@ -18,10 +18,16 @@ I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguist
 </div>
 <p></p>
 
-## Research
+## Current Projects
 
 <div style="text-align: justify">
-To be updated.
+&#8226; Discourse coherence and null pronouns in the processing of Mandarin subjects
+<br>
+<br>
+&#8226; Perceptual ambiguity due to paralinguistic gesture's interaction with articulation
+<br>
+<br>
+&#8226; Contact induced variation in production and perception: Stops contrasts and Tonogenesis in Korean
 </div>
 <br>
 
@@ -30,7 +36,7 @@ To be updated.
 **Papers and Manuscripts**
 
 <div style="text-align: justify">
-&#8226; <b>Du, B.,</b> Pfiffner, A. (To be submitted). Cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger.
+&#8226; <b>Du, B.,</b> Pfiffner, A. (Submitted). Cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger.
 <br>
 <br>
 &#8226; <b>Du, B.,</b> Pfiffner, A., Johnson, K. (2024). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30.2</i> (Selected Papers from NWAV 51).
