@@ -14,7 +14,6 @@ div {
 <!--My name is Baichen Du 杜柏辰 [tʷuː4 pai3 ʈʂʰən2] in Mandarin, or [tou2 pak3 sɐn21] in Cantonese. For the side quest for computational methods, I worked with <a href="https://haohanchen.github.io"> Haohan Chen</a>. My data science tutorials (in progress) in Python, SQL, and R can be found <a href="https://github.com/baichen-du/DataScienceTutorials/" target="_blank">here.-->
 I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phonetics, and Phonology. My research focuses on how the structure and fine details of language are acquired, transmitted, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>.
 <br>
-<br>
 </div>
 <p></p>
 
@@ -23,13 +22,10 @@ I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguist
 <div style="text-align: justify">
 &#8226; Discourse coherence and null pronouns in the processing of Mandarin subjects
 <br>
-<br>
 &#8226; Perceptual ambiguity due to paralinguistic gesture's interaction with articulation
-<br>
 <br>
 &#8226; Contact induced variation in production and perception: Stops contrasts and Tonogenesis in Korean
 </div>
-<br>
 
 ## Publications & Presentations
 
@@ -89,6 +85,10 @@ I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguist
 <br>
 Data Science in Political Science with Python: Python Basics, data wrangling with Pandas, visulization with Seaborn, geospatial analysis with Geopandas, text analysis with SpaCy, regression and machine learning with scikit-learn, and advnaced topics in TM and ML with transformers.
 <br>
-<br>
+</div>
+
+## Other
+<div style="text-align: justify">
+We raise Gelato, a 1y/o Napolean, and Toffee, a 3mo British Long Hair, back home in HK.
 </div>
 <p></p>
