@@ -90,6 +90,6 @@ Data Science in Political Science with Python: Python Basics, data wrangling wit
 
 ## Cats
 <div style="text-align: justify">
-We raise Gelato, a 1y/o Napolean, and Toffee, a 3mo British Longhair, back home in HK. 
+My fiancée and I raise Gelato, a 1y/o Napolean, and Toffee, a 3mo British Longhair, back home in HK. 
 </div>
 <p></p>
