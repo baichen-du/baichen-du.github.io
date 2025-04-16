@@ -1,0 +1,374 @@
+% --- LaTeX CV Template - S. Venkatraman ---
+
+% --- Set document class and font size ---
+
+\documentclass[letterpaper, 11pt]{article}
+
+% --- Package imports ---
+
+\usepackage{hyperref, enumitem, longtable, amsmath, array}
+\usepackage{alltt}
+% --- Page layout settings ---
+
+% Set page margins
+\usepackage[left=0in, right=0.1in, bottom=0.6in, top=0.6in, headsep=0in, footskip=0.2in]{geometry}
+\usepackage{multicol}
+\usepackage{xeCJK}
+\usepackage{hyperref}
+\usepackage{tabto}
+\newcommand\mytab{\tabto{0.5cm}}
+
+% Set line spacing
+
+\renewcommand{\baselinestretch}{1}
+
+% --- Page formatting settings ---
+
+% Set link colors
+\usepackage[dvipsnames]{xcolor}
+\hypersetup{colorlinks=true, linkcolor=MidnightBlue, urlcolor=MidnightBlue}
+
+% Set font to Libertine, including math support
+\usepackage{libertine}
+%\usepackage[libertine]{newtxmath}
+\usepackage{CJKutf8}
+% Remove page numbering
+\pagenumbering{arabic}%or arabic
+
+% Define font size and color for section headings, use MidnightBlue for default
+\newcommand{\headingfont}{\Large\color{MidnightBlue}}%or black
+
+\newcolumntype{R}{>{\raggedright \footnotesize}p{0.45in}}
+
+% Define 'SectionTable' environment
+\newenvironment{SectionTable}[1]{
+	\renewcommand*{\arraystretch}{1.5}
+	\setlength{\tabcolsep}{10pt}
+	\begin{longtable}{Rp{6.3in}} & #1 \vspace{0.13cm}\hrule\\}
+{\end{longtable}\vspace{-1cm}}
+
+% Define 'SectionTableSingleSpace' environment
+\newenvironment{SectionTableSingleSpace}[1]{
+	\renewcommand*{\arraystretch}{1.3}
+	\setlength{\tabcolsep}{10pt}
+	\begin{longtable}{Rp{6.3in}} & #1 \vspace{0.13cm}\hrule \\[0.6em] }
+{\end{longtable}\vspace{-1cm}}
+
+% Define tile table environment
+\newenvironment{TitleTable}[1]{
+	\renewcommand*{\arraystretch}{1.6}
+	\setlength{\tabcolsep}{10pt}
+	\begin{longtable}{Rp{6.3in}} & #1\\}
+{\end{longtable}\vspace{-1cm}}
+
+% --- Document starts here ---
+
+\begin{document}
+% --- Name and contact information ---
+
+\begin{TitleTable}
+	{\huge{{Baichen Du}} \hspace{1cm}\Large{[pai3 ʈʂʰən2 tʷu:4]} \hfill{\small{\today}}} &
+Department of Linguistics, \hfill \href{mailto::baichendu@ucla.edu}{baichendu@ucla.edu}\newline
+University of California, Campbell Hall \hfill \href{https://baichen-du.github.io}{baichen-du.github.io}\newline
+Los Angeles, CA 90095, USA\\
+%Github: \href{https://github.com/baichen-du}{baichen-du} \& \href{https://github.com/albertbaichendu}{albertbaichendu}\\
+\end{TitleTable}
+
+% % --- Section: Research interests ---
+
+% \begin{SectionTable}{\headingfont{\textbf{\textsc{Research Interests}}}}
+% \vspace{-1cm}{\scriptsize{Topics}} & \vspace{-0.1cm}
+% \vspace{-1cm}\textbf{Phonetics \& Phonology:} Experimental and developmental phonology and phonetics, acoustic, auditory, and articulatory phonetics, speech perception, sound change, multiple cues \\
+% %\footnotesize Methodology & Computer vision as articulometry in audiovisual phonetics research: Emotion and facial expression detection and tracking, facial landmarks tracking.\\
+% \end{SectionTable}
+
+% --- Section: Education ---
+
+\begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Education}}}}
+&\vspace{-1cm}{\normalfont{\textsc{Degree programs}}}\\
+
+\vspace{-1cm}\raggedright{{2025-}} &\vspace{-1cm}
+\textbf{Doctor of Philosophy in Linguistics}, {University of California, Los Angeles}\\
+
+
+\raggedright{{2024}} &
+{\textbf{Bachelor of Social Sciences}, {The University of Hong Kong}}\newline
+\textit{First Class Honours}\newline
+\textit{Majors:} Politics and Public Administration; Linguistics\vspace{0.3cm}\\
+
+&
+{\normalfont{\textsc{Non-degree trainings}}}\\
+
+\raggedright{{2023}} &
+\textbf{University of California, Berkeley}, Undergraduate Visiting Student \\
+
+%& \textbf{Selected coursework}
+%\begin{itemize}[itemsep=0pt, leftmargin=*]
+%\item \textit{Statistics}: Asymptotic statistics, Mathematical statistics, Functional data analysis, High-dimensional statistics, Information theory
+%\item \textit{Mathematics}: Measure theory, Functional analysis, Measure-theoretic probability with martingales
+%\end{itemize}
+
+\end{SectionTableSingleSpace}
+
+% --- Section: Publications ---
+\begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Publications \& Manuscripts}}}}
+\vspace{-1cm}&\vspace{-1cm}\textsc{Invited articles}\\
+\vspace{-1cm}\raggedright{{2024}}&\vspace{-1cm}
+\textbf{Du, B.}, Pfiffner, A., Johnson, K. \normalfont{Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger.} \textit{{University of Pennsylvania Working Papers in Linguistics, 30}}(2). \\
+
+&\textsc{Contributed articles}\\
+\raggedright{{In prep}}&
+\textbf{Du, B.,} Alexandra A. \normalfont{Multiple and cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger}\\
+
+\raggedright{{2023}}&
+\textbf{Du, B.} \normalfont{Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023}}. Linguistic Society of University of California, Berkeley, CA} \\
+
+\raggedright{{Accepted}} &
+ \normalfont{Do, Y.\textsuperscript{*}}, \normalfont{Van Hoey, T., Yu, X.,} \textbf{Du, B.}, \normalfont{Tan, L. } {Implicit and explicit learning of vowel harmony patterns in phonotactics and alternations.} \textit{Linguistics Vangard}\\
+
+
+% \centerline{In prep} &
+%   \textbf{Du, B.} \normalfont{ An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In} \textit{\normalfont{\textit{Proceedings of Meetings on Acoustics 184ASA}}. Acoustical Society of America, 2023} \\
+%   \newpage
+\raggedright{{2023}} &
+\textbf{Du, B.} \normalfont{\textit{The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.} Undergraduate Thesis of Political Psychology, University of Hong Kong, HK.} \\
+%\newpage
+
+ %  &
+%  \normalfont{Soderstrom, M.\textsuperscript{*}, Casar, M.}, \textbf{Du, B.} (In prep). Examining infant language experiences in a cross-cultural context \\
+
+\end{SectionTableSingleSpace}
+
+%\newpage
+\begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Presentations}}}}
+\vspace{-1cm}&\vspace{-1cm}
+{\textit{As presenting author}}\\
+\vspace{-1cm}&
+\vspace{-1cm}\textsc{\normalsize{{Workshops}}}\\
+\vspace{-1cm}\raggedright{{2023}} &\vspace{-1cm}
+\textbf{Du, B.} \normalfont{{Introduction to Advanced R Programming with RMarkdown.} The Sociolinguistic Lab at UC Berkeley.}\\
+&
+\textsc{{Conference Papers and Posters}}\\
+
+\raggedright{{2023}} &
+\textbf{Du, B.}\normalfont{, Pfiffner, A., Johnson, K. The role of visible articulatory variation in the Mandarin sibilant contrast and merger.} Paper presented at the 98th Annual Meeting of Linguistic Society of America (LSA2024), New York City, NY. \\
+%\newpage
+%\pagenumbering{arabic}
+
+
+\raggedright{{2023}} &
+\normalfont{Havenhill, J, \textbf{Du, B}. The role of visual cues in sound change: A cross-modality perceptual account for the typological rarity of labial palatalization.} Poster presented at the 185th Meeting of Acoustical Society of America (ASA185), Sydney, Australia.\\
+
+\raggedright{{2023}} &
+ \textbf{Du, B.}, \normalfont{Pfiffner, A., Johnson, K. Consonant and vowel rounding: same acoustics, different visuals.} Poster presented at the 185th Meeting of Acoustical Society of America (ASA185), Sydney, Australia.\\
+
+
+ \raggedright{{2023}}&
+\textbf{Du, B.}\normalfont{, Pfiffner, A., Johnson, K.  Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. Paper presented at {New Ways of Analyzing Variation 51 (NWAV51), Queens College CUNY, New York City, NY.}}\\
+
+\raggedright{{2023}}&
+\textbf{Du, B.} \normalfont{ Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin.} Poster presented at the {184th Meeting of Acoustical Society of America 2023 (ASA 184), Chicago, IL.}\\
+
+\raggedright{{2023}} &
+\textbf{Du, B.} \normalfont{ An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin.} Paper presented at the {Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.} \\
+
+\raggedright{{2023}} &
+\textbf{Du, B.} \normalfont{ The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.} Poster presented at {Undergraduate Research Fellowship Program Poster Session: Student Research Posters, University of Hong Kong, HK.} \\
+
+\end{SectionTableSingleSpace}
+
+\begin{SectionTable}{\headingfont{\textbf{\textsc{Fellowships, Honors \& Awards}}}}
+
+\vspace{-1cm}2025 &\vspace{-1cm}
+Departmental Award, UCLA Linguistics Department, \textit{Summer Funding incl.} \hfill US\$23,750\\
+
+\vspace{-1cm}2023 &\vspace{-1cm}
+Down Funder Student Travel Funding, ASA185, Acoustics Society of America \hfill US\$1,000\\
+\vspace{-1cm}2023 &\vspace{-1cm}
+Departmental Grant, UC Berkeley Linguistics Department\hfill US\$600\\
+\vspace{-1cm}2023&\vspace{-1cm}
+Ms Cecilia Vong Prize of Linguistics, HKU Linguistics Department  \hfill HK\$1,000\\
+\vspace{-1cm}2022&\vspace{-1cm}
+Globalink Research Award, Mitacs \hfill CA\$12,000 \\
+\vspace{-1cm}2022&\vspace{-1cm}
+HKU Transdisciplinary Undergraduate Research Initiative Grant \hfill HK\$10,000 \\
+\vspace{-1cm}2022&\vspace{-1cm}
+HKU UG Research Fellowship (Leung Kau Kui Research and Teaching Endowment) \hfill HK\$10,000\\
+\vspace{-1cm}2022&\vspace{-1cm}
+K.K.Ho Prize, HKU Faculty of Social Sciences \hfill US\$2,560 \\
+\vspace{-1cm}2022&\vspace{-1cm}
+Dean's Honor List, HKU Faculty of Social Sciences \hfill \\
+\vspace{-1cm}2021&\vspace{-1cm}
+Dean's Honor List, HKU Faculty of Social Sciences \hfill \\
+\vspace{-1cm}2020&\vspace{-1cm}
+Dean's Honor List, HKU Faculty of Social Sciences \hfill \\
+\vspace{-1cm}2019&\vspace{-1cm}
+Soong Ching-ling Foundation Scholarship  \hfill US\$ 30,700 \\
+\end{SectionTable}\vspace{-0.5cm}
+
+\begin{SectionTable}{\headingfont{\textbf{\textsc{Teaching Experience}}}}
+
+\vspace{-1cm}&\vspace{-1cm}\textsc{As Teaching Assistant}\\
+
+\vspace{-1cm}2024 Fall&\vspace{-1cm}
+\textbf{POLI 3148 Data Science in Politics and Public Administration} (Instructor: Prof. Haohan Chen)\newline
+Data Science in Python including topics of data wrangling, data visualization, geospatial analysis, text analysis, machine learning, and advanced topics in TM and ML.\\
+
+ \end{SectionTable}
+% \begin{SectionTable}{\headingfont{\textbf{\textsc{Research Experience}}}}
+
+% 	\vspace{-1cm}&\vspace{-1cm}\textsc{Undergraduate Experience}\\
+% 	%&
+% 	%\normalsize \textbf{UC Berkeley}\\
+% 	\vspace{-1cm}2023 &\vspace{-1cm}
+%  \textbf{Korean tonogenesis among native and heritage speakers} \hfill{UC Berkeley}\newline
+%  \textbf{Multiple adaptive cue weighting in Korean palatal contrast}\newline
+%  \textbf{Mandarin sibilant merger and differential cue weightings}\newline
+% 	\textit{PI:} Keith Johnson\newline
+% 	\textit{Roles:} Independent projects on cue weightings and bilingualism, study design, experimentation, analyses and manuscript preparation.
+% 	\\
+% 2023 &
+% 	\textbf{Integration of emotion in speech perception}\hfill Polytechnic University of Hong Kong\newline 
+% 	\textit{PIs:} Keith Johnson, Yao Yao\newline
+% 	\textit{Roles:} Leading project on smiling speech. Study design, experiment programing, administering audiovidual production, facial expression tracking and action unit analysis, audiovisual alignment and segmentation.\\
+% 	%Assistance to study design, experimental programming, participant recuriting, emotion and facial expression detection and tracking using CNN, eye tracking and behavioral data collection. \\
+% 	%&
+% 	%\normalsize \textbf{Univ. of HK}\\
+% 2023 &
+% \textbf{Audiovisual perception of Korean labial palatalization} \hfill University of Hong Kong \newline
+% 	\textit{PIs:} Jonathan Havenhill\newline
+% 	\textit{Roles:} Acoustic analysis, speech manipulation and synthesis with KlattGrid, audiovisual stimuli creation, experiment programming, analyses and presentation\\
+
+% 2022 &
+% \textbf{The ManyBaby project} \hfill University of Manitoba \newline \textit{PI:} Melaine Soderstrom. \newline
+% \textit{Roles:} Acoustic measurement, statistical modelling of prosodic changes in Child Directed Speech\\
+% 	%Assistance to automatic pitch measurement using Praat, performing statistical analysis in R. \\
+
+% 2022 &
+% \textbf{The backfire effect in the perception of political views} \hfill University of Hong Kong \newline 
+% \textit{Advisor:} Haohan Chen\newline
+% \textit{Roles:} Conducting this independent study, including web data extraction using R, analyzing and interpreting text data. Compiling tutorials of advanced data science course of POLI3148: Data Science in Politics and Public Administration.\\
+
+% 	% &
+% 	%Independent study titled "The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda". Assisting web data extraction using R. Analyzing and interpreting text data. Compiling tutorials of advanced data science course for POLI3148: Data Science in Politics and Public Administration. \\
+
+% 	%&
+% 	%\normalsize \textbf{Univ. of Manitoba}\\
+% 	\end{SectionTable}
+
+% --- Section: Mentorship and service ---
+%\newpage
+\begin{SectionTable}{\headingfont{\textbf{\textsc{Skills}}}}
+	\vspace{-1cm}Language &\vspace{-1cm}
+English, Mandarin, Cantonese\\
+
+\vspace{-1cm}Scripting &\vspace{-1cm}
+Python, SQL, R, Praat, \LaTeX, Markdown, HTML\\
+\newpage
+
+% Tools &
+% \textbf{Statistics:} RStudio, jamovi\newline
+% \textbf{Experiment:} PsychoPy, EyeLink 1000 Plus, Pavlovia.org\newline
+% \textbf{Measurement:} Praat, OpenFace, Qualtrics\newline
+% \textbf{Processing:} Klatt Synthesis, Montreal Forced Alignment, TANDAM-STRAIGHT, ffmpeg, ELAN, Polly\newline
+% \textbf{Recruitment:} Mechanical Turk, Prolific\\
+
+% Others &
+% \textbf{Statistical Modelling:}{ Frequentist and Bayesian statistics (e.g., Linear/Generalized Mixed Effects Regression)}, Structural Equation Modeling (e.g., EFA, CFA, Latent Growth Model, Multi-level Modelling), \newline
+% \textbf{Text Data Processing:} web data extraction, topic modelling, sentiment analysis\newline
+% \textbf{Computer Vision:} Facial Landmarks Tracking, Emotion Detection, Eye Tracking\\
+\end{SectionTable}
+
+% --- Section: Mentorship and service ---
+
+\begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Memberships \& Services}}}}
+	\vspace{-1cm}2024-&\vspace{-1cm}
+	Reading Group of Computational Social Sciences, HKU FoSS \hfill{Member}\\
+	\vspace{-1cm}2023-&\vspace{-1cm}
+Acoustical Society of America \hfill Student member\\
+\vspace{-1cm}2021-&\vspace{-1cm}
+Linguistic Society of America \hfill Student member\\
+
+\vspace{-1cm}2023 &\vspace{-1cm}
+Mitacs \hfill Globalink Research Ambassador \\
+\vspace{-1cm}2022&\vspace{-1cm}
+ Undergraduate Buddy Program \hfill Mentor to Fu Jia'ni \\
+ \vspace{-1cm}2021-23&\vspace{-1cm}
+Chinese Culture Committee at R.C.Lee Hall \hfill Chariperson\\
+\vspace{-1cm}2020-21&\vspace{-1cm}
+Social Service Fund, HKUSU \hfill External Secretary\\
+\vspace{-1cm}2021&\vspace{-1cm}
+Pad for Hope Foundation \hfill Teaching Assistant\\
+\vspace{-1cm}2020&\vspace{-1cm}
+University Service Centre of CUHK \textit{中國研究服務中心}  \hfill Student Helper\\
+\end{SectionTableSingleSpace}
+
+% --- Section: Professional society memberships ---
+%\newpage
+% \begin{SectionTableSingleSpace}{\headingfont Relevant Coursework}
+% Linguistics &
+% Phonetics (A), Advanced Phonetics (A), Experimental Phonetics (A+), Phonology (A+), \newline Phonetic-Phonology interface (A+), Variation analysis (A-), Advanced Sociolinguistics (A), \newline Laboratory linguistics (A),  Second language research (A+), Languages of the world (A+), \newline Grammatical description (A+), Semantics (A-), Language Revitalization (Pending).\\
+
+% Methods &
+% Advanced Statistics in Psychology (Pending), Research Methods in Social Sciences (A+), \newline Data Science in Politics and Public Administration (A+), Policy and Program Evaluation (A-),\newline Data Analysis with R (A)\\
+% \end{SectionTableSingleSpace}
+
+% \begin{SectionTableSingleSpace}{\headingfont{References}}
+% 	&
+% 		\textbf{Dr. Alexandra Pfiffner}\newline
+% 		Lecturer at UC Berkeley\newline
+% 		\href{https://www.alexandra-pfiffner.com/}{alexandra-pfiffner.com}\newline
+% 		apfiffner@berkeley.edu\newline
+
+% 		\textbf{Prof. Keith Johnson}\newline
+% 		Professor of Graudate School at UC Berkeley\newline
+% 		\href{https://linguistics.berkeley.edu/~kjohnson/}{linguistics.berkeley.edu/~kjohnson}\newline
+% 		keithjohnson@berkeley.edu\newline
+
+% 		\textbf{Dr. Jonathan Havenhill}\newline
+% 		Assistant Professor at Univ. of HK\newline
+% 		\href{https://jhavenhill.com}{jhavenhill.com}\newline
+% 		jhavenhill@hku.hk
+% \end{SectionTableSingleSpace}
+%  \begin{SectionTable}{\headingfont References}
+%  &
+%  \textbf{Dr. Alexandra Pfiffner}\newline
+%  Lecturer at UC Berkeley\newline
+%  \href{https://www.alexandra-pfiffner.com/}{alexandra-pfiffner.com}\newline
+%  apfiffner@berkeley.edu\\
+%  &
+%  \textbf{Prof. Keith Johnson}\newline
+%  Professor of Graudate School at UC Berkeley\newline
+%  \href{https://linguistics.berkeley.edu/~kjohnson/}{linguistics.berkeley.edu/~kjohnson}\newline
+%  keithjohnson@berkeley.edu\\
+%  &
+%  \textbf{Dr. Jonathan Havenhil}\newline
+%  Assistant Professor at Univ. of HK\newline
+%  \href{https://jhavenhill.com}{jhavenhill.com}\newline
+%  jhavenhill@hku.hk\\
+%  &
+%  \textbf{Dr. Youngah Do}\newline
+%  Associate Professor at Univ. of HK\newline
+%  \href{https://repository.hku.hk/cris/rp/rp02160}{repository.hku.hk/cris/rp/rp02160}\newline
+%  youngah@hku.hk\\
+%  &
+%  \textbf{Dr. Haohan Chen}\newline
+%  Assistant Professor at Univ. of HK\newline
+%  \href{https://haohanchen.github.io}{haohanchen.github.io}\newline
+%  haohan@hku.hk\\
+
+%  \end{SectionTable}
+
+\mbox{}
+%\vfill
+%\begin{center}
+%Last update: \today
+%\end{center}
+% --- End of CV! ---
+
+\end{document}
+
+
+
+
+
