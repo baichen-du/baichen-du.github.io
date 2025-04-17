@@ -39,7 +39,7 @@ I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguist
 &#8226; <b>Du, B.,</b> Pfiffner, A., Johnson, K. (2024). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30.2</i> (Selected Papers from NWAV 51).
 <br>
 <br>
-&#8226; Yu, X., Van Hoey, T., Tan, F., <b>Du, B.</b> & Do, Y. (2024). Tracking phonological regularities: exploring the influence of learning mode and regularity locus in adult phonological learning. <i>Linguistics Vanguard</i>. <a href="https://doi.org/10.1515/lingvan-2023-0050" target="_blank">https://doi.org/10.1515/lingvan-2023-0050</a>
+&#8226; Yu, X., Van Hoey, T., Tan, F., <b>Du, B.</b> & Do, Y. (2024). Tracking phonological regularities: exploring the influence of learning mode and regularity locus in adult phonological learning. <i>Linguistics Vanguard</i>. <a href="https://doi.org/10.1515/lingvan-2023-0050" target="_blank">doi.org/10.1515/lingvan-2023-0050</a>
 <br>
 <br>
 &#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. In <i>Proceedings of the Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.</i>
@@ -84,7 +84,7 @@ I am an incoming PhD student at UCLA Linguistics, specializing in Psycholinguist
 <div style="text-align: justify">
 &#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Instructor: Haohan Chen)
 <br>
-Data Science in Political Science with Python: Python Basics, data wrangling with Pandas, visulization with Seaborn, geospatial analysis with Geopandas, text analysis with SpaCy, regression and machine learning with scikit-learn, and advnaced topics in TM and ML with transformers.
+Data Science in Political Science with Python: Python Basics, data wrangling with Pandas, visulization with Seaborn, geospatial analysis with Geopandas, text analysis with SpaCy, regression and machine learning with scikit-learn, and advnaced topics in TM and ML with transformers. Teaching materials are available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
 </div>
 <br>
 
