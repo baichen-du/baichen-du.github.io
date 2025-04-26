@@ -87,7 +87,7 @@ My side quest into data literacy resulted in the open-source course on data scie
 <div style="text-align: justify">
 &#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Instructor: Haohan Chen)
 <br>
-Data Science in Political Science with Python: Python Basics, data wrangling with Pandas, visulization with Seaborn, geospatial analysis with Geopandas, text analysis with SpaCy, regression and machine learning with scikit-learn, and advnaced topics in TM and ML with transformers. Teaching materials are available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
+Python Basics, data wrangling with Pandas, visulization with Seaborn, geospatial analysis with Geopandas, text analysis with SpaCy, regression and machine learning with scikit-learn, and advnaced topics in TM and ML with transformers. Full course available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
 </div>
 <br>
 <p></p>
