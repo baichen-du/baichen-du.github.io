@@ -14,8 +14,6 @@ div {
 I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phonetics, and Phonology. My research focuses on how the structure and fine details of language are produced, perceived, acquired, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>.
 <br>
 <br>
-My side quest into data literacy resulted in the open-source course on data science in social sciences in collaboration with <a href="https://haohanchen.github.io"> Haohan Chen</a>. See the Teaching section for more info.
-<br>
 
 </div>
 <p></p>
