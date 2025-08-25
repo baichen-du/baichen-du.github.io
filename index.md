@@ -11,7 +11,7 @@ div {
 }
 </style>
 <div style="text-align: justify">
-I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phonetics, and Phonology. My research focuses on how the structure and fine details of language are produced, perceived, acquired, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>, and <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>.
+I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phonetics, and Phonology. My research focuses on how the structure and fine details of language are produced, perceived, acquired, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>.
 <br>
 <br>
 
@@ -21,9 +21,9 @@ I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phone
 ## Current Projects
 
 <div style="text-align: justify">
-&#8226; Discourse coherence and null pronouns in the processing of Mandarin subjects
+&#8226; Articulatory gestures and sound changes in the context of Mandarin Chinese
 <br>
-&#8226; Articulation and production of facial gestures in relation to central executives
+&#8226; Native and non-native speaker's articulation and production of facial gestures
 <br>
 &#8226; Contact induced variation in production and perception: Stops contrasts and pitch emergence in Korean
 </div>
@@ -34,7 +34,7 @@ I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phone
 **Papers and Manuscripts**
 
 <div style="text-align: justify">
-&#8226; <b>Du, B.,</b> Pfiffner, A. (Submitted). Cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger.
+&#8226; <b>Du, B.,</b> Pfiffner, A. (In revision). Cross-modality cue integration and weighting: Lip rounding and acoustic cues in the Mandarin sibilant merger.
 <br>
 <br>
 &#8226; <b>Du, B.,</b> Pfiffner, A., Johnson, K. (2024). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30.2</i> (Selected Papers from NWAV 51).
@@ -86,6 +86,11 @@ I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phone
 &#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Instructor: Haohan Chen)
 <br>
 Python Basics, data wrangling with Pandas, visulization with Seaborn, geospatial analysis with Geopandas, text analysis with SpaCy, regression and machine learning with scikit-learn, and advnaced topics in TM and ML with transformers. Full course available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
+</div>
+<br>
+<div style="text-align: justify">
+&#8226; POLI3148: Data Science in Politics and Public Administration (2026 Spring, Planned)
+<br>
 </div>
 <br>
 <p></p>
