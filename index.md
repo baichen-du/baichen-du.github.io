@@ -83,13 +83,13 @@ I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phone
 
 **As Teaching Assistant**
 <div style="text-align: justify">
-&#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Instructor: Haohan Chen)
+&#8226; POLI3148: Data Science in Politics and Public Administration (HKU, 2024 Fall, Dr. Haohan Chen)
 <br>
 Python Basics, data wrangling with Pandas, visulization with Seaborn, geospatial analysis with Geopandas, text analysis with SpaCy, regression and machine learning with scikit-learn, and advnaced topics in TM and ML with transformers. Full course available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
 </div>
 <br>
 <div style="text-align: justify">
-&#8226; POLI3148: Data Science in Politics and Public Administration (2026 Spring, Planned)
+&#8226; POLI3148: Data Science in Politics and Public Administration (HKU, 2026 Spring, Planned)
 <br>
 </div>
 <br>
