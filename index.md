@@ -11,7 +11,7 @@ div {
 }
 </style>
 <div style="text-align: justify">
-I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phonetics, and Phonology. My research focuses on how the structure and fine details of language are produced, perceived, acquired, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>.
+Hello! I am a PhD student at UCLA Linguistics, specializing in Phonetics and Phonology, and Psycholinguistics. My research focuses on how the structure and fine details of language are produced, perceived, acquired, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>.
 <br>
 <br>
 
@@ -85,11 +85,11 @@ I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phone
 <div style="text-align: justify">
 &#8226; POLI3148: Data Science in Politics and Public Administration (HKU, 2024 Fall, Dr. Haohan Chen)
 <br>
-Python Basics, data wrangling with Pandas, visulization with Seaborn, geospatial analysis with Geopandas, text analysis with SpaCy, regression and machine learning with scikit-learn, and advnaced topics in TM and ML with transformers. Full course available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
+Python Basics, Pandas, Seaborn, Geopandas, SpaCy, scikit-learn, and transformers. Full course available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
 </div>
 <br>
 <div style="text-align: justify">
-&#8226; POLI3148: Data Science in Politics and Public Administration (HKU, 2026 Spring, Planned)
+&#8226; POLI3148: Data Science in Politics and Public Administration (HKU, 2026 Spring)
 <br>
 </div>
 <br>
