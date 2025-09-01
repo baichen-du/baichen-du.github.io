@@ -25,7 +25,7 @@ I am a PhD student at UCLA Linguistics, specializing in Psycholinguistics, Phone
 <br>
 &#8226; Native and non-native speaker's articulation and production of facial gestures
 <br>
-&#8226; Contact induced variation in production and perception: Stops contrasts and pitch emergence in Korean
+&#8226; Contact induced variation in production and perception: Stops contrasts in Korean
 </div>
 <br>
 
