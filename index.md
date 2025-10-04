@@ -15,6 +15,8 @@ Hello! I am a PhD student at UCLA Linguistics, specializing in Phonetics and Pho
 <br>
 <br>
 
+<a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>
+
 </div>
 <p></p>
 
