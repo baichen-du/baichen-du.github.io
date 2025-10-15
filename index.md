@@ -11,7 +11,7 @@ div {
 }
 </style>
 <div style="text-align: justify">
-Hello! I am a PhD student at UCLA Linguistics, specializing in Phonetics and Phonology, and Psycholinguistics. My research focuses on how the structure and fine details of language are produced, perceived, acquired, and changed. I employ experimentation, formal analysis, and computational methods to investigate the questions. I worked on a number of projects on these topics with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
+Hello! I am a PhD student at UCLA Linguistics, specializing in Phonetics and Phonology, and Psycholinguistics. My research focuses on how the structure and fine details of language are produced, perceived, acquired, and changed. I employ experimental and computational methods to investigate the questions. Currently, I am a member of the UCLA Phonetics Lab. I worked on a number of projects on these topics with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao </a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
 <br>
 </div>
 <p></p>
