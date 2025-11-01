@@ -82,11 +82,8 @@ With <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and 
 &#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Dr. Haohan Chen)
 <br> 
 Full course available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
-</div>
 <br>
-<div style="text-align: justify">
 &#8226; POLI3148: Data Science in Politics and Public Administration (2026 Spring)
-<br>
 </div>
 <br>
 <p></p>
