@@ -36,7 +36,7 @@ With <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and 
 **Papers and Manuscripts**
 
 <div style="text-align: justify">
-&#8226; <b>Du, B.,</b> Pfiffner, A. (In revision). The co-variance of acoustic cues and lip gestures in the production of the Mandarin sibilant contrast
+&#8226; <b>Du, B.,</b> Pfiffner, A. (Re-submitted). The co-variance of acoustic cues and lip gestures in the production of the Mandarin sibilant contrast
 <br>
 <br>
 &#8226; <b>Du, B.,</b> Pfiffner, A., Johnson, K. (2024). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30.2</i> (Selected Papers from NWAV 51).
@@ -69,9 +69,6 @@ With <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and 
 <br>
 <br>
 &#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at ASA 184th Meeting (ASA184), Chicago, IL.
-<br>
-<br>
-&#8226; <b>Du, B.</b> (2023). An audio-visual account for synchronic sound changes towards sibilants merger in Taiwan Mandarin. Talk given at Seventh Annual Berkeley Undergraduate Linguistics Symposium 2023, University of California, Berkeley, CA.
 </div>
 <br>
 
