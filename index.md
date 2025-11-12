@@ -11,7 +11,7 @@ div {
 }
 </style>
 <div style="text-align: justify">
-Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Linguistics</a>, specializing in Phonetics. I study how the structure and fine details of language are produced, perceived, acquired, and changed with experimental and computational approaches. Currently, I am a member of the <a href = "https://phonetics.linguistics.ucla.edu/">UCLA Phonetics Lab </a>. I worked on a number of projects on these topics with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao</a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
+Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Linguistics</a>, specializing in Phonetics. I study how the structure and fine details of language are produced, perceived, acquired, and changed with experimental and computational approaches. Currently, I am a member of the <a href = "https://phonetics.linguistics.ucla.edu/">UCLA Phonetics Lab </a>. I worked on a number of projects on these topics with <a href = "https://linguistics.ucla.edu/person/megha-sundara/"> Megha Sundara</a>, <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao</a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
 <br>
 </div>
 <p></p>
@@ -22,6 +22,8 @@ Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Lingu
 
 With <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and <a href="https://linguistics.ucla.edu/person/jae-eun-jennifer-shin/">Jennifer Shin</a>, we will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in the coda voicing, and the resulting perceptual differences.
 <br>
+<br>
+&#8226; Sensitivity to tonal information in Mandarin lexical access: Evidence from corpus study, eye tracking, and perception
 <br>
 &#8226; Articulatory gestures and sound changes in the context of Mandarin Chinese
 <br>
