@@ -30,7 +30,7 @@ Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Lingu
 
 ## Publications & Presentations
 
-**Journal Papers**
+**Journal Articles**
 
 <div style="text-align: justify">
 &#8226; <b>Du, B.,</b> Pfiffner, A. (Re-submitted). The co-variance of acoustic cues and lip gestures in the production of the Mandarin sibilant contrast
