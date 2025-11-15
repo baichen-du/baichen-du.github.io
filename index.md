@@ -96,22 +96,22 @@ See the course archive I compiled for more information <a href="https://github.c
 <div style="text-align: justify">
 Here are some hopefully useful tools, scripts, or small tricks that I developed/wrote/found through my undergraduate and MA study, which is open for anyone to use.
 </div>
-
+<br>
 **Video Segmentation with Praat TextGrid**
 <div style="text-align: justify">
 For audiovisual linguistic research, there is no "Praat" for videos. I developed this Python script that takes videos and properly annotated TextGrids as inputs, and segment the videos into smaller clips, which can be further fed to computer visions models for batch processing. Unlike tools such as ffmpeg, I use MoviePy, which is at the percision of milliseconds. This is particularly helpful for computer-vision-assisted articulography, eye-tracking, and pupillometry, which needs to capture the trajectory of fast-moving articulators and frequent eye movements.
 </div>
-
+<br>
 **Automatic interval labelling and segment tracking for TextGrids**
 <div style="text-align: justify">
 For languages that do not have a properly trained MFA model, sometimes we may want to manually segment recordings into utterances, words, and sound segments. This Praat script will handle these jobs all at once, with proper settings for parameters. Though just like MFA, manual adjustments are highly recommended for percision.
 </div>
-
+<br>
 **Visually-impaired-reader-friendly plotting in Python and R**
 <div style="text-align: justify">
 Under work
 </div>
-
+<br>
 ## Additional Notes
 
 <div style="text-align: justify">
