@@ -104,7 +104,7 @@ For audiovisual linguistic research, there is no "Praat" for videos. I developed
 <br>
 **Automatic interval labelling and segment tracking for TextGrids**
 <div style="text-align: justify">
-For languages that do not have a properly trained MFA model, sometimes we may want to manually segment recordings into utterances, words, and periodic/non-periodic segments. These Praat scripts will handle these jobs all at once, with proper settings for parameters. Though just like MFA, manual adjustments are highly recommended for percision.
+For languages that do not have a properly trained MFA model, sometimes we may want to manually segment recordings into utterances, words, and periodic/non-periodic segments. This set of Praat scripts will handle these jobs all at once, with proper settings for parameters. Though just like MFA, manual adjustments are highly recommended for percision.
 </div>
 <br>
 **Plotting in Python and R: A side-by-side comparison**
