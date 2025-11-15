@@ -90,4 +90,10 @@ Full course available <a href="https://github.com/haohanchen/dasppa-24f-hku" tar
 &#8226; POLI3148: Data Science in Politics and Public Administration (2026 Spring, Dr. Haohan Chen)
 </div>
 <br>
+
+## Additional Notes
+
+<div style="text-align: justify">
+I was admitted to UCLA in 2024 but deferred my admission due to personal reasons. Prior to joining UCLA, I worked as research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, the Psychology Department at University of Manitoba - Winnipeg, and completed my exchange study at UC Berkeley. 
+<br>
 <p></p>
