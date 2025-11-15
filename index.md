@@ -127,4 +127,5 @@ Under work
 
 <div style="text-align: justify">
 Prior to joining UCLA, I worked as research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, the Psychology Department at University of Manitoba - Winnipeg, and completed my exchange study at UC Berkeley. Aside from phonetics, I also enjoy applying data analytics and machine learning techniques to linguistic research.
-</p>
+</div>
+<p></p>
