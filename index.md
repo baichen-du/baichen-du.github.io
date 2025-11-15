@@ -86,7 +86,7 @@ See the course archive I compiled for more information <a href="https://github.c
 </div>
 <br>
 
-## Resources (in progress))
+## Resources (in progress)
 
 <div style="text-align: justify">
 Here are some hopefully useful tools, scripts, or small tricks that I developed/wrote/found through my undergraduate study, which is open for anyone to use.
