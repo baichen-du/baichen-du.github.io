@@ -94,7 +94,7 @@ See the course archive I compiled for more information <a href="https://github.c
 ## Resources (under work)
 
 <div style="text-align: justify">
-Here are some hopefully useful tools, scripts, or small tricks that I developed/wrote/found through my undergraduate and MA study, which is open for anyone to use.
+Here are some hopefully useful tools, scripts, or small tricks that I developed/wrote/found through my undergraduate study, which is open for anyone to use.
 </div>
 <br>
 **Video Segmentation with Praat TextGrid**
