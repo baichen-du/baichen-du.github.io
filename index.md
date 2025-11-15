@@ -109,7 +109,7 @@ For languages that do not have a properly trained MFA model, sometimes we may wa
 <br>
 **Plotting in Python and R: A side-by-side comparison**
 <div style="text-align: justify">
-ggplot2 has been the go-to tools for plotting in many fields. However, when automating linguistic data analyses or controlling more up-to-date experimental devices (e.g., eyetracker), Python seems to be a more handier option. To better streamlining Python plotting with seaborn/matplotlib, I wrote this little tutorial to compare plotting in R with ggplot (and related packages) and in Python with seaborn/matplotlib. 
+ggplot2 has been the go-to tools for plotting in many fields. However, when automating linguistic data analyses or controlling more up-to-date experimental devices (e.g., eyetracker), Python seems to be a more handier option. To better streamlining the transition to Python, I wrote this tutorial to compare plotting in R with ggplot (and related packages) and in Python with seaborn/matplotlib. 
 </div>
 <br>
 **Calling Praat in R for fully replicable acoustic measurement**
