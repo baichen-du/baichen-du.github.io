@@ -99,7 +99,7 @@ Here are some hopefully useful tools, scripts, or small tricks that I developed/
 <br>
 **Video Segmentation with Praat TextGrid**
 <div style="text-align: justify">
-For audiovisual linguistic research, there is no "Praat" for videos. I developed this Python program VideoPraat that takes videos and properly annotated TextGrids as inputs, and segment the videos into smaller clips, which can be further fed to computer visions models for batch processing. Unlike tools such as ffmpeg, I use MoviePy, which is a Python library at the percision of sub-milliseconds, as permitted by the framerate of the input video. This is particularly helpful for computer-vision-assisted articulography, eye-tracking, and pupillometry, which needs to capture the trajectory of fast-moving articulators and frequent eye movements. Or it can be applied in less computationally demanding tasks, such as segmenting sociolinguistic interviews or recordings of head-turning experiments with infants into individual trials.
+For audiovisual linguistic research, there is no "Praat" for videos. I developed this Python program that takes videos and properly annotated TextGrids as inputs, and segment the videos into smaller clips, which can be further fed to computer visions models for batch processing. Unlike tools such as ffmpeg, I use MoviePy, which is a Python library at the percision of sub-milliseconds, as permitted by the framerate of the input video. This is particularly helpful for computer-vision-assisted articulography, eye-tracking, and pupillometry, which needs to capture the trajectory of fast-moving articulators and frequent eye movements. Or it can be applied in less computationally demanding tasks, such as segmenting sociolinguistic interviews or recordings of head-turning experiments with infants into individual trials.
 </div>
 <br>
 **Automatic interval labelling and segment tracking for TextGrids**
@@ -107,7 +107,17 @@ For audiovisual linguistic research, there is no "Praat" for videos. I developed
 For languages that do not have a properly trained MFA model, sometimes we may want to manually segment recordings into utterances, words, and periodic/non-periodic segments. These Praat scripts will handle these jobs all at once, with proper settings for parameters. Though just like MFA, manual adjustments are highly recommended for percision.
 </div>
 <br>
-**Visually-impaired-reader-friendly plotting in Python and R**
+**Plotting in Python and R: A side-by-side comparison**
+<div style="text-align: justify">
+ggplot2 has been the go-to tools for plotting in many fields. However, when automating linguistic data analyses or controlling experimental devices (e.g., eyetracker), Python seems to be a more handier option. To better streamlining Python plotting with seaborn/matplotlib, I wrote this little tutorial to compare plotting in R with ggplot (and related packages) and in Python with seaborn/matplotlib. 
+</div>
+<br>
+**Calling Praat in R for fully replicable acoustic measurement**
+<div style="text-align: justify">
+Under work
+</div>
+<br>
+**Miscellaneous Rmd and JupyterNotebook tricks**
 <div style="text-align: justify">
 Under work
 </div>
