@@ -20,7 +20,7 @@ Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Lingu
 
 <div style="text-align: justify">
 
-Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and Jennifer Shin, I will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in the coda voicing, and the resulting perceptual differences.
+Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and Jae-Eun Jennifer Shin, I will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in the coda voicing, and the resulting perceptual differences.
 <br>
 <br>
 &#8226; Sensitivity to tonal information in Mandarin lexical access: Evidence from corpus study, eye tracking, production, and perception
