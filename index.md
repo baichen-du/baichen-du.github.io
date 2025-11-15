@@ -99,7 +99,7 @@ Here are some hopefully useful tools, scripts, or small tricks that I developed/
 
 **Video Segmentation with Praat TextGrid**
 <div style="text-align: justify">
-For audiovisual linguistic research, there is no "Praat" for videos. I developed this Python script that takes videos and properly annotated TextGrids as inputs, and segment the videos into smaller clips, which can be further fed to computer visions models for batch processing. Unlike tools such as ffmpeg, I use MoviePy, which is at the percision of milliseconds. This is particularly helpful for computer-vision-assisted articulography, which needs to capture the trajectory of fast-moving articulators. 
+For audiovisual linguistic research, there is no "Praat" for videos. I developed this Python script that takes videos and properly annotated TextGrids as inputs, and segment the videos into smaller clips, which can be further fed to computer visions models for batch processing. Unlike tools such as ffmpeg, I use MoviePy, which is at the percision of milliseconds. This is particularly helpful for computer-vision-assisted articulography, eye-tracking, and pupillometry, which needs to capture the trajectory of fast-moving articulators and frequent eye movements.
 </div>
 
 **Automatic interval labelling and segment tracking for TextGrids**
