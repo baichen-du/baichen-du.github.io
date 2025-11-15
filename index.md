@@ -85,15 +85,35 @@ Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat
 <div style="text-align: justify">
 &#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Dr. Haohan Chen)
 <br> 
-Full course available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
+See the course archive I compiled for more information <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
 <br>
 &#8226; POLI3148: Data Science in Politics and Public Administration (2026 Spring, Dr. Haohan Chen)
 </div>
 <br>
 
+## Resources (under work)
+
+<div style="text-align: justify">
+Here are some hopefully useful tools, scripts, or small tricks that I developed/wrote/found through my undergraduate and MA study, which is open for anyone to use.
+</div>
+
+**Video Segmentation with Praat TextGrid**
+<div style="text-align: justify">
+For audiovisual linguistic research, there is no "Praat" for videos. I developed this Python script that takes videos and properly annotated TextGrids as inputs, and segment the videos into smaller clips, which can be further fed to computer visions models for batch processing. Unlike tools such as ffmpeg, I use MoviePy, which is at the percision of milliseconds. This is particularly helpful for computer-vision-assisted articulography, which needs to capture the trajectory of fast-moving articulators. 
+</div>
+
+**Automatic interval labelling and segment tracking for TextGrids**
+<div style="text-align: justify">
+For languages that do not have a properly trained MFA model, sometimes we may want to manually segment recordings into utterances, words, and sound segments. This Praat script will handle these jobs all at once, with proper settings for parameters. Though just like MFA, manual adjustments are highly recommended for percision.
+</div>
+
+**Visually-impaired-reader-friendly plotting in Python and R**
+<div style="text-align: justify">
+Under work
+</div>
+
 ## Additional Notes
 
 <div style="text-align: justify">
-I was admitted to UCLA in 2024 but deferred my admission due to personal reasons. Prior to joining UCLA, I worked as research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, the Psychology Department at University of Manitoba - Winnipeg, and completed my exchange study at UC Berkeley. 
-<br>
-<p></p>
+Prior to joining UCLA, I worked as research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, the Psychology Department at University of Manitoba - Winnipeg, and completed my exchange study at UC Berkeley. Aside from phonetics, I also enjoy applying data analytics and machine learning techniques to linguistic research.
+</p>
