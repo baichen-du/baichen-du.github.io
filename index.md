@@ -20,7 +20,7 @@ Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Lingu
 
 <div style="text-align: justify">
 
-With <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and <a href="https://linguistics.ucla.edu/person/jae-eun-jennifer-shin/">Jennifer Shin</a>, we will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in the coda voicing, and the resulting perceptual differences.
+Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and Jennifer Shin, I will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in the coda voicing, and the resulting perceptual differences.
 <br>
 <br>
 &#8226; Sensitivity to tonal information in Mandarin lexical access: Evidence from corpus study, eye tracking, production, and perception
@@ -35,27 +35,16 @@ With <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and 
 
 ## Publications & Presentations
 
-**Papers and Manuscripts**
+**Journal Papers**
 
 <div style="text-align: justify">
 &#8226; <b>Du, B.,</b> Pfiffner, A. (Re-submitted). The co-variance of acoustic cues and lip gestures in the production of the Mandarin sibilant contrast
 <br>
 <br>
-&#8226; <b>Du, B.,</b> Pfiffner, A., Johnson, K. (2024). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30.2</i> (Selected Papers from NWAV 51).
-<br>
-<br>
 &#8226; Yu, X., Van Hoey, T., Tan, F., <b>Du, B.</b> & Do, Y. (2024). Tracking phonological regularities: exploring the influence of learning mode and regularity locus in adult phonological learning. <i>Linguistics Vanguard</i>. <a href="https://doi.org/10.1515/lingvan-2023-0050" target="_blank">doi.org/10.1515/lingvan-2023-0050</a>
-<br>
-<br>
-&#8226; <b>Du, B.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished undergraduate thesis of political psychology. University of Hong Kong.
 </div>
 <br>
-**Workshops**
 
-<div style="text-align: justify">
-&#8226; <b>Du, B.</b> (2023, Sep). Introduction to Advanced R Programming with RMarkdown. The Sociolinguistics Lab, University of California, Berkeley.
-</div>
-<br>
 **Conference Presentations**
 <div style="text-align: justify">
 &#8226; <b>Du, B.</b>, Pfiffner, A., Johnson, K. (2024, Jan). The role of visible articulatory variation in Mandarin sibilant contrast and merger. Talk given at 2024 LSA Annual Meeting (LSA2024), New York City, NY.
@@ -73,6 +62,22 @@ With <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and 
 &#8226; <b>Du, B.</b> (2023). Acoustic distance effect on the perception of sibilants mergers between retroflexes and alveolars in Taiwan Mandarin. Poster presented at ASA 184th Meeting (ASA184), Chicago, IL.
 </div>
 <br>
+**Workshops**
+
+<div style="text-align: justify">
+&#8226; <b>Du, B.</b> (2023, Sep). Introduction to Advanced R Programming with RMarkdown. The Sociolinguistics Lab, University of California, Berkeley.
+</div>
+<br>
+
+**Proceedings & Others**
+
+<div style="text-align: justify">
+&#8226; <b>Du, B.,</b> Pfiffner, A., Johnson, K. (2024). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30.2</i> (Selected Papers from NWAV 51).
+<br>
+<br>
+&#8226; <b>Du, B.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished undergraduate thesis of political psychology. University of Hong Kong.
+</div>
+<br>
 
 ## Teaching
 
@@ -82,7 +87,7 @@ With <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and 
 <br> 
 Full course available <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
 <br>
-&#8226; POLI3148: Data Science in Politics and Public Administration (2026 Spring)
+&#8226; POLI3148: Data Science in Politics and Public Administration (2026 Spring, Dr. Haohan Chen)
 </div>
 <br>
 <p></p>

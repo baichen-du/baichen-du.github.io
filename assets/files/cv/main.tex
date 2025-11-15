@@ -11,7 +11,7 @@
 % --- Page layout settings ---
 
 % Set page margins
-\usepackage[left=0.5in, right=0.5in, bottom=1in, top=0.9in, headsep=0in, footskip=0.2in]{geometry}
+\usepackage[left=0.5in, right=1in, bottom=1in, top=0.9in, headsep=0in, footskip=0.2in]{geometry}
 \usepackage{multicol}
 \usepackage{xeCJK}
 \usepackage{hyperref}
@@ -30,15 +30,18 @@
 
 % Set font to Libertine, including math support
 \usepackage{libertine}
+%\usepackage{lmodern}
+%\usepackage{CharisSIL}
+%\usepackage[defaultfam,tabular,lining]{montserrat}
 %\usepackage[libertine]{newtxmath}
 \usepackage{CJKutf8}
 % Remove page numbering
 \pagenumbering{arabic}%or arabic
 
 % Define font size and color for section headings, use MidnightBlue for default
-\newcommand{\headingfont}{\Large\color{MidnightBlue}}%or black
+\newcommand{\headingfont}{\Large\color{MidnightBlue}}%black or MidnightBlue
 
-\newcolumntype{R}{>{\raggedright \footnotesize}p{0.45in}}
+\newcolumntype{R}{>{\raggedright \footnotesize}p{0.5in}}
 
 % Define 'SectionTable' environment
 \newenvironment{SectionTable}[1]{
@@ -67,10 +70,10 @@
 % --- Name and contact information ---
 
 \begin{TitleTable}
-	{\huge{{Baichen Du}} \hspace{1cm}\Large{[pai3 ʈʂʰən2 tʷu:4]} \hfill{\small{Apr 26, 2025}}} &
-Department of Linguistics, \hfill Email: \href{mailto::baichendu@ucla.edu}{baichendu@ucla.edu}\newline
-University of California, Campbell Hall \hfill Website: \href{https://baichen-du.github.io}{baichen-du.github.io}\newline
-Los Angeles, CA 90095, USA\\
+	{\huge{{Baichen Du}} \hspace{1cm}\Large{[pai3 ʈʂʰən2 tʷu:4]}} &
+Department of Linguistics\hfill Email: \href{mailto::baichendu@ucla.edu}{baichendu@ucla.edu}\newline
+University of California, Los Angeles \hfill Website: \href{https://baichen-du.github.io}{baichen-du.github.io}\newline
+Campbell Hall, CA 90095, USA\\
 %Github: \href{https://github.com/baichen-du}{baichen-du} \& \href{https://github.com/albertbaichendu}{albertbaichendu}\\
 \end{TitleTable}
 
@@ -273,12 +276,18 @@ Soong Ching-ling Foundation Scholarship  \hfill US\$ 30,700 \\
 % 	\end{SectionTable}
 
 % --- Section: Mentorship and service ---
-%\newpage
+\newpage
 \begin{SectionTable}{\headingfont{\textbf{\textsc{Skills}}}}
-	\vspace{-1cm}Language &\vspace{-1cm}
-English, Mandarin, Cantonese\\
+&\vspace{-1cm}
+\textsc{Languages}\\
+&\vspace{-1cm}
+English, Mandarin, Cantonese\newline
+Fieldwork: Serudung Murut, Kalabakan Murut \newline
+Experimental: Korean\\
 
-\vspace{-1cm}Scripting &\vspace{-1cm}
+&
+\textsc{Scripting}\\
+&
 Python, SQL, R, Praat, \LaTeX, Markdown, HTML\\
 
 % Tools &
@@ -296,9 +305,7 @@ Python, SQL, R, Praat, \LaTeX, Markdown, HTML\\
 
 % --- Section: Mentorship and service ---
 
-\begin{SectionTableSingleSpace}{\headingfont{\textbf{\textsc{Memberships \& Services}}}}
-	\vspace{-1cm}2024-&\vspace{-1cm}
-	Reading Group of Computational Social Sciences, HKU FoSS \hfill{Member}\\
+\begin{SectionTable}{\headingfont{\textbf{\textsc{Memberships \& Services}}}}
 	\vspace{-1cm}2023-&\vspace{-1cm}
 Acoustical Society of America \hfill Student member\\
 \vspace{-1cm}2021-&\vspace{-1cm}
@@ -318,7 +325,7 @@ Social Service Fund, HKUSU \hfill External Secretary\\
 Pad for Hope Foundation \hfill Teaching Assistant\\
 \vspace{-1cm}2020&\vspace{-1cm}
 University Service Centre of CUHK \textit{中國研究服務中心}  \hfill Student Helper\\
-\end{SectionTableSingleSpace}
+\end{SectionTable}
 
 % --- Section: Professional society memberships ---
 %\newpage
