@@ -86,6 +86,13 @@ See the course archive I compiled for more information <a href="https://github.c
 </div>
 <br>
 
+## Additional Notes
+
+<div style="text-align: justify">
+I also speak Cantonese, in which my name is spelled as Paak San Dou [pak3 sɐn21 tou2]. Prior to joining UCLA, I worked as a full-time research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, and at the Psychology Department in University of Manitoba - Winnipeg before completing my exchange study at UC Berkeley. Aside from phonetics, I also enjoy applying data analytics and machine learning techniques to linguistic research. 
+</div>
+<br>
+
 ## Recent News
 
 <div style="text-align: justify">
