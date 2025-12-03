@@ -96,6 +96,6 @@ I also speak Cantonese, in which my name is spelled as Paak San Dou [pak3 sɐn21
 ## Recent News
 
 <div style="text-align: justify">
-Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and Jae-Eun Jennifer Shin, I will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in the coda voicing, and the resulting perceptual differences. This trip is sponsored by the <a href="https://linguistics.ucla.edu/graduate/current-students/ladefoged-scholarship-official-page/"> Ladefoged Scholarship</a> awarded to Jian-Leat, and co-award to me and Jennifer.
+Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and Jae-Eun Jennifer Shin, I will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in the coda voicing, and the resulting perceptual differences. This trip is sponsored by the <a href="https://linguistics.ucla.edu/graduate/current-students/ladefoged-scholarship-official-page/"> two Ladefoged Scholarships</a> awarded to Jian-Leat, and co-award to me and Jennifer.
 <br>
 <p></p>
