@@ -101,3 +101,27 @@ I also speak Cantonese, in which my name is spelled as Paak San Dou [pak3 sɐn21
 </div>
 <br>
 <p></p>
+
+<button onclick="topFunction()" id="back-to-top" title="Go to top">↑</button>
+
+<script>
+  // Get the button
+  let mybutton = document.getElementById("back-to-top");
+
+  // Show the button when the user scrolls down 200px
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+
+  // When the user clicks, scroll to the top
+  function topFunction() {
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+  }
+</script>
