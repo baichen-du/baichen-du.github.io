@@ -5,6 +5,30 @@
 
 
 body {
-  line-height: 1.6; /* Gives the text more breathing room */
+  line-height: 1.3; /* Gives the text more breathing room */
   font-size: 1.1em; /* Slightly larger text is easier to read */
+}
+
+/* --- Back to Top Button --- */
+#back-to-top {
+  display: none;           /* Hidden by default */
+  position: fixed;         /* Floats over the text */
+  bottom: 30px;            /* Distance from bottom */
+  right: 30px;             /* Distance from right */
+  z-index: 99;             /* Stays on top of everything */
+  border: none;
+  outline: none;
+  background-color: #555;  /* Dark grey background */
+  color: white;            /* White arrow */
+  cursor: pointer;
+  padding: 10px 15px;      /* Size of the button */
+  border-radius: 50%;      /* Makes it circular */
+  font-size: 18px;
+  opacity: 0.7;            /* Slightly transparent */
+  transition: opacity 0.3s;
+}
+
+#back-to-top:hover {
+  background-color: #333; /* Darker on hover */
+  opacity: 1;             /* Fully opaque on hover */
 }
