@@ -11,7 +11,7 @@ div {
 }
 </style>
 <div style="text-align: justify">
-Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Linguistics</a>, specializing in Phonetics. I study how the structure and fine details of language are produced, perceived, acquired, and changed with various methodologies, such as expreimentation, computation, and fieldwork. For example, I study the role of phonology when interacting with perceptibility, articulation, lexical access and variation, and how such role may inform us of the theory of grammar. Currently, I am a member of the <a href = "https://phonetics.linguistics.ucla.edu/">UCLA Phonetics Lab </a>. I worked on a number of projects on these topics with <a href = "https://linguistics.ucla.edu/person/megha-sundara/"> Megha Sundara</a>, <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao</a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
+Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Linguistics</a>, specializing in Phonetics. I study how the structure and fine details of language are produced, perceived, acquired, and changed with various methodologies, such as experimentation, computation, and fieldwork. For example, I study the role of phonology when interacting with perceptibility, articulation, lexical access and variation, and how this role may inform our understanding of grammatical theory. Currently, I am a member of the <a href = "https://phonetics.linguistics.ucla.edu/">UCLA Phonetics Lab </a>. I worked on a number of projects on these topics with <a href = "https://linguistics.ucla.edu/person/megha-sundara/"> Megha Sundara</a>, <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao</a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
 <br>
 </div>
 <p></p>
@@ -19,7 +19,7 @@ Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Lingu
 ## Recent News
 
 <div style="text-align: justify">
-Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and Jae-Eun Jennifer Shin, I will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in the coda voicing, and the resulting perceptual differences. This trip is sponsored by the <a href="https://linguistics.ucla.edu/graduate/current-students/ladefoged-scholarship-official-page/"> Ladefoged Scholarships</a> co-awarded to me and Jennifer.
+Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and Jae-Eun Jennifer Shin, I will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in coda voicing, and the resulting perceptual differences. This trip is sponsored by the <a href="https://linguistics.ucla.edu/graduate/current-students/ladefoged-scholarship-official-page/"> Ladefoged Scholarships</a> co-awarded to me and Jennifer.
 <br>
 <br>
 </div>
@@ -78,7 +78,7 @@ Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat
 &#8226; <b>Du, B.,</b> Pfiffner, A., Johnson, K. (2024). Visible articulatory variation as a cue to sound change: Lip rounding and lip protrusion variability in the Mandarin sibilant merger. <i>University of Pennsylvania Working Papers in Linguistics, 30.2</i> (Selected Papers from NWAV 51).
 <br>
 <br>
-&#8226; <b>Du, B.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished undergraduate thesis of political psychology. University of Hong Kong.
+&#8226; <b>Du, B.</b> (2023). <i>The backfire effect in the perception and judgement of congruent and incongruent interpretation of political propaganda.</i> Unpublished undergraduate thesis in political psychology. University of Hong Kong.
 </div>
 <br>
 
@@ -97,7 +97,7 @@ See the course archive I compiled for more information <a href="https://github.c
 ## Additional Notes
 
 <div style="text-align: justify">
-I also speak Cantonese, in which my name is spelled as Paak San Dou [pak3 sɐn21 tou2]. Prior to joining UCLA, I worked as a full-time research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, and at the Psychology Department in University of Manitoba - Winnipeg before completing my exchange study at UC Berkeley. Aside from phonetics, I also enjoy applying data analytics and machine learning techniques to linguistic research. 
+I also speak Cantonese, in which my name is spelled as Paak San Dou [pak3 sɐn21 tou2]. Prior to joining UCLA, I worked as a full-time research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, and at the Psychology Department at University of Manitoba - Winnipeg before completing my study abroad at UC Berkeley. Aside from phonetics, I also enjoy applying data analytics and machine learning techniques to linguistic research. 
 </div>
 <br>
 <p></p>
