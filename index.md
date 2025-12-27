@@ -19,7 +19,7 @@ Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Lingu
 ## Recent News
 
 <div style="text-align: justify">
-Collaborating with <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> and Jae-Eun Jennifer Shin, I will be on a fieldwork trip this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in coda voicing, and the resulting perceptual differences. This trip is sponsored by the <a href="https://linguistics.ucla.edu/graduate/current-students/ladefoged-scholarship-official-page/"> Ladefoged Scholarships</a> co-awarded to me and Jennifer.
+I will be on a fieldwork trip led by <a href="https://sites.google.com/view/jlsiah/home">Jian-Leat Siah</a> this winter to Tawau, Malaysia, to investigate the endangered languages of Kalabakan Murut and Serudung Murut, their unique repair strategies in coda voicing, and the resulting perceptual differences. This trip is sponsored by the <a href="https://linguistics.ucla.edu/graduate/current-students/ladefoged-scholarship-official-page/"> Ladefoged Scholarships</a> co-awarded to me and Jennifer.
 <br>
 <br>
 </div>
