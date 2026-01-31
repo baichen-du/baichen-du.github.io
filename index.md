@@ -80,18 +80,16 @@ Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Lingu
 
 **As Teaching Assistant**
 <div style="text-align: justify">
-&#8226; POLI3148: Data Science in Politics and Public Administration (2024 Fall, Dr. Haohan Chen)
+&#8226; POLI3148: Data Science in Politics and Public Administration (HKU, 2024 Fall, Dr. Haohan Chen)
 <br> 
-See the course archive I compiled for more information <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
-<br>
-&#8226; POLI3148: Data Science in Politics and Public Administration (2026 Spring, Dr. Haohan Chen)
+See the course archive I compiled for more details <a href="https://github.com/haohanchen/dasppa-24f-hku" target="_blank">here</a>.
 </div>
 <br>
 
 ## Additional Notes
 
 <div style="text-align: justify">
-I also speak Cantonese, in which my name is spelled as Paak San Dou [pak3 sɐn21 tou2]. Prior to joining UCLA, I worked as a full-time research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, and at the Psychology Department at University of Manitoba - Winnipeg before completing my study abroad at UC Berkeley. Aside from phonetics, I also enjoy applying data analytics and machine learning techniques to linguistic research. 
+My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joining UCLA, I worked as a full-time research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, and at the Psychology Department at University of Manitoba - Winnipeg before completing my study abroad at UC Berkeley. I also enjoy applying data analytics and machine learning techniques to linguistic research. 
 </div>
 <br>
 <p></p>
