@@ -11,7 +11,7 @@ div {
 }
 </style>
 <div style="text-align: justify">
-Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Linguistics</a>, specializing in Phonetics. I study how the structure and fine details of language are produced, perceived, acquired, and changed with various methodologies, such as experimentation, computation, and fieldwork. For example, I study the role of phonology when interacting with perceptibility, articulation, lexical access and variation, and how this role may inform our understanding of grammatical theory. Currently, I am a member of the <a href = "https://phonetics.linguistics.ucla.edu/">UCLA Phonetics Lab </a>. I worked on a number of projects on these topics with <a href = "https://linguistics.ucla.edu/person/megha-sundara/"> Megha Sundara</a>, <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao</a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
+Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Linguistics</a>, specializing in Phonetics. I study how the structure and fine details of language are produced, perceived, acquired, and changed with various methodologies, such as experimentation, computation, and fieldwork. For example, I study the role of phonology when interacting with perceptibility, articulation, lexical access and variation, and how this role may inform our understanding of grammatical theory. Currently, I am a member of the <a href = "https://phonetics.linguistics.ucla.edu/">UCLA Phonetics Lab </a>. My thesis is advised by <a href = "https://linguistics.ucla.edu/person/megha-sundara/"> Megha Sundara</a> and <a href = "https://kiezuraw.com/"> Kie Zuraw</a> (co-chair). I worked on a number of projects with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao</a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
 <br>
 </div>
 <p></p>
@@ -19,6 +19,8 @@ Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Lingu
 ## Current Projects
 
 <div style="text-align: justify">
+&#8226; Variation in phonological rule application: The role of production planning.
+<br>
 &#8226; Sensitivity to tonal information in Mandarin lexical access: Evidence from corpus study, eye tracking, production, and perception
 <br>
 &#8226; Articulatory gestures and sound changes in the context of Mandarin Chinese
@@ -33,7 +35,7 @@ Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Lingu
 **Journal Articles**
 
 <div style="text-align: justify">
-&#8226; <b>Du, B.,</b> Pfiffner, A. (Re-submitted). The co-variance of acoustic cues and lip gestures in the production of the Mandarin sibilant contrast
+&#8226; <b>Du, B.,</b> Pfiffner, A. The co-variance of acoustic cues and lip gestures in the production of the Mandarin sibilant contrast. Resubmitted to <i>Journal of Laborotary Phonology</i>.
 <br>
 <br>
 &#8226; Yu, X., Van Hoey, T., Tan, F., <b>Du, B.</b> & Do, Y. (2024). Tracking phonological regularities: exploring the influence of learning mode and regularity locus in adult phonological learning. <i>Linguistics Vanguard</i>. <a href="https://doi.org/10.1515/lingvan-2023-0050" target="_blank">doi.org/10.1515/lingvan-2023-0050</a>
