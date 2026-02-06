@@ -12,7 +12,7 @@
     };
 
     // 移动端不显示
-    if (window.innerWidth < 768) return;
+    //if (window.innerWidth < 768) return;
 
     // 注入书法字体
 // 注入適用於繁體的書法字體 (Zhi Mang Xing)
