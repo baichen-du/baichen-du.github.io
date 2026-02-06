@@ -103,63 +103,34 @@ Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at t
 
 
 <script src="/couplet.js"></script>
-<div id="couplet-toggle-container" style="position: fixed; bottom: 20px; right: 20px; z-index: 99999;">
-    <button id="couplet-btn" title="切換學術模式">
-        <span id="btn-icon">🧧</span>
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 99999;">
+    <button id="mode-btn" style="width:50px; height:50px; border-radius:50%; border:2px solid #b33939; background:#fff; cursor:pointer; font-size:20px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+        <span id="mode-icon">📄</span>
     </button>
 </div>
 
-<style id="couplet-mask-style">
-  
-</style>
-
-<style>
-
-    #couplet-btn {
-        width: 50px; height: 50px; border-radius: 50%;
-        border: 2px solid #b33939; background-color: #fff;
-        cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-        transition: all 0.3s ease; display: flex;
-        align-items: center; justify-content: center; font-size: 20px;
-        filter: grayscale(100%); opacity: 0.6;
-    }
-    #couplet-btn.active {
-        filter: grayscale(0%); opacity: 1; transform: rotate(15deg);
-        border-color: #ff5252;
-    }
-</style>
-
 <script>
 (function() {
-    const btn = document.getElementById('couplet-btn');
-    const maskStyle = document.getElementById('couplet-mask-style');
-    const STORAGE_KEY = 'couplet_enabled';
-    
-    const SELECTORS = '[class*="cyber-couplet"]';
-
-    let isEnabled = localStorage.getItem(STORAGE_KEY) === 'true' || false;
-
-    function applyState(state) {
-        if (state) {
-
-            maskStyle.innerHTML = "";
-            btn.classList.add('active');
-            console.log("🧧 春聯模式：已開啟 (p < 0.05)");
-        } else {
-
-            maskStyle.innerHTML = `${SELECTORS} { display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important; }`;
-            btn.classList.remove('active');
-            console.log("📄 學術模式：已屏蔽干擾數據");
-        }
-    }
+    const btn = document.getElementById('mode-btn');
+    const icon = document.getElementById('mode-icon');
+    // 狀態定義：0=off, 1=cn, 2=en
+    let state = 0;
+    const states = [
+        { mode: 'off', icon: '📄', title: '學術模式 (關閉)' },
+        { mode: 'cn', icon: '🧧', title: '中文春聯' },
+        { mode: 'en', icon: '🔤', title: 'English Couplet' }
+    ];
 
     btn.addEventListener('click', () => {
-        isEnabled = !isEnabled;
-        localStorage.setItem(STORAGE_KEY, isEnabled);
-        applyState(isEnabled);
+        state = (state + 1) % 3;
+        const current = states[state];
+        icon.innerText = current.icon;
+        btn.title = current.title;
+        
+        // 調用 couplet.js 暴露的接口
+        if (typeof window.setCyberCouplet === 'function') {
+            window.setCyberCouplet(current.mode);
+        }
     });
-
-
-    applyState(isEnabled);
 })();
 </script>
