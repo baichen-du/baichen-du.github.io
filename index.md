@@ -116,9 +116,9 @@ Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at t
     // 狀態定義：0=off, 1=cn, 2=en
     let state = 0;
     const states = [
-        { mode: 'off', icon: '📄', title: '學術模式 (關閉)' },
-        { mode: 'cn', icon: '🧧', title: '中文春聯' },
-        { mode: 'en', icon: '🔤', title: 'English Couplet' }
+        { mode: 'off', icon: '🧧', title: '學術模式 (關閉)' },
+        { mode: 'cn', icon: '🔤', title: '中文春聯' },
+        { mode: 'en', icon: '📄', title: 'English Couplet' }
     ];
 
     btn.addEventListener('click', () => {
