@@ -16,8 +16,8 @@
             right: "Formants tracked, noise reduced, the spectrogram is so sweet.",
             top: "[+SUCCESS]",
             fontSizeSide: "18px",
-            fontSizeTop: "24px",
-            widthSide: "110px",
+            fontSizeTop: "22px",
+            widthSide: "115px",
             // 英文：使用高品質無襯線體，確保長單詞的識別度
             // Helvetica Neue 是 Mac 系統中最易讀的字體之一
             font: "'Helvetica Neue', 'Helvetica', 'Arial', sans-serif"
