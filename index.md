@@ -105,7 +105,7 @@ Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at t
 <script src="/couplet.js"></script>
 <div style="position: fixed; bottom: 20px; right: 20px; z-index: 99999;">
     <button id="mode-btn" style="width:50px; height:50px; border-radius:50%; border:2px solid #b33939; background:#fff; cursor:pointer; font-size:20px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <span id="mode-icon">📄</span>
+        <span id="mode-icon">🧧</span>
     </button>
 </div>
 
