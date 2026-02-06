@@ -96,7 +96,7 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
 ## For Fun
 
 <div style="text-align: justify">
-Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at the bottom right to show the special Fai Chun.
+Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at the bottom right to show and switch the special Fai Chun.
 </div>
 <br>
 <p></p>
@@ -116,9 +116,9 @@ Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at t
     // 狀態定義：0=off, 1=cn, 2=en
     let state = 0;
     const states = [
-        { mode: 'off', icon: '🧧', title: '學術模式 (關閉)' },
-        { mode: 'cn', icon: '🔤', title: '中文春聯' },
-        { mode: 'en', icon: '📄', title: 'English Couplet' }
+        { mode: 'off', icon: '🧧', title: '中文春聯' },
+        { mode: 'cn', icon: '🔤', title: 'English Couplet' },
+        { mode: 'en', icon: '📄', title: '學術模式 (關閉)' }
     ];
 
     btn.addEventListener('click', () => {
