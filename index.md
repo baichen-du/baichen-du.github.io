@@ -96,96 +96,66 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
 
 
 <script src="/couplet.js"></script>
-
-<div id="couplet-toggle-container" style="position: fixed; bottom: 20px; right: 20px; z-index: 9999;">
-    <button id="couplet-btn" title="切換學術春聯模式">
+<div id="couplet-toggle-container" style="position: fixed; bottom: 20px; right: 20px; z-index: 99999;">
+    <button id="couplet-btn" title="切換學術模式">
         <span id="btn-icon">🧧</span>
     </button>
 </div>
 
+<style id="couplet-mask-style">
+    /* 這個樣式表默認是空的，我們會用 JS 動態修改它 */
+</style>
+
 <style>
-    /* 按鈕樣式：極簡圓形，懸浮效果 */
+    /* 按鈕樣式保持不變 */
     #couplet-btn {
-        width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        border: 2px solid #b33939; /* 語言學紅 */
-        background-color: #fff;
-        cursor: pointer;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 20px;
-        filter: grayscale(100%); /* 默認關閉狀態為灰色 */
-        opacity: 0.6;
+        width: 50px; height: 50px; border-radius: 50%;
+        border: 2px solid #b33939; background-color: #fff;
+        cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        transition: all 0.3s ease; display: flex;
+        align-items: center; justify-content: center; font-size: 20px;
+        filter: grayscale(100%); opacity: 0.6;
     }
-
     #couplet-btn.active {
-        filter: grayscale(0%);
-        opacity: 1;
-        transform: rotate(15deg);
-        background-color: #fff5f5;
+        filter: grayscale(0%); opacity: 1; transform: rotate(15deg);
         border-color: #ff5252;
-    }
-
-    #couplet-btn:hover {
-        transform: scale(1.1);
-        box-shadow: 0 6px 16px rgba(0,0,0,0.2);
-    }
-
-    /* 隱藏對聯的關鍵 CSS */
-    .couplet-hidden {
-        display: none !important;
     }
 </style>
 
 <script>
 (function() {
     const btn = document.getElementById('couplet-btn');
+    const maskStyle = document.getElementById('couplet-mask-style');
     const STORAGE_KEY = 'couplet_enabled';
     
-    // 1. 初始化狀態：默認關閉 (false)
+    // !!! 關鍵：請將這裡的選擇器改為你 couplet.js 實際生成的東西 !!!
+    // 如果不確定，可以多寫幾個，用逗號隔開
+// 使用屬性選擇器一次性捕捉所有以 cyber-couplet 開頭的類名
+    const SELECTORS = '[class*="cyber-couplet"]';
+  
     let isEnabled = localStorage.getItem(STORAGE_KEY) === 'true' || false;
 
-    // 2. 切換函數
-    function updateCouplets(state) {
-        // 假設你的 couplet.js 生成的容器類名是 .couplet-container
-        // 如果你的類名不同，請修改這裡
-        const containers = document.querySelectorAll('.couplet-container, .couplet-wrapper');
-        
-        containers.forEach(el => {
-            if (state) {
-                el.classList.remove('couplet-hidden');
-            } else {
-                el.classList.add('couplet-hidden');
-            }
-        });
-
-        // 更新按鈕視覺狀態
+    function applyState(state) {
         if (state) {
+            // 開啟：清空遮罩樣式
+            maskStyle.innerHTML = "";
             btn.classList.add('active');
+            console.log("🧧 春聯模式：已開啟 (p < 0.05)");
         } else {
+            // 關閉：注入強制隱藏的 CSS
+            maskStyle.innerHTML = `${SELECTORS} { display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important; }`;
             btn.classList.remove('active');
+            console.log("📄 學術模式：已屏蔽干擾數據");
         }
     }
 
-    // 3. 綁定點擊事件
     btn.addEventListener('click', () => {
         isEnabled = !isEnabled;
         localStorage.setItem(STORAGE_KEY, isEnabled);
-        updateCouplets(isEnabled);
+        applyState(isEnabled);
     });
 
-    // 4. 監聽 DOM 變化（防止 couplet.js 延遲加載/動態生成時失效）
-    const observer = new MutationObserver(() => {
-        updateCouplets(isEnabled);
-    });
-
-    observer.observe(document.body, { childList: true, subtree: true });
-
-    // 初始運行一次
-    updateCouplets(isEnabled);
+    // 初始加載
+    applyState(isEnabled);
 })();
 </script>
