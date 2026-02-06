@@ -3,9 +3,9 @@
     const userConfig = window.cyberCoupletConfig || {};
     
     const config = {
-        leftText: "钻研变调规则 扭尽六壬 理论无甩漏",
-        rightText: "分析语音信号 睇通三关 数据好靓声",
-        topText: "结果显著", 
+        leftText: "Features checked Agree valued derivation is complete",
+        rightText: "Formants tracked noise reduced the spectrogram is sweet",
+        topText: "[+SUCCESS]", 
         color: userConfig.color || "#1a1a1a", // 墨黑色
         bg: userConfig.bg || "#cf2121",    // 中国红
         font: userConfig.font || "'Zhi Mang Xing', 'Ma Shan Zheng', 'Kaiti', 'STKaiti', '华文楷体', serif"
