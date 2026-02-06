@@ -11,15 +11,10 @@
         font: userConfig.font || "'Zhi Mang Xing', 'Ma Shan Zheng', 'Kaiti', 'STKaiti', '华文楷体', serif"
     };
 
-    // 移动端不显示
-    //if (window.innerWidth < 768) return;
-
-    // 注入书法字体
-// 注入適用於繁體的書法字體 (Zhi Mang Xing)
+    // 注入適用於繁體的書法字體 (Zhi Mang Xing)
     if (!document.getElementById('font-zhi-mang-xing')) {
         const link = document.createElement('link');
         link.id = 'font-zhi-mang-xing';
-        // 更換為 Zhi Mang Xing，對繁體支持較好
         link.href = "https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap";
         link.rel = "stylesheet";
         document.head.appendChild(link);
@@ -71,28 +66,6 @@
             box-shadow: 0 4px 10px rgba(0,0,0,0.3);
             z-index: 2147483647;
         }
-
-        .couplet-close {
-            position: absolute;
-            top: -12px;
-            right: -12px;
-            width: 24px;
-            height: 24px;
-            background: #1a1a1a;
-            color: #fff;
-            font-size: 14px;
-            line-height: 24px;
-            text-align: center;
-            border-radius: 50%;
-            cursor: pointer;
-            writing-mode: horizontal-tb;
-            display: none;
-            border: 1px solid #fff;
-        }
-        .cyber-couplet:hover .couplet-close,
-        .cyber-couplet-top:hover .couplet-close {
-            display: block;
-        }
     `;
     document.head.appendChild(style);
 
@@ -101,16 +74,6 @@
         const div = document.createElement('div');
         div.className = className;
         div.innerHTML = text;
-
-        const closeBtn = document.createElement('div');
-        closeBtn.className = 'couplet-close';
-        closeBtn.innerText = '×';
-        closeBtn.onclick = (e) => {
-            e.stopPropagation();
-            document.querySelectorAll('.cyber-couplet, .cyber-couplet-top').forEach(el => el.remove());
-        };
-        
-        div.appendChild(closeBtn);
         document.body.appendChild(div);
     }
 
