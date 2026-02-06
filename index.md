@@ -96,9 +96,9 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
 
 <script>
   window.cyberCoupletConfig = {
-    leftText: "鑽研變調規則 扭盡六壬 理論無甩漏",
-    rightText: "分析噪音信號 睇通三關 數據好靚聲",
-    topText: "準時畢業"
+    leftText: "上联写在这里",
+    rightText: "下联写在这里",
+    topText: "横批"
   };
 </script>
-<script src="https://raw.githubusercontent.com/baichen-du/Public/refs/heads/main/couplet.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/dongfg/cyber-couplet@master/couplet.js"></script>
