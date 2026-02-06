@@ -19,14 +19,13 @@
         color: userConfig.color || "#1a1a1a",
         bg: userConfig.bg || "#cf2121",
         // 增加 Courier New 作為英文等寬字體備選
-        font: userConfig.font || "'Zhi Mang Xing', 'Courier New', 'Kaiti TC', serif"
+        font: userConfig.font || "'Ma Shang Zheng','Zhi Mang Xing', 'Courier New', 'Kaiti TC', serif"
     };
 
-    // 2. 注入 Google 書法字體
-    if (!document.getElementById('font-zhi-mang-xing')) {
+    if (!document.getElementById('font-ma-shan-zheng')) {
         const link = document.createElement('link');
-        link.id = 'font-zhi-mang-xing';
-        link.href = "https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap";
+        link.id = 'font-ma-shan-zheng';
+        link.href = "https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap";
         link.rel = "stylesheet";
         document.head.appendChild(link);
     }
