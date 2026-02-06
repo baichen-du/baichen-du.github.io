@@ -19,73 +19,56 @@
         link.rel = "stylesheet";
         document.head.appendChild(link);
     }
-    // 3. 注入優化後的樣式
+
+    // 注入样式
     const style = document.createElement('style');
     style.innerHTML = `
         .cyber-couplet {
             position: fixed;
             top: 50%;
             transform: translateY(-50%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
             width: 50px;
-            /* 穩定性優化：由文字內容撐開高度，防止背景包不住文字 */
-            height: max-content;
-            max-height: 85vh;
             padding: 25px 12px;
             background-color: ${config.bg};
-            /* 金墨效果：金色文字搭配深色立體陰影 */
-            color: ${config.goldColor};
-            text-shadow: 1px 1px 0px rgba(0,0,0,0.2), 
-                         0 0 8px rgba(255, 215, 0, 0.5);
-            
+            color: ${config.color};
             font-family: ${config.font};
-            font-size: 30px; /* 固定字號，確保不隨窗口亂變 */
+            font-size: 36px;
             font-weight: 500;
             text-align: center;
-            line-height: 1.2;
+            line-height: 1.1;
             border: 1px solid #991a1a;
-            box-shadow: 2px 2px 10px rgba(0,0,0,0.4), 
-                        inset 0 0 15px rgba(0,0,0,0.2);
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.4), inset 0 0 15px rgba(0,0,0,0.1);
             z-index: 2147483647;
             writing-mode: vertical-rl;
             user-select: none;
-            transition: transform 0.3s ease;
-            overflow: hidden;
+            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
         }
-
         .cyber-couplet:hover {
-            transform: translateY(-50%) scale(1.03);
+            transform: translateY(-50%) scale(1.05);
         }
-
-        .cyber-couplet-left { left: 30px; }
-        .cyber-couplet-right { right: 30px; }
+        .cyber-couplet-left { left: 40px; }
+        .cyber-couplet-right { right: 40px; }
         
         .cyber-couplet-top {
             position: fixed;
-            top: 30px;
+            top: 25px;
             left: 50%;
             transform: translateX(-50%);
             padding: 10px 45px;
             background-color: ${config.bg};
-            color: ${config.goldColor};
-            text-shadow: 1px 1px 0px rgba(0,0,0,0.2), 
-                         0 0 8px rgba(255, 215, 0, 0.5);
+            color: ${config.color};
             font-family: ${config.font};
-            font-size: 28px;
+            font-size: 32px;
             border: 1px solid #991a1a;
             box-shadow: 0 4px 10px rgba(0,0,0,0.3);
             z-index: 2147483647;
-            white-space: nowrap;
-        }
-
-
-        @media (max-height: 700px) {
-            .cyber-couplet { font-size: 24px; width: 42px; }
-            .cyber-couplet-top { font-size: 22px; top: 15px; }
         }
     `;
     document.head.appendChild(style);
 
-    // 4. 創建對聯元素（移除關閉按鈕邏輯）
     function createCouplet(text, className) {
         if(!text) return;
         const div = document.createElement('div');
@@ -95,18 +78,16 @@
     }
 
     const init = () => {
-        // 防止重複加載
         if (document.querySelector('.cyber-couplet')) return;
-        
         createCouplet(config.leftText, 'cyber-couplet cyber-couplet-left');
         createCouplet(config.rightText, 'cyber-couplet cyber-couplet-right');
         createCouplet(config.topText, 'cyber-couplet-top');
     };
 
-    // 5. 確保在 DOM 加載後運行
     if (document.readyState === 'complete' || document.readyState === 'interactive') {
         init();
     } else {
         window.addEventListener('DOMContentLoaded', init);
     }
 })();
+
