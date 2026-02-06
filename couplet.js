@@ -3,22 +3,24 @@
     const userConfig = window.cyberCoupletConfig || {};
     
     const config = {
-        leftText: "鑽研變調規則 扭盡六壬 理論無甩漏",
+        leftText: "钻研鑽研變調規則 扭盡六壬 理論無甩漏",
         rightText: "分析語音信號 睇通三關 數據好靓聲",
-        topText: "結果顯著", 
+        topText: "[+Success]", 
         color: userConfig.color || "#1a1a1a", // 墨黑色
         bg: userConfig.bg || "#cf2121",    // 中国红
-        font: userConfig.font || "'Ma Shan Zheng', 'Kaiti', 'STKaiti', '华文楷体', serif"
+        font: userConfig.font || "'Ma Shan Zheng', 'Kaiti', 'STKaiti', '华文楷体', serif, 'Zhi Mang Xing'"
     };
 
     // 移动端不显示
     if (window.innerWidth < 768) return;
 
     // 注入书法字体
-    if (!document.getElementById('font-ma-shan-zheng')) {
+// 注入適用於繁體的書法字體 (Zhi Mang Xing)
+    if (!document.getElementById('font-zhi-mang-xing')) {
         const link = document.createElement('link');
-        link.id = 'font-ma-shan-zheng';
-        link.href = "https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap";
+        link.id = 'font-zhi-mang-xing';
+        // 更換為 Zhi Mang Xing，對繁體支持較好
+        link.href = "https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap";
         link.rel = "stylesheet";
         document.head.appendChild(link);
     }
