@@ -1,19 +1,17 @@
 (function() {
-    // 1. 基礎配置
+    // 读取配置：优先使用用户定义的 window.cyberCoupletConfig，否则使用默认值
     const userConfig = window.cyberCoupletConfig || {};
     
     const config = {
-        leftText: "鑽研變調規則 扭盡六壬 理論無甩漏",
-        rightText: "分析語音信號 睇通三關 數據好靚聲",
-        topText: "結果顯著", 
-        // 使用具備金屬感的金色
-        goldColor: "#ffd700", 
-        bg: "#cf2121", 
-        // 優先使用繁體書法字體
-        font: "'Zhi Mang Xing', 'Kaiti TC', 'STKaiti', 'Microsoft JhengHei', serif"
+        leftText: "钻研变调规则 扭尽六壬 理论无甩漏",
+        rightText: "分析语音信号 睇通三关 数据好靓声",
+        topText: "结果显著", 
+        color: userConfig.color || "#1a1a1a", // 墨黑色
+        bg: userConfig.bg || "#cf2121",    // 中国红
+        font: userConfig.font || "'Zhi Mang Xing', 'Ma Shan Zheng', 'Kaiti', 'STKaiti', '华文楷体', serif"
     };
 
-    // 2. 注入 Google 書法字體 (Zhi Mang Xing)
+    // 注入適用於繁體的書法字體 (Zhi Mang Xing)
     if (!document.getElementById('font-zhi-mang-xing')) {
         const link = document.createElement('link');
         link.id = 'font-zhi-mang-xing';
@@ -21,7 +19,6 @@
         link.rel = "stylesheet";
         document.head.appendChild(link);
     }
-
     // 3. 注入優化後的樣式
     const style = document.createElement('style');
     style.innerHTML = `
