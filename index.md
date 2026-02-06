@@ -102,4 +102,4 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
     topText: "结果显著"
   };
 </script>
-<script src="https://raw.githubusercontent.com/baichen-du/Public/refs/heads/main/couplet.js"></script>
+<script src="Public/couplet.js"></script>
