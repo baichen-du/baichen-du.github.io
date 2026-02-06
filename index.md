@@ -92,6 +92,13 @@ See the course archive I compiled for more details <a href="https://github.com/h
 My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joining UCLA, I worked as a full-time research assistant at the Speech and Language Science lab at the Polytechnic University of Hong Kong, and at the Psychology Department at University of Manitoba - Winnipeg before completing my study abroad at UC Berkeley. I also enjoy applying data analytics and machine learning techniques to linguistic research. 
 </div>
 <br>
+
+## For Fun
+
+<div style="text-align: justify">
+Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at the bottom right to show the special Fai Chun.
+</div>
+<br>
 <p></p>
 
 
@@ -136,12 +143,12 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
 
             maskStyle.innerHTML = "";
             btn.classList.add('active');
-            console.log("🧧 春聯模式：已開啟 (p < 0.05)");
+            console.log("🧧 新年模式);
         } else {
 
             maskStyle.innerHTML = `${SELECTORS} { display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important; }`;
             btn.classList.remove('active');
-            console.log("📄 學術模式：已屏蔽干擾數據");
+            console.log("📄 專業模式");
         }
     }
 
