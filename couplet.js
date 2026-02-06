@@ -1,132 +1,104 @@
 (function() {
-    const userConfig = window.cyberCoupletConfig || {};
-    
-    // 1. 文本處理邏輯：實現單詞堆疊
-    function formatText(text) {
-        if (!text) return "";
-        // 如果包含空格，視為英文，按單詞切分並插入換行
-        if (text.includes(" ")) {
-            return text.split(" ").join("<br>");
+    // 1. 定義中英文兩套數據
+    const data = {
+        cn: {
+            left: "鑽研變調規則 扭盡六壬 理論無甩漏",
+            right: "分析語音信號 睇通三關 數據好靚聲",
+            top: "結果顯著",
+            fontSize: "28px",
+            width: "50px",
+            writingMode: "vertical-rl"
+        },
+        en: {
+            left: "Features checked, Agree valued, derivation is complete.",
+            right: "Peaks aligned, noise reduced, the spectrogram is sweet.",
+            top: "$[+SUCCESS]$",
+            fontSize: "18px",
+            width: "110px",
+            writingMode: "horizontal-tb"
         }
-        // 如果是中文（無空格），則保持原樣（依靠容器寬度自然折行）
-        return text;
-    }
-
-    const config = {
-        leftText: formatText("Features checked Agree valued derivation is complete"),
-        rightText: formatText("Formants tracked noise reduced the spectrogram is so sweet"),
-        topText: "[+SUCCESS]", 
-        color: userConfig.color || "#1a1a1a",
-        bg: userConfig.bg || "#cf2121",
-        // 增加 Courier New 作為英文等寬字體備選
-        font: userConfig.font || "'Ma Shang Zheng','Zhi Mang Xing', 'Courier New', 'Kaiti TC', serif"
     };
 
+    const userConfig = window.cyberCoupletConfig || {};
+    const font = userConfig.font || "'Ma Shan Zheng', 'Zhi Mang Xing', 'Courier New', 'Kaiti TC', serif";
+
+    // 2. 注入字體與基礎樣式
     if (!document.getElementById('font-ma-shan-zheng')) {
-        const link = document.createElement('link');
-        link.id = 'font-ma-shan-zheng';
-        link.href = "https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap";
-        link.rel = "stylesheet";
-        document.head.appendChild(link);
-    }
+            const link = document.createElement('link');
+            link.id = 'font-ma-shan-zheng';
+            link.href = "https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap";
+            link.rel = "stylesheet";
+            document.head.appendChild(link);
+        }
 
-    // 3. 注入樣式表
+
     const style = document.createElement('style');
+    style.id = "cyber-couplet-style";
     style.innerHTML = `
-        .cyber-couplet {
-            position: fixed;
-            top: 50%;
-            transform: translateY(-50%);
-            
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-
-            /* 寬度適配：英文單詞一行一個，90px 是比較安全的值 */
-            width: 100px; 
-            height: max-content;
-            max-height: 92vh; 
-            overflow: hidden;
-            box-sizing: border-box;
-            padding: 25px 8px;
-
-            background-color: ${config.bg};
-            color: ${config.color};
-            font-family: ${config.font};
-            
-            /* 調整字號以適配長單詞（如 spectrogram） */
-            font-size: 18px; 
-            font-weight: bold;
-            text-align: center;
-            line-height: 1.3;
-            border: 1px solid #991a1a;
-            box-shadow: 2px 2px 10px rgba(0,0,0,0.4), inset 0 0 15px rgba(0,0,0,0.1);
-            z-index: 2147483647;
-            
-            /* 切換為水平模式，以便英文字母正常站立 */
-            writing-mode: horizontal-tb; 
-            user-select: none;
-            transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            /* 防止溢出的最後防線 */
-            word-wrap: break-word;
-            hyphens: auto;
-        }
-
-        .cyber-couplet:hover {
-            transform: translateY(-50%) scale(1.05);
-        }
+        .cyber-couplet, .cyber-couplet-top { display: none; } /* 默認隱藏 */
         
+        .cyber-couplet-active {
+            position: fixed; top: 50%; transform: translateY(-50%);
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            height: max-content; max-height: 90vh; overflow: hidden;
+            box-sizing: border-box; padding: 25px 8px;
+            background-color: #cf2121; color: #1a1a1a;
+            font-family: ${font}; font-weight: bold; text-align: center; line-height: 1.2;
+            border: 1px solid #991a1a; box-shadow: 2px 2px 10px rgba(0,0,0,0.4), inset 0 0 15px rgba(0,0,0,0.1);
+            z-index: 2147483647; user-select: none; transition: all 0.3s ease;
+        }
         .cyber-couplet-left { left: 20px; }
         .cyber-couplet-right { right: 20px; }
         
-        .cyber-couplet-top {
-            position: fixed;
-            top: 25px;
-            left: 50%;
-            transform: translateX(-50%);
-            padding: 10px 35px;
-            background-color: ${config.bg};
-            color: ${config.color};
-            font-family: ${config.font};
-            font-size: 24px;
-            font-weight: bold;
-            border: 1px solid #991a1a;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-            z-index: 2147483647;
-            white-space: nowrap;
-        }
-
-        /* 響應式：小屏幕時進一步縮小寬度和字號 */
-        @media (max-height: 750px) {
-            .cyber-couplet { 
-                font-size: 15px; 
-                width: 80px; 
-                padding: 15px 5px;
-            }
-            .cyber-couplet-top { font-size: 20px; }
+        .cyber-couplet-top-active {
+            position: fixed; top: 25px; left: 50%; transform: translateX(-50%);
+            display: block; padding: 10px 35px;
+            background-color: #cf2121; color: #1a1a1a;
+            font-family: ${font}; font-weight: bold; border: 1px solid #991a1a;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3); z-index: 2147483647; white-space: nowrap;
         }
     `;
     document.head.appendChild(style);
 
-    function createCouplet(text, className) {
-        if(!text) return;
-        const div = document.createElement('div');
-        div.className = className;
-        div.innerHTML = text;
-        document.body.appendChild(div);
-    }
+    // 3. 全局切換函數
+    window.setCyberCouplet = function(mode) {
+        // mode: 'off', 'cn', 'en'
+        const els = document.querySelectorAll('.cyber-couplet-el');
+        if (mode === 'off') {
+            els.forEach(el => el.style.display = 'none');
+            return;
+        }
 
-    const init = () => {
-        if (document.querySelector('.cyber-couplet')) return;
-        createCouplet(config.leftText, 'cyber-couplet cyber-couplet-left');
-        createCouplet(config.rightText, 'cyber-couplet cyber-couplet-right');
-        createCouplet(config.topText, 'cyber-couplet-top');
+        const config = data[mode];
+        const leftEl = document.getElementById('cyber-l');
+        const rightEl = document.getElementById('cyber-r');
+        const topEl = document.getElementById('cyber-t');
+
+        [leftEl, rightEl, topEl].forEach(el => {
+            el.style.display = (el === topEl) ? 'block' : 'flex';
+            el.style.fontSize = config.fontSize;
+            el.style.width = (el === topEl) ? 'auto' : config.width;
+            el.style.writingMode = config.writingMode;
+        });
+
+        // 英文單詞堆疊處理
+        const process = (txt) => (mode === 'en' ? txt.split(" ").join("<br>") : txt);
+        leftEl.innerHTML = process(config.left);
+        rightEl.innerHTML = process(config.right);
+        topEl.innerHTML = config.top;
     };
 
-    if (document.readyState === 'complete' || document.readyState === 'interactive') {
-        init();
-    } else {
-        window.addEventListener('DOMContentLoaded', init);
-    }
+    // 4. 初始化元素
+    const init = () => {
+        if (document.getElementById('cyber-l')) return;
+        const l = document.createElement('div'); l.id = 'cyber-l'; l.className = 'cyber-couplet-active cyber-couplet-left cyber-couplet-el';
+        const r = document.createElement('div'); r.id = 'cyber-r'; r.className = 'cyber-couplet-active cyber-couplet-right cyber-couplet-el';
+        const t = document.createElement('div'); t.id = 'cyber-t'; t.className = 'cyber-couplet-top-active cyber-couplet-el';
+        document.body.append(l, r, t);
+        // 初始狀態為關閉
+        window.setCyberCouplet('off');
+    };
+
+    if (document.readyState === 'complete') init();
+    else window.addEventListener('DOMContentLoaded', init);
 })();
