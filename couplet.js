@@ -10,7 +10,7 @@
         },
         en: {
             left: "Features checked, Agree valued, derivation is complete.",
-            right: "Peaks aligned, noise reduced, the spectrogram is sweet.",
+            right: "Formants tracked, noise reduced, the spectrogram is so sweet.",
             top: "[+SUCCESS]",
             fontSizeSide: "18px",
             fontSizeTop: "24px",
