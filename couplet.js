@@ -13,9 +13,9 @@
     }
 
     const config = {
-        leftText: formatText("Features checked, Agree valued, derivation is complete."),
-        rightText: formatText("Peaks aligned, noise reduced, the spectrogram is sweet."),
-        topText: "$[+SUCCESS]$演算法", 
+        leftText: formatText("Features checked Agree valued derivation is complete"),
+        rightText: formatText("Formants tracked noise reduced the spectrogram is so sweet"),
+        topText: "[+SUCCESS]", 
         color: userConfig.color || "#1a1a1a",
         bg: userConfig.bg || "#cf2121",
         // 增加 Courier New 作為英文等寬字體備選
