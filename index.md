@@ -103,11 +103,9 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
 </div>
 
 <style id="couplet-mask-style">
-    /* 這個樣式表默認是空的，我們會用 JS 動態修改它 */
 </style>
 
 <style>
-    /* 按鈕樣式保持不變 */
     #couplet-btn {
         width: 50px; height: 50px; border-radius: 50%;
         border: 2px solid #b33939; background-color: #fff;
@@ -128,21 +126,19 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
     const maskStyle = document.getElementById('couplet-mask-style');
     const STORAGE_KEY = 'couplet_enabled';
     
-    // !!! 關鍵：請將這裡的選擇器改為你 couplet.js 實際生成的東西 !!!
-    // 如果不確定，可以多寫幾個，用逗號隔開
-// 使用屬性選擇器一次性捕捉所有以 cyber-couplet 開頭的類名
+    // 使用屬性選擇器一次性捕捉所有以 cyber-couplet 開頭的類名
     const SELECTORS = '[class*="cyber-couplet"]';
   
     let isEnabled = localStorage.getItem(STORAGE_KEY) === 'true' || false;
 
     function applyState(state) {
         if (state) {
-            // 開啟：清空遮罩樣式
+
             maskStyle.innerHTML = "";
             btn.classList.add('active');
             console.log("🧧 春聯模式：已開啟 (p < 0.05)");
         } else {
-            // 關閉：注入強制隱藏的 CSS
+
             maskStyle.innerHTML = `${SELECTORS} { display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important; }`;
             btn.classList.remove('active');
             console.log("📄 學術模式：已屏蔽干擾數據");
@@ -155,7 +151,7 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
         applyState(isEnabled);
     });
 
-    // 初始加載
+
     applyState(isEnabled);
 })();
 </script>
