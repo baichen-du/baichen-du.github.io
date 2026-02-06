@@ -110,9 +110,11 @@ Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at t
 </div>
 
 <style id="couplet-mask-style">
+  
 </style>
 
 <style>
+
     #couplet-btn {
         width: 50px; height: 50px; border-radius: 50%;
         border: 2px solid #b33939; background-color: #fff;
@@ -133,9 +135,8 @@ Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at t
     const maskStyle = document.getElementById('couplet-mask-style');
     const STORAGE_KEY = 'couplet_enabled';
     
-    // 使用屬性選擇器一次性捕捉所有以 cyber-couplet 開頭的類名
     const SELECTORS = '[class*="cyber-couplet"]';
-  
+
     let isEnabled = localStorage.getItem(STORAGE_KEY) === 'true' || false;
 
     function applyState(state) {
@@ -143,12 +144,12 @@ Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at t
 
             maskStyle.innerHTML = "";
             btn.classList.add('active');
-            console.log("🧧 新年模式);
+            console.log("🧧 春聯模式：已開啟 (p < 0.05)");
         } else {
 
             maskStyle.innerHTML = `${SELECTORS} { display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important; }`;
             btn.classList.remove('active');
-            console.log("📄 專業模式");
+            console.log("📄 學術模式：已屏蔽干擾數據");
         }
     }
 
