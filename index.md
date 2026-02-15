@@ -12,7 +12,7 @@ div {
 </style>
 <div style="text-align: justify">
 Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Linguistics</a>, specializing in Phonetics and Phonology. I study how the structure and fine details of language are produced, perceived, and changed with various methodologies, such as experimentation, computation, and fieldwork. In particular, I am interested in the relation between phonology and the phonetic and psycholinguistic reality of articulation, planning, and processing. My thesis is advised by <a href = "https://linguistics.ucla.edu/person/megha-sundara/"> Megha Sundara</a> and <a href = "https://kiezuraw.com/"> Kie Zuraw</a> (co-chair). For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
-  
+<br>
 Previously, I worked on a number of projects with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao</a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. 
 <br>
 </div>
