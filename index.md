@@ -95,3 +95,10 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
 <br>
 
 
+## Public folder
+<div style="text-align: justify">
+Accessing public folder for my presentation purposes <a href="https://github.com/baichen-du/public" target="_blank">here</a>.
+</div>
+<br>
+
+
