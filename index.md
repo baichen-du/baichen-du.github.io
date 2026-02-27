@@ -94,44 +94,4 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
 </div>
 <br>
 
-## For Fun
 
-<div style="text-align: justify">
-Happy Lunar New Year 2026, the Year of Horse! Click on the floating Lai See at the bottom right to show and switch the special Fai Chun.
-</div>
-<br>
-<p></p>
-
-
-<script src="/couplet.js"></script>
-<div style="position: fixed; bottom: 20px; right: 20px; z-index: 99999;">
-    <button id="mode-btn" style="width:50px; height:50px; border-radius:50%; border:2px solid #b33939; background:#fff; cursor:pointer; font-size:20px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-        <span id="mode-icon">🧧</span>
-    </button>
-</div>
-
-<script>
-(function() {
-    const btn = document.getElementById('mode-btn');
-    const icon = document.getElementById('mode-icon');
-    // 狀態定義：0=off, 1=cn, 2=en
-    let state = 0;
-    const states = [
-        { mode: 'off', icon: '🧧', title: '中文春聯' },
-        { mode: 'cn', icon: '🔤', title: 'English Couplet' },
-        { mode: 'en', icon: '📄', title: '學術模式 (關閉)' }
-    ];
-
-    btn.addEventListener('click', () => {
-        state = (state + 1) % 3;
-        const current = states[state];
-        icon.innerText = current.icon;
-        btn.title = current.title;
-        
-        // 調用 couplet.js 暴露的接口
-        if (typeof window.setCyberCouplet === 'function') {
-            window.setCyberCouplet(current.mode);
-        }
-    });
-})();
-</script>
