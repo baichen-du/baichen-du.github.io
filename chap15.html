@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prosodic Typology: The Phonology of Intonation and Phrasing</title>
+    <style>
+        /* Core Layout Variables */
+        :root {
+            --oxford-blue: #002147;
+            --sidebar-bg: #f2f2f2;
+            --border-color: #cccccc;
+            --accent-red: #990000;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.5;
+            color: #333;
+        }
+
+        /* Fixed-Width Container like the OUP Original */
+        .wrapper {
+            max-width: 1000px;
+            margin: 0 auto;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        header {
+            background-color: var(--oxford-blue);
+            color: white;
+            padding: 25px 30px;
+            border-bottom: 5px solid #f2a900; /* Gold accent */
+        }
+
+        header h1 { margin: 0; font-size: 22px; font-style: italic; }
+        header p { margin: 5px 0 0 0; font-size: 14px; opacity: 0.8; }
+
+        /* Sidebar and Main Layout */
+        .main-body {
+            display: flex;
+            min-height: 600px;
+        }
+
+        nav#sidebar {
+            width: 240px;
+            background-color: var(--sidebar-bg);
+            border-right: 1px solid var(--border-color);
+            padding: 20px 0;
+        }
+
+        nav#sidebar ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        nav#sidebar li a {
+            display: block;
+            padding: 10px 20px;
+            text-decoration: none;
+            color: var(--oxford-blue);
+            font-size: 13px;
+            font-weight: bold;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        nav#sidebar li a:hover {
+            background-color: #ddd;
+        }
+
+        nav#sidebar li a.active {
+            background-color: white;
+            border-right: 3px solid var(--accent-red);
+        }
+
+        main#content {
+            flex: 1;
+            padding: 30px;
+            background-color: white;
+        }
+
+        /* Typography & Phonetic Data Styling */
+        h2 { color: var(--oxford-blue); border-bottom: 1px solid #eee; padding-bottom: 10px; font-size: 18px; }
+        .figure-box { margin: 25px 0; padding: 15px; border: 1px solid #f0f0f0; background: #fafafa; }
+        .figure-label { font-weight: bold; display: block; margin-bottom: 10px; color: var(--accent-red); }
+        .description { font-size: 13px; color: #555; }
+        
+        audio { width: 100%; margin-top: 10px; }
+
+        footer {
+            background: #333;
+            color: #ccc;
+            text-align: center;
+            padding: 15px;
+            font-size: 11px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="wrapper">
+    <header>
+        <h1>Prosodic Typology: The Phonology of Intonation and Phrasing</h1>
+        <p>Edited by Sun-Ah Jun</p>
+    </header>
+
+    <div class="main-body">
+        <nav id="sidebar">
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="chap1.html">CHAPTER 1: Introduction</a></li>
+                <li><a href="chap15.html" class="active">CHAPTER 15: Osaka Japanese</a></li>
+                <li><a href="audio.html">ALL AUDIO SAMPLES</a></li>
+            </ul>
+        </nav>
+
+        <main id="content">
+            <h2>Chapter 15: Osaka Dialect Analysis</h2>
+            
+            <p>Supplementary materials for the analysis of phrasing and intonation in the Osaka dialect.</p>
+
+            <div class="figure-box">
+                <span class="figure-label">Figure 15.19b: Osaka Dialect Pitch Track</span>
+                <p class="description">
+                    <em>Apple set: Nagano-GEN grandmother-ABL apple receive-PAST.</em><br>
+                    Female speaker born in 1968. High-beginning accented word analysis.
+                </p>
+                <div style="background:#eee; height:200px; display:flex; align-items:center; justify-content:center; border:1px dashed #ccc;">
+                    [Insert Praat Screenshot Here: image008.jpg]
+                </div>
+                
+                <audio controls>
+                    <source src="audio/fig15_19b.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+            
+            <p><a href="#top" style="font-size: 11px; color: #999; text-decoration: none;">&uarr; Return to top</a></p>
+        </main>
+    </div>
+
+    <footer>
+        &copy; 2026 Oxford University Press. Data curated for research purposes.
+    </footer>
+</div>
+
+</body>
+</html>
