@@ -126,6 +126,23 @@
             font-size: 11px;
         }
 
+        .skip-link {
+            position: absolute;
+            left: 12px;
+            top: -48px;
+            background: #ffffff;
+            color: var(--oxford-blue);
+            border: 2px solid var(--oxford-blue);
+            padding: 8px 12px;
+            font-weight: bold;
+            text-decoration: none;
+            z-index: 200;
+        }
+
+        .skip-link:focus {
+            top: 12px;
+        }
+
         #sidebar-toggle {
             display: none;
             align-items: center;
@@ -188,6 +205,7 @@
     </style>
 </head>
 <body id="top">
+<a class="skip-link" href="#content">Skip to main content</a>
 <div class="wrapper">
     <header>
         <h1>Prosodic Typology III: The Phonology of Intonation and Phrasing</h1>
@@ -195,12 +213,12 @@
     </header>
 
     <div class="main-body">
-        <button id="sidebar-toggle" aria-expanded="false" aria-controls="sidebar">
-            <span class="hamburger-icon"><span></span><span></span><span></span></span>
+        <button id="sidebar-toggle" aria-expanded="false" aria-controls="sidebar" aria-label="Toggle table of contents">
+            <span class="hamburger-icon" aria-hidden="true"><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></span>
             Contents
         </button>
 
-        <nav id="sidebar">
+        <nav id="sidebar" aria-label="Table of contents">
             <ul>
                 <li><a href="#top" data-action="show-all" class="sidebar-show-all">Show all chapters</a></li>
                 <li><a href="#chap-introduction" data-target="chap-introduction" class="chapter-link">Introduction</a></li>
@@ -222,7 +240,7 @@
             </ul>
         </nav>
 
-        <main id="content">
+        <main id="content" tabindex="-1">
     <section id="chap-introduction" class="chapter-section" data-chapter="chap-introduction">
         <h2>Introduction</h2>
         <p class="chapter-intro">This section introduces the goals, structure, and usage of the Prosodic Typology III supplementary materials.</p>
@@ -245,8 +263,8 @@
         <div class="figure-box">
             <span class="figure-label">Figure 1.1: Prosodic Pattern Example</span>
             <p class="description">
-                <em>Chapter 1 demo sentence 1: boundary tones, focus prominence, and phrase edge alignment.</em><br>
-                Speaker sample 1 for Chapter 1; identical audio used for demo consistency.
+                <em>Chapter 1 demo sentence 1: ɴɲ t͡ʃ t͡s ɫ ɬ, focus prominence, and phrase edge alignment.</em><br>
+                ɴɲ t͡ʃ t͡s ɫ ɬ; identical audio used for demo consistency.
             </p>
             <audio controls>
                 <source src="audio/demo.mp3">
@@ -1644,28 +1662,32 @@
         });
     }
 
-    function syncHash(hashValue) {
+    function syncHash(hashValue, mode = "push") {
         const next = hashValue ? `#${hashValue}` : "#top";
         if (window.location.hash !== next) {
-            history.replaceState(null, "", next);
+            if (mode === "replace") {
+                history.replaceState(null, "", next);
+            } else {
+                history.pushState(null, "", next);
+            }
         }
     }
 
-    function showAllChapters(shouldUpdateHash = true) {
+    function showAllChapters(shouldUpdateHash = true, historyMode = "push") {
         sections.forEach((section) => section.classList.remove("hidden"));
         setActiveLink("");
         if (shouldUpdateHash) {
-            syncHash("top");
+            syncHash("top", historyMode);
         }
     }
 
-    function showOnlyChapter(anchorId, shouldUpdateHash = true) {
+    function showOnlyChapter(anchorId, shouldUpdateHash = true, historyMode = "push") {
         sections.forEach((section) => {
             section.classList.toggle("hidden", section.id !== anchorId);
         });
         setActiveLink(anchorId);
         if (shouldUpdateHash) {
-            syncHash(anchorId);
+            syncHash(anchorId, historyMode);
         }
     }
 
@@ -1708,7 +1730,15 @@
     function applyHashState() {
         const hash = window.location.hash.replace("#", "").trim();
         if (!hash || hash === "top") {
-            showAllChapters(false);
+            const defaultSectionId = "chap-introduction";
+            const defaultExists = sections.some((section) => section.id === defaultSectionId);
+            if (defaultExists) {
+                showOnlyChapter(defaultSectionId, false);
+            } else if (sections.length > 0) {
+                showOnlyChapter(sections[0].id, false);
+            } else {
+                showAllChapters(false);
+            }
             return;
         }
         const sectionExists = sections.some((section) => section.id === hash);
