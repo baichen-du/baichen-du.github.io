@@ -126,23 +126,6 @@
             font-size: 11px;
         }
 
-        .skip-link {
-            position: absolute;
-            left: 12px;
-            top: -48px;
-            background: #ffffff;
-            color: var(--oxford-blue);
-            border: 2px solid var(--oxford-blue);
-            padding: 8px 12px;
-            font-weight: bold;
-            text-decoration: none;
-            z-index: 200;
-        }
-
-        .skip-link:focus {
-            top: 12px;
-        }
-
         #sidebar-toggle {
             display: none;
             align-items: center;
@@ -186,17 +169,22 @@
             nav#sidebar {
                 position: fixed;
                 top: 0;
+                bottom: 0;
                 left: 0;
                 width: 260px;
-                height: 100%;
+                height: 100dvh;
+                max-height: 100dvh;
+                box-sizing: border-box;
                 z-index: 100;
                 transform: translateX(-100%);
                 transition: transform 0.25s ease;
                 overflow-y: auto;
-                max-height: none;
+                -webkit-overflow-scrolling: touch;
+                overscroll-behavior: contain;
                 border-right: 1px solid var(--border-color);
                 border-bottom: 0;
                 padding-top: 50px;
+                padding-bottom: calc(16px + env(safe-area-inset-bottom));
             }
             nav#sidebar.open { transform: translateX(0); }
             #sidebar-toggle { display: flex; }
@@ -205,7 +193,6 @@
     </style>
 </head>
 <body id="top">
-<a class="skip-link" href="#content">Skip to main content</a>
 <div class="wrapper">
     <header>
         <h1>Prosodic Typology III: The Phonology of Intonation and Phrasing</h1>
@@ -213,12 +200,12 @@
     </header>
 
     <div class="main-body">
-        <button id="sidebar-toggle" aria-expanded="false" aria-controls="sidebar" aria-label="Toggle table of contents">
-            <span class="hamburger-icon" aria-hidden="true"><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></span>
+        <button id="sidebar-toggle" aria-expanded="false" aria-controls="sidebar">
+            <span class="hamburger-icon"><span></span><span></span><span></span></span>
             Contents
         </button>
 
-        <nav id="sidebar" aria-label="Table of contents">
+        <nav id="sidebar">
             <ul>
                 <li><a href="#top" data-action="show-all" class="sidebar-show-all">Show all chapters</a></li>
                 <li><a href="#chap-introduction" data-target="chap-introduction" class="chapter-link">Introduction</a></li>
@@ -240,7 +227,7 @@
             </ul>
         </nav>
 
-        <main id="content" tabindex="-1">
+        <main id="content">
     <section id="chap-introduction" class="chapter-section" data-chapter="chap-introduction">
         <h2>Introduction</h2>
         <p class="chapter-intro">This section introduces the goals, structure, and usage of the Prosodic Typology III supplementary materials.</p>
@@ -1662,32 +1649,28 @@
         });
     }
 
-    function syncHash(hashValue, mode = "push") {
+    function syncHash(hashValue) {
         const next = hashValue ? `#${hashValue}` : "#top";
         if (window.location.hash !== next) {
-            if (mode === "replace") {
-                history.replaceState(null, "", next);
-            } else {
-                history.pushState(null, "", next);
-            }
+            history.replaceState(null, "", next);
         }
     }
 
-    function showAllChapters(shouldUpdateHash = true, historyMode = "push") {
+    function showAllChapters(shouldUpdateHash = true) {
         sections.forEach((section) => section.classList.remove("hidden"));
         setActiveLink("");
         if (shouldUpdateHash) {
-            syncHash("top", historyMode);
+            syncHash("top");
         }
     }
 
-    function showOnlyChapter(anchorId, shouldUpdateHash = true, historyMode = "push") {
+    function showOnlyChapter(anchorId, shouldUpdateHash = true) {
         sections.forEach((section) => {
             section.classList.toggle("hidden", section.id !== anchorId);
         });
         setActiveLink(anchorId);
         if (shouldUpdateHash) {
-            syncHash(anchorId, historyMode);
+            syncHash(anchorId);
         }
     }
 
