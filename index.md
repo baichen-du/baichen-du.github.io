@@ -14,7 +14,7 @@ div {
 Hello! I am a PhD student at <a href="https://linguistics.ucla.edu/"> UCLA Linguistics</a>, specializing in Phonetics and Phonology. I study how the structure and fine details of language are produced, perceived, and changed with various methodologies, such as experimentation, computation, and fieldwork. In particular, I am interested in the relation between phonology and the phonetic and psycholinguistic reality of articulation, planning, and processing. For more details, see my <a href="https://baichen-du.github.io/assets/files/cv/main.pdf">CV</a>.
 <br>
 <br>
-Previously, I worked on a number of projects with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao</a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. 
+My MA Thesis (i.e., qualifying paper), advised by Kie Zuraw, investigates how the timing of the retrieval of lexical entries and associated phonological units affects phonological variation, specifically external sandhi, during speech planning. Previously, I worked on a number of projects with <a href = "https://research.polyu.edu.hk/en/persons/yao-yao"> Yao Yao</a>, <a href="https://linguistics.berkeley.edu/~kjohnson/"> Keith Johnson</a>, <a href="https://www.alexandra-pfiffner.com/"> Alexandra Pfiffner</a>, and <a href="https://Jhavenhill.com"> Jonathan Havenhill</a>. 
 <br>
 </div>
 <p></p>
@@ -100,5 +100,4 @@ My name is spelled as Paak San Dou [pak3 sɐn21 tou2] in Cantonese. Prior to joi
 Access the public folder for my presentation purposes <a href="https://github.com/baichen-du/public" target="_blank">here</a>.
 </div>
 <br>
-
 
